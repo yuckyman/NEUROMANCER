@@ -1,0 +1,58 @@
+graph TD
+    A[nimslo 4-image capture] --> B{primary project focus?}
+    
+    B -->|classical CV| C[path A: stereo vision]
+    B -->|deep learning| D[path B: neural networks]
+    B -->|motion analysis| E[path C: optical flow]
+    B -->|3D reconstruction| F[path D: structure from motion]
+    
+    C --> C1[feature detection<br/>SIFT/ORB/harris]
+    C --> C2[stereo rectification<br/>epipolar geometry]
+    C --> C3[disparity mapping<br/>block matching/SGBM]
+    C --> C4[depth reconstruction]
+    
+    D --> D1[CNN depth estimation<br/>stereo pairs → depth]
+    D --> D2[attention mechanisms<br/>correspondence learning]
+    D --> D3[view synthesis<br/>novel viewpoint generation]
+    D --> D4[comparative analysis<br/>vs classical methods]
+    
+    E --> E1[dense optical flow<br/>lucas-kanade/farneback]
+    E --> E2[motion field analysis<br/>flow vectors]
+    E --> E3[temporal interpolation<br/>smooth animations]
+    E --> E4[motion-based depth<br/>flow magnitude analysis]
+    
+    F --> F1[camera calibration<br/>intrinsic parameters]
+    F --> F2[pose estimation<br/>relative positions]
+    F --> F3[sparse reconstruction<br/>feature triangulation]
+    F --> F4[dense reconstruction<br/>multi-view stereo]
+    
+    C4 --> G[integration phase]
+    D4 --> G
+    E4 --> G
+    F4 --> G
+    
+    G --> H[output generation]
+    H --> H1[traditional wigglegram]
+    H --> H2[depth-aware visualization]
+    H --> H3[interactive 3D model]
+    H --> H4[comparative analysis]
+    
+    H1 --> I[evaluation metrics]
+    H2 --> I
+    H3 --> I
+    H4 --> I
+    
+    I --> I1[alignment accuracy]
+    I --> I2[depth map quality]
+    I --> I3[processing speed]
+    I --> I4[visual appeal]
+    
+    style A fill:#e1f5fe
+    style B fill:#f3e5f5
+    style C fill:#e8f5e8
+    style D fill:#fff3e0
+    style E fill:#fce4ec
+    style F fill:#f1f8e9
+    style G fill:#f5f5f5
+    style H fill:#e3f2fd
+    style I fill:#fff8e1

@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0_admin/01_inbox/dev_log.md",
+                "file": "0_admin/03_ingest/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "dev_log"
+              "title": "README"
+            }
+          },
+          {
+            "id": "7e3690bb135237c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0_admin/03_ingest/processed/machinevision_project_analysis_summary.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "machinevision_project_analysis_summary"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0_admin/01_inbox/dev_log.md",
+                "file": "0_admin/03_ingest/processed/machinevision_project_analysis_summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for dev_log"
+              "title": "Backlinks for machinevision_project_analysis_summary"
             }
           },
           {
@@ -128,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0_admin/01_inbox/dev_log.md",
+                "file": "0_admin/03_ingest/processed/machinevision_project_analysis_summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from dev_log"
+              "title": "Outgoing links from machinevision_project_analysis_summary"
             }
           },
           {
@@ -157,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0_admin/01_inbox/dev_log.md",
+                "file": "0_admin/03_ingest/processed/machinevision_project_analysis_summary.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of dev_log"
+              "title": "Outline of machinevision_project_analysis_summary"
             }
           }
         ]
@@ -184,31 +198,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "b3088ae2299607b9",
+  "active": "3bc053380646568f",
   "lastOpenFiles": [
-    "0_admin/01_inbox/dev_log.md.tmp.34299.1757715972119",
-    "3_projects/repos/3_projects/repos/immich-swiper",
-    "3_projects/repos/3_projects/repos/discord-buddy/test_bot.py",
-    "3_projects/repos/3_projects/repos/discord-buddy/systemd/habit-bot.service",
-    "3_projects/repos/3_projects/repos/discord-buddy/systemd",
-    "3_projects/repos/3_projects/repos/discord-buddy/sync/templates/habit.md.j2",
-    "3_projects/repos/3_projects/repos/discord-buddy/sync/templates",
-    "3_projects/repos/3_projects/repos/discord-buddy/sync",
-    "3_projects/repos/3_projects/repos/discord-buddy/startup_habits.py",
-    "3_projects/repos/3_projects/repos/discord-buddy/setup.sh",
-    "3_projects/repos/3_projects/repos/discord-buddy/services/user_service.py",
-    "3_projects/repos/3_projects/repos/discord-buddy/quick-start.md",
-    "3_projects/repos/3_projects/repos/discord-buddy/discord-server-config.md",
-    "3_projects/repos/3_projects/repos/discord-buddy/README.md",
-    "3_projects/repos/3_projects/repos/discord-buddy/DATA_FLOWS.md",
-    "3_projects/repos/3_projects/repos/discord-buddy/ARCHITECTURE.md",
-    "3_projects/repos/3_projects/repos/discord-buddy/API.md",
-    "3_projects/repos/3_projects/repos/neural-nets_project/README.md",
-    "3_projects/repos/bucket/notes_2025-09-06.md",
-    "3_projects/repos/bucket/RSS_USAGE.md",
-    "3_projects/repos/bucket/README.md",
-    "3_projects/repos/bucket/README-github-actions.md",
+    "0_admin/03_ingest/processed/machinevision_project/nimslo_study_plan.md",
+    "0_admin/03_ingest/processed/machinevision_project_analysis_summary.md",
+    "0_admin/03_ingest/manual_sync_guide.md",
+    "0_admin/03_ingest/processed/machinevision_project/nimslo_study_plan.pdf",
+    "0_admin/03_ingest/processed/machinevision_project/nimslo_decision_tree.mermaid",
+    "0_admin/03_ingest/processed/machinevision_project/httpeye-pix.comalignment-of-stereo-images.md",
+    "0_admin/03_ingest/processed/machinevision_project/Richard_Hartley_Andrew_Zisserman-Multiple_View_Geometry_in_Computer_Vision-EN.pdf",
+    "0_admin/03_ingest/processed/machinevision_project",
+    "3_projects/31_coding/nimslo_project_insights.md",
+    "3_projects/31_coding",
+    "0_admin/03_ingest/README.md",
+    "2_domain_amplification/24_computing/computer_vision_analysis.md",
+    "2_domain_amplification/24_computing",
+    "2_domain_amplification",
+    "0_admin/03_ingest/machinevision_project/nimslo_study_plan.pdf",
+    "0_admin/03_ingest/machinevision_project/nimslo_study_plan.md",
+    "0_admin/03_ingest/machinevision_project/nimslo_decision_tree.mermaid",
+    "0_admin/03_ingest/machinevision_project/httpeye-pix.comalignment-of-stereo-images.md",
+    "0_admin/03_ingest/machinevision_project/Richard_Hartley_Andrew_Zisserman-Multiple_View_Geometry_in_Computer_Vision-EN.pdf",
+    "0_admin/03_ingest/project copy/nimslo_study_plan.md",
+    "0_admin/03_ingest/project copy/httpeye-pix.comalignment-of-stereo-images.md",
     "0_admin/01_inbox/dev_log.md",
-    "README.md"
+    "ingest/README.md",
+    "0_admin/00_index/00.01_structure_guide.md",
+    "README.md",
+    "3_projects/repos/bucket/RSS_USAGE.md",
+    "0_admin/00_index/00.00_neuromancer.md",
+    "0_admin/02_templates/dev_log_entry.md",
+    "0_admin/02_templates/project_note.md",
+    "0_admin/02_templates/basic_note.md",
+    "0_admin/00_index/00.02_property_schema.md",
+    "3_projects/repos/discord-buddy/quick-start.md",
+    "3_projects/repos/discord-buddy/discord-server-config.md",
+    "3_projects/repos/discord-buddy/README.md",
+    "3_projects/repos/discord-buddy/DATA_FLOWS.md",
+    "3_projects/repos/discord-buddy/ARCHITECTURE.md"
   ]
 }

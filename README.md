@@ -1,3 +1,13 @@
+---
+type: readme
+category: admin
+created: 2025-09-12
+modified: 2025-09-12
+tags: [neuromancer, overview, gibson, second-brain]
+status: active
+audience: public
+---
+
 # neuromancer
 ## the thinking half of your digital brain
 
