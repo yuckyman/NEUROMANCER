@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0_admin/03_ingest/processed/machinevision_project_analysis_summary.md",
+                "file": "0_admin/01_inbox/sync_report_20250912_191203.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "machinevision_project_analysis_summary"
+              "title": "sync_report_20250912_191203"
             }
           }
         ],
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0_admin/03_ingest/processed/machinevision_project_analysis_summary.md",
+                "file": "0_admin/01_inbox/sync_report_20250912_191203.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for machinevision_project_analysis_summary"
+              "title": "Backlinks for sync_report_20250912_191203"
             }
           },
           {
@@ -142,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0_admin/03_ingest/processed/machinevision_project_analysis_summary.md",
+                "file": "0_admin/01_inbox/sync_report_20250912_191203.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from machinevision_project_analysis_summary"
+              "title": "Outgoing links from sync_report_20250912_191203"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0_admin/03_ingest/processed/machinevision_project_analysis_summary.md",
+                "file": "0_admin/01_inbox/sync_report_20250912_191203.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of machinevision_project_analysis_summary"
+              "title": "Outline of sync_report_20250912_191203"
             }
           }
         ]
@@ -198,43 +198,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "3bc053380646568f",
+  "active": "7e3690bb135237c8",
   "lastOpenFiles": [
-    "0_admin/03_ingest/processed/machinevision_project/nimslo_study_plan.md",
-    "0_admin/03_ingest/processed/machinevision_project_analysis_summary.md",
-    "0_admin/03_ingest/manual_sync_guide.md",
-    "0_admin/03_ingest/processed/machinevision_project/nimslo_study_plan.pdf",
-    "0_admin/03_ingest/processed/machinevision_project/nimslo_decision_tree.mermaid",
-    "0_admin/03_ingest/processed/machinevision_project/httpeye-pix.comalignment-of-stereo-images.md",
-    "0_admin/03_ingest/processed/machinevision_project/Richard_Hartley_Andrew_Zisserman-Multiple_View_Geometry_in_Computer_Vision-EN.pdf",
-    "0_admin/03_ingest/processed/machinevision_project",
-    "3_projects/31_coding/nimslo_project_insights.md",
-    "3_projects/31_coding",
-    "0_admin/03_ingest/README.md",
-    "2_domain_amplification/24_computing/computer_vision_analysis.md",
-    "2_domain_amplification/24_computing",
-    "2_domain_amplification",
-    "0_admin/03_ingest/machinevision_project/nimslo_study_plan.pdf",
-    "0_admin/03_ingest/machinevision_project/nimslo_study_plan.md",
-    "0_admin/03_ingest/machinevision_project/nimslo_decision_tree.mermaid",
-    "0_admin/03_ingest/machinevision_project/httpeye-pix.comalignment-of-stereo-images.md",
-    "0_admin/03_ingest/machinevision_project/Richard_Hartley_Andrew_Zisserman-Multiple_View_Geometry_in_Computer_Vision-EN.pdf",
-    "0_admin/03_ingest/project copy/nimslo_study_plan.md",
-    "0_admin/03_ingest/project copy/httpeye-pix.comalignment-of-stereo-images.md",
+    "test_tag_matching.py",
+    "0_admin/01_inbox/neuromancer_assessment.md",
+    "0_admin/01_inbox/sync_report_20250912_191203.md",
+    "0_admin/03_ingest/automated/20250912_191203_README.md",
+    "0_admin/07_scripts/sync_agent.py.tmp.34299.1757718711460",
+    "0_admin/07_scripts/README.md",
+    "0_admin/07_scripts/sync_agent.py",
     "0_admin/01_inbox/dev_log.md",
-    "ingest/README.md",
-    "0_admin/00_index/00.01_structure_guide.md",
-    "README.md",
-    "3_projects/repos/bucket/RSS_USAGE.md",
-    "0_admin/00_index/00.00_neuromancer.md",
-    "0_admin/02_templates/dev_log_entry.md",
-    "0_admin/02_templates/project_note.md",
-    "0_admin/02_templates/basic_note.md",
-    "0_admin/00_index/00.02_property_schema.md",
-    "3_projects/repos/discord-buddy/quick-start.md",
-    "3_projects/repos/discord-buddy/discord-server-config.md",
-    "3_projects/repos/discord-buddy/README.md",
-    "3_projects/repos/discord-buddy/DATA_FLOWS.md",
-    "3_projects/repos/discord-buddy/ARCHITECTURE.md"
+    "2_domain_amplification/24_computing/computer_vision_analysis.md",
+    "3_projects/30_repos/bucket/outputs/api/rss-stats.json",
+    "3_projects/30_repos/bucket/outputs/newsletters/newsletter-2025-09-07.json",
+    "3_projects/30_repos/bucket/outputs/api/latest-newsletter.json",
+    "3_projects/30_repos/bucket/outputs/api/recent-articles.json",
+    "3_projects/30_repos/bucket/outputs/api/newsletter-2025-09-07.pdf",
+    "3_projects/30_repos/bucket/outputs/api/processing-queue.json",
+    "3_projects/30_repos/bucket/outputs/newsletters/newsletter-2025-09-06.json",
+    "3_projects/30_repos/bucket/bucket/examples/rss_example.py",
+    "3_projects/30_repos/neural-nets_project/README.md",
+    "3_projects/30_repos/bucket/README-github-actions.md",
+    "3_projects/30_repos/bucket/notes_2025-09-06.md",
+    "3_projects/30_repos/bucket/RSS_USAGE.md",
+    "3_projects/30_repos/bucket/README.md",
+    "3_projects/30_repos/discord-buddy/quick-start.md",
+    "3_projects/30_repos/discord-buddy/discord-server-config.md",
+    "3_projects/30_repos/discord-buddy/README.md",
+    "3_projects/30_repos/discord-buddy/DATA_FLOWS.md",
+    "3_projects/30_repos/discord-buddy/ARCHITECTURE.md",
+    "3_projects/30_repos/discord-buddy/API.md",
+    "3_projects/31_coding/nimslo_project_insights.md",
+    "3_projects/repos/Untitled.md",
+    "0_admin/03_ingest/processed/machinevision_project_analysis_summary.md",
+    "0_admin/03_ingest/processed/machinevision_project/nimslo_study_plan.md",
+    "0_admin/03_ingest/manual_sync_guide.md",
+    "0_admin/03_ingest/processed/machinevision_project/httpeye-pix.comalignment-of-stereo-images.md",
+    "0_admin/03_ingest/README.md",
+    "0_admin/03_ingest/machinevision_project/nimslo_study_plan.md"
   ]
 }

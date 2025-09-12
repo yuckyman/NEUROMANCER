@@ -18,7 +18,7 @@ temp/
 *.log
 
 # repos area (managed separately)
-3_projects/repos/*/
+3_projects/30_repos/*/
 
 # sensitive data
 **/secrets/

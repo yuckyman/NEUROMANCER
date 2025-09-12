@@ -139,11 +139,68 @@ successfully tested manual sync workflow with machinevision project content:
 - johnny decimal organization maintained
 - processing pipeline now ready for scaling
 
-**next steps:**
-- create automated processing scripts for future ingests
-- investigate api endpoints further for automated wintermute sync
-- explore cloned codebases to understand patterns
-- build processing templates for different content types
+### agentic enhancement roadmap (2025-09-12)
+identified 5 key agentic capabilities to evolve neuromancer into active thinking partner:
+
+**phase 1: automated sync agent (immediate)**
+- tool to pull #process tagged files from wintermute to neuromancer ingest
+- intelligent batching and priority handling
+- error recovery and conflict resolution
+- foundation for all other agentic capabilities
+
+**phase 2: pattern recognition engine**
+- cross-project connection analysis
+- knowledge gap identification
+- trend analysis across domains
+- deadline risk assessment
+
+**phase 3: proactive research assistant**
+- contextual document recommendations
+- automated literature synthesis
+- knowledge freshness tracking
+- research suggestion engine
+
+**phase 4: project orchestration intelligence**
+- dependency mapping and resource optimization
+- milestone prediction and velocity tracking
+- cross-project synergy identification
+
+**phase 5: contextual work companion**
+- real-time coding/writing assistance
+- ambient knowledge surfacing
+- intelligent progress tracking
+
+### sync agent implementation complete (2025-09-12)
+built and tested automated sync agent for #process tagged content:
+
+**agent capabilities:**
+- filesystem search for #process tagged files in wintermute
+- intelligent file copying with metadata preservation
+- comprehensive sync reporting with success/error tracking
+- designed as tool for agent/automation invocation
+- handles duplicates, errors, and edge cases gracefully
+
+**first sync successful:**
+- found and synced README.md from wintermute (19.5kb file)
+- added processing metadata to copied file
+- generated detailed sync report with next steps
+- validated complete pipeline: discover → copy → report
+
+**technical features:**
+- yaml frontmatter parsing for tag detection
+- timestamped file naming to prevent conflicts  
+- structured return data for programmatic use
+- comprehensive error handling and logging
+- removed deprecated obsidian api integration
+
+**precision improvement (2025-09-12):**
+- enhanced tag matching to only capture exactly `#process` 
+- prevents false matches with `#processing`, `#processcommand`, etc.
+- uses word boundary regex for precise tag detection
+- tested with comprehensive cases including case insensitivity
+
+**foundation established:**
+sync agent now serves as core tool enabling all future agentic capabilities. ready for integration with automated scheduling, priority handling, and content processing workflows.
 
 ---
 

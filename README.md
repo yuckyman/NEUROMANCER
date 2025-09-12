@@ -9,9 +9,9 @@ audience: public
 ---
 
 # neuromancer
-## the thinking half of your digital brain
+## the thinking half of my digital brain
 
-**neuromancer** is basically the analytical side that pairs with your **wintermute** obsidian vault. think of it like having two brain hemispheres but digital (gibson would be proud).
+**neuromancer** is basically the analytical side that pairs with my **wintermute** obsidian vault. think of it like having two brain hemispheres but digital (gibson would be proud).
 
 ## the setup
 
@@ -32,22 +32,22 @@ starting minimal with johnny decimal framework - folders grow organically as nee
   - **00_index/** - main documentation
   - **01_inbox/** - dev log and autobiographical memory
 
-*other areas will emerge naturally as we use the system*
+*other areas will emerge naturally as i use the system*
 
 ## what neuromancer does
 
 while wintermute stores, neuromancer thinks:
-- spots patterns across all your knowledge
-- generates insights you might miss
+- spots patterns across all my knowledge
+- generates insights i might miss
 - automates the boring organizational tasks
-- helps you actually process information instead of just hoarding it
+- helps me actually process information instead of just hoarding it
 - enables proper ai-assisted research and creativity
 
 ## getting started
 
 1. check out `0_admin/00_index/` for the system docs
-2. read the structure guide so you know how to organize
-3. start filling in areas that matter to your work
+2. read the structure guide to understand organization
+3. start filling in areas that matter to my work
 4. set up workflows between wintermute and neuromancer
 
 ---
