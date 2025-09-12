@@ -1,0 +1,27 @@
+# neuromancer gitignore
+
+# system files
+.DS_Store
+*.swp
+*.swo
+*~
+
+# temp files
+.tmp/
+temp/
+
+# env files
+.env
+.env.local
+
+# logs
+*.log
+
+# repos area (managed separately)
+3_projects/repos/*/
+
+# sensitive data
+**/secrets/
+**/keys/
+**/*_key*
+**/*_token*
