@@ -202,6 +202,34 @@ built and tested automated sync agent for #process tagged content:
 **foundation established:**
 sync agent now serves as core tool enabling all future agentic capabilities. ready for integration with automated scheduling, priority handling, and content processing workflows.
 
+### deep research dive: tiny os & mesh networks (2025-09-15)
+explored connection between ultra-minimal operating systems and decentralized communication:
+
+**collapse computing research:**
+- researched CollapseOS and DuskOS as civilization-resilient computing platforms
+- identified philosophical alignment: radical simplification for technological resilience
+- created comprehensive analysis: `1_ideas/tiny-os-research/collapse-dusk-os-research.md`
+- connected concepts to existing NEUROMANCER projects via wikilinks
+
+**mesh networking ecosystem mapping:**
+- investigated Meshtastic LoRa mesh protocol (40k+ active nodes globally)
+- explored lightweight web servers: Mongoose, Ioto, OpenBalena
+- catalogued FOSS projects: LibreMesh, Briar, ServalMesh, BitChat, Disaster.radio
+- analyzed technical convergence opportunities
+
+**key insight synthesis:**
+- tiny OSes + mesh networks = complete infrastructure independence
+- both movements prioritize understanding over convenience
+- potential for mesh-distributed computing with ultra-minimal OS nodes
+- connects to permacomputing & digital sustainability movements
+- created ecosystem analysis: `1_ideas/tiny-os-research/mesh-networks-ecosystem.md`
+
+**philosophical connections:**
+- reinforces NEUROMANCER pattern-finding mission
+- identifies technological counter-narrative to centralization
+- demonstrates how different technical paths converge on same philosophical destination
+- aligns with community-controlled, resilient digital infrastructure vision
+
 ---
 
 *this log captures our shared memory as we build this system together*
