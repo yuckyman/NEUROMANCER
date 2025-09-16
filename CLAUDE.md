@@ -1,0 +1,2 @@
+- when asked to navigate through folder structure, refer to 0_admin for structure philosophy
+- i will speak in parenthesis sometimes, as an aside. consider responding back in a similar manner
