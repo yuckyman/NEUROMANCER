@@ -233,3 +233,93 @@ explored connection between ultra-minimal operating systems and decentralized co
 ---
 
 *this log captures our shared memory as we build this system together*
+
+### 2025-09-16 - gutterball whiteboard shipped (realtime + storage)
+
+- implemented tldraw whiteboard under site `/whiteboard/`
+- fixed React import + bundling by building a dedicated Vite IIFE bundle
+- auth (username: gutterball, password: dev2025) with local persistence
+- added realtime collaboration via `@tldraw/sync` using Cloudflare Worker
+- provisioned Worker with Durable Objects (rooms) + R2 bucket `gutterball-whiteboard`
+- configured `wrangler.toml` (ALLOW_ORIGIN = prod domain) and deployed
+- frontend switched from `useSyncDemo` → `useSync` (WS endpoint + asset store)
+- image uploads wired through Worker `/api/uploads/:id` into R2 (CORS-safe)
+- UI polish: theme-consistent green accents, login light/dark toggle, hidden global toggle
+- header UX: auto-hide unless cursor is in the top 2% of screen; cache-busting on assets
+- stability fixes: `process` polyfill, memoized sync/assetStore to avoid render loop
+
+status: live at production; incognito collab cursors confirmed; uploads working
+
+### tldraw extension research (2025-09-16)
+
+analyzed gutterball whiteboard architecture for ai/connectome integration:
+
+**current foundation (excellent):**
+- real-time sync via cloudflare worker + durable objects
+- persistent r2 storage with asset pipeline
+- extensible shapoutil system for custom tools
+- yjs awareness protocol for collaborative features
+- authentication + cors properly configured
+
+**ai integration pathways identified:**
+- custom ai-assistant shapes via existing shaputil architecture
+- real-time ai participants through yjs awareness (virtual collaborators)
+- voice/text command interface for programmatic shape generation
+- cloudflare worker can proxy ai model api calls
+
+**connectome bridge opportunities:**
+- johnny decimal → whiteboard data pipeline (markdown to shapes)
+- bidirectional sync: whiteboard sessions export to neuromancer
+- live visualization of wintermute graph data as interactive shapes
+- existing hugo content system provides perfect data source
+
+**key insight: architecture perfectly positioned for enhancement**
+- editor api enables programmatic canvas manipulation
+- real-time collaboration foundation supports ai npcs
+- durable objects can maintain ai state alongside user sessions
+- r2 storage can cache ai-generated content and connectome data
+
+next: prototype custom ai-assistant shape tool as proof of concept
+
+### 2025-09-16 - tldraw extension research: ai integration & connectome pathways
+
+comprehensive research into tldraw's plugin/extension system for custom AI functionality:
+
+**plugin/extension architecture discovered:**
+- ShapeUtil classes for custom shapes with lifecycle methods (getDefaultProps, component, indicator, onResize)
+- BaseBoxShapeTool for custom tool behavior and interactions
+- UI overrides system for toolbar/panel customization via TLUiOverrides
+- complete UI replacement possible through hideUi prop + custom React components
+
+**programmatic interaction capabilities:**
+- Editor API provides full canvas control: createShapes, updateShape, select, zoomToFit
+- comprehensive shape manipulation with real-time updates
+- event handler system: registerBeforeCreateHandler, registerAfterCreateHandler
+- snapshot API for save/load: getSnapshot, loadSnapshot with JSON serialization
+
+**ai integration patterns identified:**
+- NPC implementation via Yjs awareness protocol for AI participants
+- real-time shape interception for AI enhancement
+- collaborative AI commands through editor event system
+- programmatic cursor control for AI assistants
+
+**connectome integration pathways:**
+- snapshot API enables full data export/import with external systems
+- meta properties on shapes for application-specific metadata storage
+- real-time sync through store.listen() for bi-directional data flow
+- live data visualization through shape updates triggered by external streams
+
+**custom ui component system:**
+- track() wrapper for reactive components using useEditor() hook
+- keyboard shortcut handling and tool state management
+- custom panels for AI interaction and connectome data display
+- component override system: Toolbar, StylePanel, ContextMenu, CollaboratorCursor
+
+**research output:**
+- detailed analysis: `2_domain_amplification/24_computing/tldraw_extension_research.md`
+- identified immediate implementation options: AI shape tool, connectome panel, drawing commands
+- advanced patterns: context-aware AI, collaborative NPCs, predictive drawing, semantic recognition
+- integration strategy: real-time sync, live data shapes, export pipeline, import workflows
+
+**technical foundation established:**
+ready to implement custom AI tools, external data connectivity, and enhanced collaboration features on existing gutterball whiteboard infrastructure

@@ -4,53 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "db1a92b276973a5f",
+        "id": "dd734ce5bf50780f",
         "type": "tabs",
         "children": [
           {
-            "id": "6cb3ed0d2a85cb62",
+            "id": "aa90e933186dc791",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "2_domain_amplification/25_foss/agentic_systems/local-deep-research-repos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "local-deep-research-repos"
             }
           },
           {
-            "id": "b3088ae2299607b9",
+            "id": "5cfe2a261bac3fd5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0_admin/03_ingest/README.md",
+                "file": "0_admin/01_inbox/dev_log.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "7e3690bb135237c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0_admin/01_inbox/sync_report_20250912_191203.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "sync_report_20250912_191203"
+              "title": "dev_log"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -198,43 +184,53 @@
       "bases:Create new base": false
     }
   },
-  "active": "7e3690bb135237c8",
+  "active": "5cfe2a261bac3fd5",
   "lastOpenFiles": [
-    "test_tag_matching.py",
-    "0_admin/01_inbox/neuromancer_assessment.md",
-    "0_admin/01_inbox/sync_report_20250912_191203.md",
-    "0_admin/03_ingest/automated/20250912_191203_README.md",
-    "0_admin/07_scripts/sync_agent.py.tmp.34299.1757718711460",
-    "0_admin/07_scripts/README.md",
-    "0_admin/07_scripts/sync_agent.py",
-    "0_admin/01_inbox/dev_log.md",
-    "2_domain_amplification/24_computing/computer_vision_analysis.md",
-    "3_projects/30_repos/bucket/outputs/api/rss-stats.json",
-    "3_projects/30_repos/bucket/outputs/newsletters/newsletter-2025-09-07.json",
-    "3_projects/30_repos/bucket/outputs/api/latest-newsletter.json",
-    "3_projects/30_repos/bucket/outputs/api/recent-articles.json",
-    "3_projects/30_repos/bucket/outputs/api/newsletter-2025-09-07.pdf",
-    "3_projects/30_repos/bucket/outputs/api/processing-queue.json",
-    "3_projects/30_repos/bucket/outputs/newsletters/newsletter-2025-09-06.json",
-    "3_projects/30_repos/bucket/bucket/examples/rss_example.py",
-    "3_projects/30_repos/neural-nets_project/README.md",
-    "3_projects/30_repos/bucket/README-github-actions.md",
-    "3_projects/30_repos/bucket/notes_2025-09-06.md",
-    "3_projects/30_repos/bucket/RSS_USAGE.md",
-    "3_projects/30_repos/bucket/README.md",
-    "3_projects/30_repos/discord-buddy/quick-start.md",
-    "3_projects/30_repos/discord-buddy/discord-server-config.md",
-    "3_projects/30_repos/discord-buddy/README.md",
-    "3_projects/30_repos/discord-buddy/DATA_FLOWS.md",
-    "3_projects/30_repos/discord-buddy/ARCHITECTURE.md",
-    "3_projects/30_repos/discord-buddy/API.md",
-    "3_projects/31_coding/nimslo_project_insights.md",
-    "3_projects/repos/Untitled.md",
-    "0_admin/03_ingest/processed/machinevision_project_analysis_summary.md",
-    "0_admin/03_ingest/processed/machinevision_project/nimslo_study_plan.md",
-    "0_admin/03_ingest/manual_sync_guide.md",
-    "0_admin/03_ingest/processed/machinevision_project/httpeye-pix.comalignment-of-stereo-images.md",
-    "0_admin/03_ingest/README.md",
-    "0_admin/03_ingest/machinevision_project/nimslo_study_plan.md"
+    "2_domain_amplification/24_computing/tldraw_extension_research.md",
+    "3_projects/30_repos/spillyourgutsonline-gutterball/static/js/whiteboard-dist/whiteboard.iife.js.map",
+    "3_projects/30_repos/spillyourgutsonline-gutterball/static/js/whiteboard-dist/whiteboard.iife.js",
+    "3_projects/30_repos/spillyourgutsonline-gutterball/static/js/whiteboard-dist/whiteboard.css",
+    "3_projects/30_repos/spillyourgutsonline-gutterball/public/js/whiteboard-dist/whiteboard.iife.js.map",
+    "3_projects/30_repos/spillyourgutsonline-gutterball/tldraw-sync-worker/dist/client/index.html",
+    "3_projects/30_repos/spillyourgutsonline-gutterball/tldraw-sync-worker/dist/client/assets/index-GW2S3KRp.js",
+    "3_projects/30_repos/spillyourgutsonline-gutterball/tldraw-sync-worker/dist/client/assets/index-4b0669Zy.css",
+    "3_projects/30_repos/spillyourgutsonline-gutterball/tldraw-sync-worker/dist/client/assets",
+    "3_projects/30_repos/spillyourgutsonline-gutterball/tldraw-sync-worker/dist/client/favicon.ico",
+    "3_projects/30_repos/spillyourgutsonline-gutterball/tldraw-sync-worker/dist/client",
+    "3_projects/30_repos/spillyourgutsonline-gutterball/tldraw-sync-worker/node_modules/@cloudflare/workerd-darwin-arm64/README.md",
+    "3_projects/30_repos/spillyourgutsonline-gutterball/tldraw-sync-worker/node_modules/core-js/README.md",
+    "3_projects/30_repos/spillyourgutsonline-gutterball/tldraw-sync-worker/node_modules/tldraw/src/test/commands/guide.md",
+    "3_projects/30_repos/spillyourgutsonline-gutterball/tldraw-sync-worker/node_modules/rxjs/README.md",
+    "3_projects/30_repos/spillyourgutsonline-gutterball/tldraw-sync-worker/node_modules/rxjs/CODE_OF_CONDUCT.md",
+    "3_projects/30_repos/spillyourgutsonline-gutterball/tldraw-sync-worker/node_modules/rxjs/CHANGELOG.md",
+    "3_projects/30_repos/spillyourgutsonline-gutterball/tldraw-sync-worker/node_modules/typescript/SECURITY.md",
+    "3_projects/30_repos/spillyourgutsonline-gutterball/tldraw-sync-worker/node_modules/typescript/README.md",
+    "3_projects/30_repos/spillyourgutsonline-gutterball/tldraw-sync-worker/node_modules/@img/sharp-libvips-darwin-arm64/README.md",
+    "3_projects/30_repos/spillyourgutsonline-gutterball/tldraw-sync-worker/node_modules/miniflare/README.md",
+    "3_projects/30_repos/spillyourgutsonline-gutterball/tldraw-sync-worker/node_modules/wrangler/README.md",
+    "3_projects/30_repos/spillyourgutsonline-gutterball/tldraw-sync-worker/node_modules/core-js/modules/README.md",
+    "3_projects/30_repos/spillyourgutsonline-gutterball/tldraw-sync-worker/node_modules/core-js/web/README.md",
+    "3_projects/30_repos/spillyourgutsonline-gutterball/tldraw-sync-worker/node_modules/@esbuild/darwin-arm64/README.md",
+    "3_projects/30_repos/spillyourgutsonline-gutterball/tldraw-sync-worker/node_modules/wrangler/node_modules/@esbuild/darwin-arm64/README.md",
+    "3_projects/30_repos/spillyourgutsonline-gutterball/tldraw-sync-worker/node_modules/undici/README.md",
+    "3_projects/30_repos/spillyourgutsonline-gutterball/tldraw-sync-worker/node_modules/undici/types/README.md",
+    "3_projects/30_repos/spillyourgutsonline-gutterball/tldraw-sync-worker/node_modules/react-dom/README.md",
+    "3_projects/30_repos/spillyourgutsonline-gutterball/tldraw-sync-worker/node_modules/@tiptap/core/README.md",
+    "3_projects/30_repos/spillyourgutsonline-gutterball/tldraw-sync-worker/node_modules/undici/docs/docs/best-practices/writing-tests.md",
+    "3_projects/30_repos/spillyourgutsonline-gutterball/tldraw-sync-worker/node_modules/undici/docs/docs/best-practices/proxy.md",
+    "3_projects/30_repos/spillyourgutsonline-gutterball/tldraw-sync-worker/node_modules/undici/docs/docs/best-practices/mocking-request.md",
+    "3_projects/30_repos/spillyourgutsonline-gutterball/tldraw-sync-worker/node_modules/undici/docs/docs/best-practices/client-certificate.md",
+    "3_projects/30_repos/spillyourgutsonline-gutterball/tldraw-sync-worker/node_modules/undici/docs/docs/api/api-lifecycle.md",
+    "3_projects/30_repos/spillyourgutsonline-gutterball/tldraw-sync-worker/node_modules/undici/docs/docs/api/WebSocket.md",
+    "3_projects/30_repos/spillyourgutsonline-gutterball/tldraw-sync-worker/node_modules/concurrently/docs/demo.gif",
+    "3_projects/30_repos/spillyourgutsonline-gutterball/tldraw-sync-worker/arch.png",
+    "3_projects/30_repos/spillyourgutsonline-gutterball/vitejs-vite-ahoswhus/src/assets/react.svg",
+    "3_projects/30_repos/spillyourgutsonline-gutterball/vitejs-vite-ahoswhus/public/vite.svg",
+    "3_projects/30_repos/spillyourgutsonline-gutterball/public/favicon-32x32.png",
+    "3_projects/30_repos/spillyourgutsonline-gutterball/public/images/quinn-wrasfest.JPG",
+    "3_projects/30_repos/spillyourgutsonline-gutterball/public/images/gutterball-warped.png",
+    "3_projects/30_repos/spillyourgutsonline-gutterball/public/images/film-06-2025-edit.png",
+    "3_projects/30_repos/spillyourgutsonline-gutterball/public/images/connectome-visualization.png",
+    "3_projects/30_repos/spillyourgutsonline-gutterball/public/images/aldn1.gif"
   ]
 }
