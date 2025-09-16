@@ -323,3 +323,48 @@ comprehensive research into tldraw's plugin/extension system for custom AI funct
 
 **technical foundation established:**
 ready to implement custom AI tools, external data connectivity, and enhanced collaboration features on existing gutterball whiteboard infrastructure
+
+### 2025-09-16 - automated inbox processing system
+
+**what we accomplished:**
+- created automated inbox processing system for phone shortcuts
+- moved 30_repos into 3_projects structure (following johnny decimal flow)
+- built python script that processes text files from phone → markdown with AI tagging
+- implemented cron job running every 10 minutes for continuous processing
+- A/B tested ollama models for memory-efficient processing
+
+**technical wins:**
+- script: `/home/ian/NEUROMANCER/0_admin/07_scripts/process_inbox.py`
+- processes numeric text files (phone shortcut format)
+- uses ollama qwen2.5:0.5b (397MB footprint vs previous 4GB+ models)
+- generates obsidian-compliant yaml frontmatter
+- auto-deletes processed files, creates markdown in 1_ideas
+- cron logs to: `/home/ian/NEUROMANCER/0_admin/07_scripts/inbox_processing.log`
+
+**model comparison findings:**
+- qwen2.5:0.5b: actually analyzes content, provides meaningful tags/summaries
+- smollm2:360m: just returned template responses, no content analysis
+- memory pressure was causing timeouts with larger models
+- qwen2.5:0.5b strikes perfect balance of capability vs resource usage
+
+**user preferences confirmed:**
+- prefers functional automation over manual processing
+- values system resource efficiency
+- appreciates A/B testing approach to optimization
+- likes seeing the "why" behind technical decisions
+
+**system architecture evolution:**
+```
+phone shortcuts → 01_inbox/*.txt → ollama processing → 1_ideas/*.md
+```
+
+**automation infrastructure:**
+- cron job: `*/10 * * * * /usr/bin/python3 /home/ian/NEUROMANCER/0_admin/07_scripts/process_inbox.py`
+- automatic cleanup: processed txt files deleted after markdown creation
+- error handling: fallback to default metadata if AI processing fails
+- memory optimization: 30s timeout, truncated prompts, efficient model selection
+
+**next evolution opportunities:**
+- monitor automated system performance patterns
+- develop content-based tagging intelligence from observed processing
+- potentially add cross-reference detection (connecting processed notes to existing knowledge)

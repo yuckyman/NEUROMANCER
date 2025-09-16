@@ -42,6 +42,17 @@ while wintermute stores, neuromancer thinks:
 - automates the boring organizational tasks
 - helps me actually process information instead of just hoarding it
 - enables proper ai-assisted research and creativity
+- **automated inbox processing**: phone shortcuts → AI-tagged markdown (every 10 mins)
+
+## key automation
+
+**automated inbox processing**:
+- script: `/0_admin/07_scripts/process_inbox.py`
+- processes text files from phone shortcuts every 10 minutes
+- AI analysis via ollama qwen2.5:0.5b (memory-efficient)
+- generates obsidian-compliant yaml frontmatter
+- flow: `01_inbox/*.txt` → ollama → `1_ideas/*.md`
+- external repos moved to `3_projects/30_repos/`
 
 ## getting started
 
@@ -49,6 +60,7 @@ while wintermute stores, neuromancer thinks:
 2. read the structure guide to understand organization
 3. start filling in areas that matter to my work
 4. set up workflows between wintermute and neuromancer
+5. send text files to `01_inbox/` (they'll be auto-processed)
 
 ---
 
