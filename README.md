@@ -2,7 +2,7 @@
 type: readme
 category: admin
 created: 2025-09-12
-modified: 2025-09-12
+modified: 2025-09-18
 tags: [neuromancer, overview, gibson, second-brain]
 status: active
 audience: public
