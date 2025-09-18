@@ -1,12 +1,5 @@
 {
   "feeds": [
-    "https://github.blog/feed/",
-    "https://opencode.ai/feed.xml",
-    "https://simonwillison.net/atom/everything/",
-    "https://www.python.org/blogs/feed/",
-    "https://realpython.com/atom.xml",
-    "https://machinelearningmastery.com/feed/",
-    "https://towardsdatascience.com/feed",
     "https://arxiv.org/rss/cs.AI",
     "https://arxiv.org/rss/cs.CV",
     "https://arxiv.org/rss/cs.SC",
