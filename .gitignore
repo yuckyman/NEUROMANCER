@@ -19,7 +19,7 @@ temp/
 
 # repos area (managed separately)
 3_projects/30_repos/*/
-
+3_projects/31_coding/discord-buddy
 # sensitive data
 **/secrets/
 **/keys/
