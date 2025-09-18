@@ -1,7 +1,0 @@
-RSS Feed: Towards Data Science
-Source: https://towardsdatascience.com/feed
-Link: https://towardsdatascience.com/the-rise-of-semantic-entity-resolution/
-
-The Rise of Semantic Entity Resolution
-
-Semantic entity resolution uses language models to bring an increased level of automation to schema alignment, blocking (grouping records into smaller, efficient blocks for all-pairs comparison at quadratic, n² complexity), matching and even merging duplicate nodes and edges. In the past, entity resolution systems relied on statistical tricks such as string distance, static rules or complex ETL to schema align, block, match and merge records. Semantic entity resolution uses representation learning to gain a deeper understanding of records’ meaning in the domain of a business to automate the same process as part of a knowledge graph factory. The post The Rise of Semantic Entity Resolution appeared first on Towards Data Science.

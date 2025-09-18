@@ -1,7 +1,0 @@
-RSS Feed: cs.CV updates on arXiv.org
-Source: https://arxiv.org/rss/cs.CV
-Link: https://arxiv.org/abs/1901.11111
-
-Texture-Aware Superpixel Segmentation
-
-arXiv:1901.11111v4 Announce Type: replace Abstract: Most superpixel algorithms compute a trade-off between spatial and color features at the pixel level. Hence, they may need fine parameter tuning to balance the two measures, and highly fail to group pixels with similar local texture properties. In this paper, we address these issues with a new Texture-Aware SuperPixel (TASP) method. To accurately segment textured and smooth areas, TASP automatically adjusts its spatial constraint according to the local feature variance. Then, to ensure texture homogeneity within superpixels, a new pixel to superpixel patch-based distance is proposed. TASP outperforms the segmentation accuracy of the state-of-the-art methods on texture and also natural color image datasets.

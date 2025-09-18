@@ -1,7 +1,0 @@
-RSS Feed: Real Python
-Source: https://realpython.com/atom.xml
-Link: https://realpython.com/intro-to-pyenv/
-
-Managing Multiple Python Versions With pyenv
-
-Learn how to use pyenv to manage multiple Python versions, prevent conflicts, and keep your projects compatible and development smooth.

@@ -1,7 +1,0 @@
-RSS Feed: cs.AI updates on arXiv.org
-Source: https://arxiv.org/rss/cs.AI
-Link: https://arxiv.org/abs/2509.13342
-
-Real World Robotic Exploration using Deep Neural Networks Trained in Photorealistic Reconstructed Environments
-
-arXiv:2509.13342v1 Announce Type: cross Abstract: In this work, an existing deep neural network approach for determining a robot's pose from visual information (RGB images) is modified, improving its localization performance without impacting its ease of training. Explicitly, the network's loss function is extended in a manner which intuitively combines the positional and rotational error in order to increase robustness to perceptual aliasing. An improvement in the localization accuracy for indoor scenes is observed: with decreases of up to 9.64% and 2.99% in the median positional and rotational error respectively, when compared to the unmodified network. Additionally, photogrammetry data is used to produce a pose-labelled dataset which allows the above model to be trained on a local environment, resulting in localization accuracies of 0.11m & 0.89 degrees. This trained model forms the basis of a navigation algorithm, which is tested in real-time on a TurtleBot (a wheeled robotic devic...

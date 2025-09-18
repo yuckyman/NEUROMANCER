@@ -1,7 +1,0 @@
-RSS Feed: Real Python
-Source: https://realpython.com/atom.xml
-Link: https://realpython.com/quizzes/how-to-drop-null-values-in-pandas/
-
-Quiz: How to Drop Null Values in pandas
-
-Quiz yourself on pandas .dropna(): remove nulls, clean missing data, and prepare DataFrames for accurate analysis.

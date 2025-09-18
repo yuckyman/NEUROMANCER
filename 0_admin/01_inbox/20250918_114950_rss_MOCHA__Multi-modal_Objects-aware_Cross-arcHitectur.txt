@@ -1,7 +1,0 @@
-RSS Feed: cs.CV updates on arXiv.org
-Source: https://arxiv.org/rss/cs.CV
-Link: https://arxiv.org/abs/2509.14001
-
-MOCHA: Multi-modal Objects-aware Cross-arcHitecture Alignment
-
-arXiv:2509.14001v1 Announce Type: new Abstract: We introduce MOCHA (Multi-modal Objects-aware Cross-arcHitecture Alignment), a knowledge distillation approach that transfers region-level multimodal semantics from a large vision-language teacher (e.g., LLaVa) into a lightweight vision-only object detector student (e.g., YOLO). A translation module maps student features into a joint space, where the training of the student and translator is guided by a dual-objective loss that enforces both local alignment and global relational consistency. Unlike prior approaches focused on dense or global alignment, MOCHA operates at the object level, enabling efficient transfer of semantics without modifying the teacher or requiring textual input at inference. We validate our method across four personalized detection benchmarks under few-shot regimes. Results show consistent gains over baselines, with a +10.1 average score improvement. Despite its compact architecture, MOCHA reaches performance on par...

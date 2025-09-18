@@ -1,7 +1,0 @@
-RSS Feed: cs.AI updates on arXiv.org
-Source: https://arxiv.org/rss/cs.AI
-Link: https://arxiv.org/abs/2408.00208
-
-Prognosis of COVID-19 using Artificial Intelligence: A Systematic Review and Meta-analysis
-
-arXiv:2408.00208v1 Announce Type: cross Abstract: Purpose: Artificial intelligence (AI) techniques have been extensively utilized for diagnosing and prognosis of several diseases in recent years. This study identifies, appraises and synthesizes published studies on the use of AI for the prognosis of COVID-19. Method: Electronic search was performed using Medline, Google Scholar, Scopus, Embase, Cochrane and ProQuest. Studies that examined machine learning or deep learning methods to determine the prognosis of COVID-19 using CT or chest X-ray images were included. Polled sensitivity, specificity area under the curve and diagnostic odds ratio were calculated. Result: A total of 36 articles were included; various prognosis-related issues, including disease severity, mechanical ventilation or admission to the intensive care unit and mortality, were investigated. Several AI models and architectures were employed, such as the Siamense model, support vector machine, Random Forest , eXtreme Gr...

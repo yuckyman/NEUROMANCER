@@ -1,7 +1,0 @@
-RSS Feed: Real Python
-Source: https://realpython.com/atom.xml
-Link: https://realpython.com/quizzes/what-does-arrow-mean-in-python/
-
-Quiz: What Does -> Mean in Python Function Definitions?
-
-Test your understanding of Python return type hints and learn how to use the -> arrow, annotate containers, and check code with static tools.

@@ -1,7 +1,0 @@
-RSS Feed: The GitHub Blog
-Source: https://github.blog/feed/
-Link: https://github.blog/ai-and-ml/github-copilot/github-copilot-coding-agent-101-getting-started-with-agentic-workflows-on-github/
-
-GitHub Copilot coding agent 101: Getting started with agentic workflows on GitHub
-
-Delegate it a task, and coding agent can independently write, run, and test code. Here’s how you can make the most of it. The post GitHub Copilot coding agent 101: Getting started with agentic workflows on GitHub appeared first on The GitHub Blog.

@@ -1,7 +1,0 @@
-RSS Feed: Real Python
-Source: https://realpython.com/atom.xml
-Link: https://realpython.com/courses/working-builtin-exceptions/
-
-Working With Python's Built-in Exceptions
-
-Learn the most common built-in Python exceptions, when they occur, how to handle them, and how to raise them properly in your code.

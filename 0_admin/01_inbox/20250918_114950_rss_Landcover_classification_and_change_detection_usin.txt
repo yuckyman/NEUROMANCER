@@ -1,7 +1,0 @@
-RSS Feed: cs.CV updates on arXiv.org
-Source: https://arxiv.org/rss/cs.CV
-Link: https://arxiv.org/abs/2509.13388
-
-Landcover classification and change detection using remote sensing and machine learning: a case study of Western Fiji
-
-arXiv:2509.13388v1 Announce Type: new Abstract: As a developing country, Fiji is facing rapid urbanisation, which is visible in the massive development projects that include housing, roads, and civil works. In this study, we present machine learning and remote sensing frameworks to compare land use and land cover change from 2013 to 2024 in Nadi, Fiji. The ultimate goal of this study is to provide technical support in land cover/land use modelling and change detection. We used Landsat-8 satellite image for the study region and created our training dataset with labels for supervised machine learning. We used Google Earth Engine and unsupervised machine learning via k-means clustering to generate the land cover map. We used convolutional neural networks to classify the selected regions' land cover types. We present a visualisation of change detection, highlighting urban area changes over time to monitor changes in the map.

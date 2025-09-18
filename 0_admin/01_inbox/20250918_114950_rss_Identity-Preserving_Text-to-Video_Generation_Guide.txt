@@ -1,7 +1,0 @@
-RSS Feed: cs.CV updates on arXiv.org
-Source: https://arxiv.org/rss/cs.CV
-Link: https://arxiv.org/abs/2507.04705
-
-Identity-Preserving Text-to-Video Generation Guided by Simple yet Effective Spatial-Temporal Decoupled Representations
-
-arXiv:2507.04705v2 Announce Type: replace Abstract: Identity-preserving text-to-video (IPT2V) generation, which aims to create high-fidelity videos with consistent human identity, has become crucial for downstream applications. However, current end-to-end frameworks suffer a critical spatial-temporal trade-off: optimizing for spatially coherent layouts of key elements (e.g., character identity preservation) often compromises instruction-compliant temporal smoothness, while prioritizing dynamic realism risks disrupting the spatial coherence of visual structures. To tackle this issue, we propose a simple yet effective spatial-temporal decoupled framework that decomposes representations into spatial features for layouts and temporal features for motion dynamics. Specifically, our paper proposes a semantic prompt optimization mechanism and stage-wise decoupled generation paradigm. The former module decouples the prompt into spatial and temporal components. Aligned with the subsequent stage...

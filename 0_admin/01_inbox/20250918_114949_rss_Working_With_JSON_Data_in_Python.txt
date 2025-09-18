@@ -1,7 +1,0 @@
-RSS Feed: Real Python
-Source: https://realpython.com/atom.xml
-Link: https://realpython.com/python-json/
-
-Working With JSON Data in Python
-
-Learn how to work with JSON data in Python using the json module. Convert, read, write, and validate JSON files and handle JSON data for APIs and storage.

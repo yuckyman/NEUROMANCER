@@ -1,7 +1,0 @@
-RSS Feed: Towards Data Science
-Source: https://towardsdatascience.com/feed
-Link: https://towardsdatascience.com/roc-auc-explained-a-beginners-guide-to-evaluating-classification-models/
-
-ROC AUC Explained: A Beginner’s Guide to Evaluating Classification Models
-
-Understand how ROC curves and AUC help you go beyond accuracy with visuals and examples. The post ROC AUC Explained: A Beginner’s Guide to Evaluating Classification Models appeared first on Towards Data Science.

@@ -1,7 +1,0 @@
-RSS Feed: cs.AI updates on arXiv.org
-Source: https://arxiv.org/rss/cs.AI
-Link: https://arxiv.org/abs/2509.14049
-
-Comprehensive Evaluation of CNN-Based Audio Tagging Models on Resource-Constrained Devices
-
-arXiv:2509.14049v1 Announce Type: cross Abstract: Convolutional Neural Networks (CNNs) have demonstrated exceptional performance in audio tagging tasks. However, deploying these models on resource-constrained devices like the Raspberry Pi poses challenges related to computational efficiency and thermal management. In this paper, a comprehensive evaluation of multiple convolutional neural network (CNN) architectures for audio tagging on the Raspberry Pi is conducted, encompassing all 1D and 2D models from the Pretrained Audio Neural Networks (PANNs) framework, a ConvNeXt-based model adapted for audio classification, as well as MobileNetV3 architectures. In addition, two PANNs-derived networks, CNN9 and CNN13, recently proposed, are also evaluated. To enhance deployment efficiency and portability across diverse hardware platforms, all models are converted to the Open Neural Network Exchange (ONNX) format. Unlike previous works that focus on a single model, our analysis encompasses a broa...

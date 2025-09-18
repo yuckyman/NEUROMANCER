@@ -1,7 +1,0 @@
-RSS Feed: cs.AI updates on arXiv.org
-Source: https://arxiv.org/rss/cs.AI
-Link: https://arxiv.org/abs/2509.13364
-
-Asterisk Operator
-
-arXiv:2509.13364v1 Announce Type: new Abstract: We propose the \textbf{Asterisk Operator} ($\ast$-operator), a novel unified framework for abstract reasoning based on Adjacency-Structured Parallel Propagation (ASPP). The operator formalizes structured reasoning tasks as local, parallel state evolution processes guided by implicit relational graphs. We prove that the $\ast$-operator maintains local computational constraints while achieving global reasoning capabilities, providing an efficient and convergent computational paradigm for abstract reasoning problems. Through rigorous mathematical analysis and comprehensive experiments on ARC2 challenges and Conway's Game of Life, we demonstrate the operator's universality, convergence properties, and superior performance. Our innovative Embedding-Asterisk distillation method achieves 100\% accuracy on ARC2 validation with only 6M parameters, representing a significant breakthrough in neural-symbolic reasoning. \textbf{Keywords:} Abstract Rea...

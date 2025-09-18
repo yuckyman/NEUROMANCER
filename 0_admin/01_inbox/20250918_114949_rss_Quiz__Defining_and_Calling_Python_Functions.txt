@@ -1,7 +1,0 @@
-RSS Feed: Real Python
-Source: https://realpython.com/atom.xml
-Link: https://realpython.com/quizzes/defining-and-calling-functions/
-
-Quiz: Defining and Calling Python Functions
-
-Practice defining and calling functions in Python, including parameters, argument types, default values, and function documentation.

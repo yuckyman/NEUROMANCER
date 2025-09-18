@@ -1,7 +1,0 @@
-RSS Feed: cs.AI updates on arXiv.org
-Source: https://arxiv.org/rss/cs.AI
-Link: https://arxiv.org/abs/2509.13627
-
-Secure, Scalable and Privacy Aware Data Strategy in Cloud
-
-arXiv:2509.13627v1 Announce Type: cross Abstract: The enterprises today are faced with the tough challenge of processing, storing large amounts of data in a secure, scalable manner and enabling decision makers to make quick, informed data driven decisions. This paper addresses this challenge and develops an effective enterprise data strategy in the cloud. Various components of an effective data strategy are discussed and architectures addressing security, scalability and privacy aspects are provided.

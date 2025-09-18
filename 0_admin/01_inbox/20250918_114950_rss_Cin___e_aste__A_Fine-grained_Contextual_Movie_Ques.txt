@@ -1,7 +1,0 @@
-RSS Feed: cs.CV updates on arXiv.org
-Source: https://arxiv.org/rss/cs.CV
-Link: https://arxiv.org/abs/2509.14227
-
-Cin\'{e}aste: A Fine-grained Contextual Movie Question Answering Benchmark
-
-arXiv:2509.14227v1 Announce Type: new Abstract: While recent advancements in vision-language models have improved video understanding, diagnosing their capacity for deep, narrative comprehension remains a challenge. Existing benchmarks often test short-clip recognition or use template-based questions, leaving a critical gap in evaluating fine-grained reasoning over long-form narrative content. To address these gaps, we introduce $\mathsf{Cin\acute{e}aste}$, a comprehensive benchmark for long-form movie understanding. Our dataset comprises 3,119 multiple-choice question-answer pairs derived from 1,805 scenes across 200 diverse movies, spanning five novel fine-grained contextual reasoning categories. We use GPT-4o to generate diverse, context-rich questions by integrating visual descriptions, captions, scene titles, and summaries, which require deep narrative understanding. To ensure high-quality evaluation, our pipeline incorporates a two-stage filtering process: Context-Independence fi...

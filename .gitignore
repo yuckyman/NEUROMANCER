@@ -25,3 +25,6 @@ temp/
 **/keys/
 **/*_key*
 **/*_token*
+
+# unprocessed inbox files
+0_admin/01_inbox/*.txt

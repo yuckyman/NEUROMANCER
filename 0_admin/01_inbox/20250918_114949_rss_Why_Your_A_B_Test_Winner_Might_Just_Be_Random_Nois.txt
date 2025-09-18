@@ -1,7 +1,0 @@
-RSS Feed: Towards Data Science
-Source: https://towardsdatascience.com/feed
-Link: https://towardsdatascience.com/why-your-a-b-test-winner-might-just-be-random-noise/
-
-Why Your A/B Test Winner Might Just Be Random Noise
-
-What a coach’s warm-up trial can teach us about running better experiments The post Why Your A/B Test Winner Might Just Be Random Noise appeared first on Towards Data Science.
