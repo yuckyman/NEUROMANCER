@@ -1,0 +1,26 @@
+{
+  "feeds": [
+    "https://github.blog/feed/",
+    "https://opencode.ai/feed.xml",
+    "https://simonwillison.net/atom/everything/",
+    "https://www.python.org/blogs/feed/",
+    "https://realpython.com/atom.xml",
+    "https://machinelearningmastery.com/feed/",
+    "https://towardsdatascience.com/feed",
+    "https://arxiv.org/rss/cs.AI",
+    "https://arxiv.org/rss/cs.CV",
+    "https://arxiv.org/rss/cs.SC",
+    "https://arxiv.org/rss/cs.HC"
+  ],
+  "last_check": {
+    "https://github.blog/feed/": "2025-09-18T11:49:48.758543",
+    "https://opencode.ai/feed.xml": "2025-09-18T11:49:48.912622",
+    "https://simonwillison.net/atom/everything/": "2025-09-18T11:49:49.097330",
+    "https://www.python.org/blogs/feed/": "2025-09-18T11:49:49.221786",
+    "https://realpython.com/atom.xml": "2025-09-18T11:49:49.483677",
+    "https://machinelearningmastery.com/feed/": "2025-09-18T11:49:49.620965",
+    "https://towardsdatascience.com/feed": "2025-09-18T11:49:49.994609",
+    "https://arxiv.org/rss/cs.AI": "2025-09-18T11:49:50.295660",
+    "https://arxiv.org/rss/cs.CV": "2025-09-18T11:49:50.463099"
+  }
+}

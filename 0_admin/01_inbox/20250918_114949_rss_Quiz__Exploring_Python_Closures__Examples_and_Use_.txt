@@ -1,0 +1,7 @@
+RSS Feed: Real Python
+Source: https://realpython.com/atom.xml
+Link: https://realpython.com/quizzes/closures-examples-use-cases/
+
+Quiz: Exploring Python Closures: Examples and Use Cases
+
+In this quiz, you'll test your understanding of Python closures. Closures are a common feature in functional programming languages and are particularly popular in Python because they allow you to create function-based decorators.

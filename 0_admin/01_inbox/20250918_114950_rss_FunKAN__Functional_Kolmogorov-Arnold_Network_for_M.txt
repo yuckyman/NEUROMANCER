@@ -1,0 +1,7 @@
+RSS Feed: cs.CV updates on arXiv.org
+Source: https://arxiv.org/rss/cs.CV
+Link: https://arxiv.org/abs/2509.13508
+
+FunKAN: Functional Kolmogorov-Arnold Network for Medical Image Enhancement and Segmentation
+
+arXiv:2509.13508v1 Announce Type: new Abstract: Medical image enhancement and segmentation are critical yet challenging tasks in modern clinical practice, constrained by artifacts and complex anatomical variations. Traditional deep learning approaches often rely on complex architectures with limited interpretability. While Kolmogorov-Arnold networks offer interpretable solutions, their reliance on flattened feature representations fundamentally disrupts the intrinsic spatial structure of imaging data. To address this issue we propose a Functional Kolmogorov-Arnold Network (FunKAN) -- a novel interpretable neural framework, designed specifically for image processing, that formally generalizes the Kolmogorov-Arnold representation theorem onto functional spaces and learns inner functions using Fourier decomposition over the basis Hermite functions. We explore FunKAN on several medical image processing tasks, including Gibbs ringing suppression in magnetic resonance images, benchmarking on...

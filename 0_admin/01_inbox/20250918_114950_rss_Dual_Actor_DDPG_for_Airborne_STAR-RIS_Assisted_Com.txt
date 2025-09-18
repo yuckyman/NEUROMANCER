@@ -1,0 +1,7 @@
+RSS Feed: cs.AI updates on arXiv.org
+Source: https://arxiv.org/rss/cs.AI
+Link: https://arxiv.org/abs/2509.13328
+
+Dual Actor DDPG for Airborne STAR-RIS Assisted Communications
+
+arXiv:2509.13328v1 Announce Type: cross Abstract: This study departs from the prevailing assumption of independent Transmission and Reflection Coefficients (TRC) in Airborne Simultaneous Transmit and Reflect Reconfigurable Intelligent Surface (STAR-RIS) research. Instead, we explore a novel multi-user downlink communication system that leverages a UAV-mounted STAR-RIS (Aerial-STAR) incorporating a coupled TRC phase shift model. Our key contributions include the joint optimization of UAV trajectory, active beamforming vectors at the base station, and passive RIS TRCs to enhance communication efficiency, while considering UAV energy constraints. We design the TRC as a combination of discrete and continuous actions, and propose a novel Dual Actor Deep Deterministic Policy Gradient (DA-DDPG) algorithm. The algorithm relies on two separate actor networks for high-dimensional hybrid action space. We also propose a novel harmonic mean index (HFI)-based reward function to ensure communication ...

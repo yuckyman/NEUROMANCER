@@ -1,0 +1,7 @@
+RSS Feed: Real Python
+Source: https://realpython.com/atom.xml
+Link: https://realpython.com/podcasts/rpp/261/
+
+The Real Python Podcast – Episode #261: Selecting Inheritance or Composition in Python
+
+When considering an object-oriented programming problem, should you prefer inheritance or composition? Why wouldn't it just be simpler to use functions? Christopher Trudeau is back on the show this week, bringing another batch of PyCoder's Weekly articles and projects.

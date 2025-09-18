@@ -1,0 +1,7 @@
+RSS Feed: Real Python
+Source: https://realpython.com/atom.xml
+Link: https://realpython.com/courses/python-string-splitting/
+
+Python String Splitting
+
+Master Python string splitting with .split() and re.split() to handle whitespace, delimiters and multiline text.

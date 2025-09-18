@@ -1,0 +1,7 @@
+RSS Feed: cs.CV updates on arXiv.org
+Source: https://arxiv.org/rss/cs.CV
+Link: https://arxiv.org/abs/2410.13034
+
+Synthesis and Perceptual Scaling of High Resolution Naturalistic Images Using Stable Diffusion
+
+arXiv:2410.13034v2 Announce Type: replace-cross Abstract: Naturalistic scenes are of key interest for visual perception, but controlling their perceptual and semantic properties is challenging. Previous work on naturalistic scenes has frequently focused on collections of discrete images with considerable physical differences between stimuli. However, it is often desirable to assess representations of naturalistic images that vary along a continuum. Traditionally, perceptually continuous variations of naturalistic stimuli have been obtained by morphing a source image into a target image. This produces transitions driven mainly by low-level physical features and can result in semantically ambiguous outcomes. More recently, generative adversarial networks (GANs) have been used to generate continuous perceptual variations within a stimulus category. Here we extend and generalize this approach using a different machine learning approach, a text-to-image diffusion model (Stable Diffusion XL)...

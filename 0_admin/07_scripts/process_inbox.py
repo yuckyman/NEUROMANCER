@@ -31,22 +31,23 @@ def get_ollama_tags_and_summary(content):
     original_content = content.split('\n\n## Scraped from')[0]
     content_preview = original_content[:1000] + "..." if len(original_content) > 1000 else original_content
 
-    prompt = f"""Analyze this content briefly and respond ONLY with valid JSON:
+    prompt = f"""Analyze this content and respond with JSON:
 
 Content: {content_preview}
 
-Required JSON format:
-{{"title": "short title", "category": "ideas", "tags": ["tag1", "tag2"], "summary": "brief summary", "type": "note"}}
+Format: {{"title": "short title", "category": "ideas", "tags": ["tag1", "tag2"], "summary": "brief summary", "type": "note"}}
 
 Categories: development, projects, ideas, reference, personal
-Common tags: dev-log, project, research, idea, technical, personal, urgent, reference"""
+Tags: dev-log, project, research, idea, technical, personal, urgent, reference
+
+Keep summary under 100 words."""
 
     try:
         result = subprocess.run(
             ["ollama", "run", "qwen2.5:0.5b", prompt],
             capture_output=True,
             text=True,
-            timeout=60
+            timeout=120
         )
 
         if result.returncode != 0:
@@ -65,8 +66,14 @@ Common tags: dev-log, project, research, idea, technical, personal, urgent, refe
 
         return json.loads(response)
 
-    except (subprocess.TimeoutExpired, json.JSONDecodeError, Exception) as e:
-        print(f"Error processing with ollama: {e}")
+    except subprocess.TimeoutExpired:
+        print(f"Ollama timeout - using fallback metadata")
+        return default_metadata(content)
+    except json.JSONDecodeError as e:
+        print(f"JSON parse error: {e} - using fallback metadata")
+        return default_metadata(content)
+    except Exception as e:
+        print(f"Ollama error: {e} - using fallback metadata")
         return default_metadata(content)
 
 def extract_urls(content):
@@ -102,19 +109,8 @@ def scrape_url(url, timeout=10):
 
 def extract_text_from_pdf(file_path):
     """Extract text content from PDF files"""
-    try:
-        doc = fitz.open(file_path)
-        text = ""
-        for page in doc:
-            text += page.get_text()
-        doc.close()
-
-        # Clean up excessive whitespace
-        text = re.sub(r'\n+', '\n', text)
-        text = re.sub(r' +', ' ', text)
-        return text.strip()
-    except Exception as e:
-        return f"Error extracting PDF text: {str(e)}"
+    # TODO: Fix PDF text extraction - PyMuPDF version issue
+    return f"PDF file: {os.path.basename(file_path)} - PDF processing temporarily disabled"
 
 def extract_text_from_docx(file_path):
     """Extract text content from Word documents"""
@@ -143,7 +139,8 @@ def extract_file_content(file_path):
 
     # Handle different file types
     if file_extension == '.pdf':
-        return extract_text_from_pdf(file_path)
+        # TODO: Fix PDF text extraction - PyMuPDF version issue
+        return f"PDF file: {os.path.basename(file_path)} - PDF processing temporarily disabled"
     elif file_extension in ['.docx', '.doc']:
         return extract_text_from_docx(file_path)
     elif file_extension in ['.png', '.jpg', '.jpeg', '.tiff', '.bmp']:
@@ -228,8 +225,10 @@ original_file: {os.path.basename(original_file)}
 
     return filepath
 
-def process_inbox():
+def process_inbox(max_files=None):
     """Main processing function"""
+    print("DEBUG: Starting process_inbox function")
+
     # Process all supported file types
     supported_patterns = ["*.txt", "*.pdf", "*.docx", "*.doc", "*.png", "*.jpg", "*.jpeg"]
     all_files = []
@@ -241,10 +240,19 @@ def process_inbox():
     all_files.extend(glob.glob(os.path.join(INBOX_DIR, "*")))
     all_files = list(set(all_files))  # Remove duplicates
 
+    print(f"DEBUG: Found {len(all_files)} total files")
+
     if not all_files:
+        print("DEBUG: No files found, returning")
         return
 
-    print(f"Processing {len(all_files)} files...")
+    # Limit processing to prevent overload
+    if max_files and len(all_files) > max_files:
+        print(f"DEBUG: Limiting to {max_files} files out of {len(all_files)} total")
+        all_files = all_files[:max_files]
+
+    print(f"DEBUG: Processing {len(all_files)} files...")
+    print(f"DEBUG: First file: {all_files[0] if all_files else 'None'}")
 
     for file_path in all_files:
         try:
@@ -306,4 +314,19 @@ def process_inbox():
 if __name__ == "__main__":
     # Ensure directories exist
     os.makedirs(PROCESSED_DIR, exist_ok=True)
-    process_inbox()
+
+    # Allow limiting via environment variable or command line
+    import sys
+    max_files = None
+    if len(sys.argv) > 1:
+        try:
+            max_files = int(sys.argv[1])
+        except ValueError:
+            pass
+    elif os.getenv('MAX_PROCESS_FILES'):
+        try:
+            max_files = int(os.getenv('MAX_PROCESS_FILES'))
+        except ValueError:
+            pass
+
+    process_inbox(max_files)

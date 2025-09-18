@@ -1,0 +1,7 @@
+RSS Feed: Simon Willison's Weblog
+Source: https://simonwillison.net/atom/everything/
+Link: https://simonwillison.net/2025/Sep/11/defeating-nondeterminism/#atom-everything
+
+Defeating Nondeterminism in LLM Inference
+
+Defeating Nondeterminism in LLM Inference A very common question I see about LLMs concerns why they can't be made to deliver the same response to the same prompt by setting a fixed random number seed. Like many others I had been lead to believe this was due to the non-associative nature of floating point arithmetic, where (a + b) + c ≠ a + (b + c), combining with unpredictable calculation orders on concurrent GPUs. This new paper calls that the "concurrency + floating point hypothesis": One common hypothesis is that some combination of floating-point non-associativity and concurrent execution leads to nondeterminism based on which concurrent core finishes first. We will call this the “concurrency + floating point” hypothesis for LLM inference nondeterminism. It then convincingly argues that this is not the core of the problem, because "in the typical forward pass of an LLM, there is usually not a single atomic add present." Why are LLMs so often non-deterministic then? [...] the primar...

@@ -1,0 +1,7 @@
+RSS Feed: The GitHub Blog
+Source: https://github.blog/feed/
+Link: https://github.blog/enterprise-software/devsecops/how-to-use-the-github-and-jfrog-integration-for-secure-traceable-builds-from-commit-to-production/
+
+How to use the GitHub and JFrog integration for secure, traceable builds from commit to production
+
+Connect commits to artifacts without switching tools. The post How to use the GitHub and JFrog integration for secure, traceable builds from commit to production appeared first on The GitHub Blog.

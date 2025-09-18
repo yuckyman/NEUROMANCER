@@ -44,18 +44,21 @@ the sync agent is built as a tool that can be called by automation systems, cron
 
 ## process_inbox.py
 
-**purpose**: automated processing of phone shortcut text files → AI-tagged markdown
+**purpose**: automated processing of inbox files → AI-tagged markdown with URL scraping
 
 **features**:
-- monitors `01_inbox/` for numeric `.txt` files (phone shortcut format)
-- uses ollama qwen2.5:0.5b for content analysis and tagging
-- generates obsidian-compliant yaml frontmatter
-- creates markdown files in `1_ideas/` with proper metadata
-- auto-deletes processed text files
+- monitors `01_inbox/` for multiple file types (.txt, .pdf, .docx, .doc, .png, .jpg, .jpeg)
+- extracts text content from various file formats including OCR for images
+- automatically detects and scrapes URLs found in content (up to 3 per file)
+- uses ollama qwen2.5:0.5b for content analysis and intelligent tagging
+- generates obsidian-compliant yaml frontmatter with metadata
+- creates markdown files in `1_ideas/` with proper categorization
+- auto-deletes processed files after successful conversion
 
 **automation**:
 - runs every 10 minutes via cron: `*/10 * * * * /usr/bin/python3 /home/ian/NEUROMANCER/0_admin/07_scripts/process_inbox.py`
-- logs to: `inbox_processing.log`
+- can be limited via environment variable `MAX_PROCESS_FILES` or command line argument
+- logs processing activity to console
 
 **ai model selection**:
 - tested: smollm2:360m vs qwen2.5:0.5b
@@ -63,13 +66,63 @@ the sync agent is built as a tool that can be called by automation systems, cron
 - memory efficient: 397MB footprint vs 725MB+
 
 **error handling**:
-- 30s timeout for ollama calls
+- 120s timeout for ollama calls (increased for better analysis)
 - fallback to default metadata if AI processing fails
-- graceful handling of malformed files
+- graceful handling of malformed files and unsupported formats
+- continues processing other files if one fails
 
 **processing flow**:
 ```
-phone shortcuts → 01_inbox/*.txt → ollama processing → 1_ideas/*.md → delete .txt
+inbox files → text extraction → URL scraping → ollama analysis → 1_ideas/*.md → delete original
+```
+
+**supported file types**:
+- **Text files**: Direct content extraction
+- **PDF files**: Text extraction (currently disabled due to version issues)
+- **Word documents**: Full text extraction from .docx/.doc
+- **Images**: OCR text extraction from .png/.jpg/.jpeg
+- **Other files**: Metadata extraction and file info
+
+## rss_ingestor.py
+
+**purpose**: automated RSS feed ingestion → inbox processing pipeline
+
+**features**:
+- fetches content from configured RSS feeds
+- creates inbox files for each new article
+- configurable article limits per feed
+- tracks last check times to avoid duplicates
+- supports custom feed URLs via environment variable
+- handles malformed feeds gracefully
+
+**automation**:
+- can be run manually or via cron job
+- processes feeds in parallel for efficiency
+- updates `rss_feeds.json` with last check timestamps
+
+**rss feeds monitored**:
+- GitHub Blog: https://github.blog/feed/
+- OpenCode AI: https://opencode.ai/feed.xml
+- Simon Willison: https://simonwillison.net/atom/everything/
+- Python.org Blogs: https://www.python.org/blogs/feed/
+- Real Python: https://realpython.com/atom.xml
+- Machine Learning Mastery: https://machinelearningmastery.com/feed/
+- Towards Data Science: https://towardsdatascience.com/feed
+- arXiv AI: https://arxiv.org/rss/cs.AI
+- arXiv Computer Vision: https://arxiv.org/rss/cs.CV
+
+**usage**:
+```bash
+# Process all configured feeds
+python 0_admin/07_scripts/rss_ingestor.py
+
+# Process a specific custom feed
+CUSTOM_FEED_URL="https://example.com/feed.xml" python 0_admin/07_scripts/rss_ingestor.py
+```
+
+**processing flow**:
+```
+RSS feeds → fetch new articles → create inbox files → process_inbox.py → 1_ideas/*.md
 ```
 
 ## other scripts

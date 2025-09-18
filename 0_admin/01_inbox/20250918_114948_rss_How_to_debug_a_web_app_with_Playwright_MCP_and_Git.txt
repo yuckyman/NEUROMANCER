@@ -1,0 +1,7 @@
+RSS Feed: The GitHub Blog
+Source: https://github.blog/feed/
+Link: https://github.blog/ai-and-ml/github-copilot/how-to-debug-a-web-app-with-playwright-mcp-and-github-copilot/
+
+How to debug a web app with Playwright MCP and GitHub Copilot
+
+Reproduce and debug web app issues with ease using the Playwright MCP server and GitHub Copilot. The post How to debug a web app with Playwright MCP and GitHub Copilot appeared first on The GitHub Blog.

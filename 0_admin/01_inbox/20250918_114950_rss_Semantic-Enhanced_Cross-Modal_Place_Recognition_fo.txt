@@ -1,0 +1,7 @@
+RSS Feed: cs.CV updates on arXiv.org
+Source: https://arxiv.org/rss/cs.CV
+Link: https://arxiv.org/abs/2509.13474
+
+Semantic-Enhanced Cross-Modal Place Recognition for Robust Robot Localization
+
+arXiv:2509.13474v1 Announce Type: new Abstract: Ensuring accurate localization of robots in environments without GPS capability is a challenging task. Visual Place Recognition (VPR) techniques can potentially achieve this goal, but existing RGB-based methods are sensitive to changes in illumination, weather, and other seasonal changes. Existing cross-modal localization methods leverage the geometric properties of RGB images and 3D LiDAR maps to reduce the sensitivity issues highlighted above. Currently, state-of-the-art methods struggle in complex scenes, fine-grained or high-resolution matching, and situations where changes can occur in viewpoint. In this work, we introduce a framework we call Semantic-Enhanced Cross-Modal Place Recognition (SCM-PR) that combines high-level semantics utilizing RGB images for robust localization in LiDAR maps. Our proposed method introduces: a VMamba backbone for feature extraction of RGB images; a Semantic-Aware Feature Fusion (SAFF) module for using ...

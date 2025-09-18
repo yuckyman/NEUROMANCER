@@ -1,0 +1,54 @@
+name: RSS Content Ingestion
+
+on:
+  schedule:
+    # Run every 6 hours
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+    inputs:
+      feed_url:
+        description: 'Specific RSS feed URL to process (optional)'
+        required: false
+        type: string
+
+jobs:
+  ingest-rss-content:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Setup Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install feedparser requests beautifulsoup4 lxml
+
+    - name: Fetch RSS feeds
+      run: |
+        python 0_admin/07_scripts/rss_ingestor.py
+      env:
+        CUSTOM_FEED_URL: ${{ github.event.inputs.feed_url }}
+
+     - name: Process new content with AI
+       run: |
+         python 0_admin/07_scripts/process_inbox.py 50
+       env:
+         OLLAMA_BASE_URL: ${{ secrets.OLLAMA_BASE_URL }}
+
+    - name: Commit new content
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add .
+        git diff --quiet && git diff --staged --quiet || git commit -m "🤖 RSS content ingestion - $(date +'%Y-%m-%d %H:%M')"
+
+    - name: Push changes
+      uses: actions/checkout@v4
+      with:
+        push: true

@@ -1,0 +1,7 @@
+RSS Feed: Towards Data Science
+Source: https://towardsdatascience.com/feed
+Link: https://towardsdatascience.com/my-experiments-with-notebooklm-for-teaching/
+
+My Experiments with NotebookLM for Teaching
+
+Exploring NotebookLM as a teaching companion The post My Experiments with NotebookLM for Teaching appeared first on Towards Data Science.

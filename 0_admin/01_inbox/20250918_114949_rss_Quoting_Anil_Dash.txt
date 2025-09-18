@@ -1,0 +1,7 @@
+RSS Feed: Simon Willison's Weblog
+Source: https://simonwillison.net/atom/everything/
+Link: https://simonwillison.net/2025/Sep/7/anil-dash/#atom-everything
+
+Quoting Anil Dash
+
+I agree with the intellectual substance of virtually every common critique of AI. And it's very clear that turning those critiques into a competition about who can frame them in the most scathing way online has done zero to slow down adoption, even if much of that is due to default bundling. At what point are folks going to try literally any other tactic than condescending rants? Does it matter that LLM apps are at the top of virtually every app store nearly every day because individual people are choosing to download them, and the criticism hasn't been effective in slowing that? &mdash; Anil Dash Tags: ai-ethics, anil-dash, ai, generative-ai, llms
