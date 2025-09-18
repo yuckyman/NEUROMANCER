@@ -176,7 +176,30 @@ def main():
     print(f"✅ RSS ingestion complete! Processed {total_new_entries} new entries")
 
     if total_new_entries > 0:
-        print("📝 New content added to inbox - run process_inbox.py to analyze and organize")
+        print("📝 New content added to inbox - running inbox processor...")
+        # Automatically run inbox processor
+        import subprocess
+        try:
+            result = subprocess.run([sys.executable, str(Path(__file__).parent / "process_inbox.py")],
+                                  capture_output=True, text=True, timeout=300)
+            if result.returncode == 0:
+                print("✅ Inbox processing completed successfully")
+                print("🔄 Running domain classifier...")
+                # Automatically run domain classifier
+                result2 = subprocess.run([sys.executable, str(Path(__file__).parent / "domain_classifier.py")],
+                                       capture_output=True, text=True, timeout=300)
+                if result2.returncode == 0:
+                    print("✅ Domain classification completed successfully")
+                else:
+                    print(f"❌ Domain classification failed: {result2.stderr}")
+            else:
+                print(f"❌ Inbox processing failed: {result.stderr}")
+        except subprocess.TimeoutExpired:
+            print("❌ Processing timeout - run scripts manually")
+        except Exception as e:
+            print(f"❌ Error in automated processing: {e}")
+    else:
+        print("📭 No new content to process")
 
 if __name__ == "__main__":
     main()

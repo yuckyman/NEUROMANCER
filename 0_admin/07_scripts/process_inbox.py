@@ -11,6 +11,7 @@ import subprocess
 import datetime
 import re
 import requests
+import hashlib
 from pathlib import Path
 import fitz  # PyMuPDF for PDF processing
 import docx  # python-docx for Word documents
@@ -22,6 +23,7 @@ import pytesseract
 INBOX_DIR = "/home/ian/NEUROMANCER/0_admin/01_inbox"
 TEMPLATES_DIR = "/home/ian/NEUROMANCER/0_admin/02_templates"
 PROCESSED_DIR = "/home/ian/NEUROMANCER/1_ideas"  # Following johnny decimal flow
+HASH_REGISTRY = "/home/ian/NEUROMANCER/0_admin/07_scripts/content_hashes.json"
 
 def get_ollama_tags_and_summary(content):
     """Use ollama to analyze content and generate tags + summary"""
@@ -157,6 +159,29 @@ def extract_file_content(file_path):
         file_size = os.path.getsize(file_path)
         return f"File: {os.path.basename(file_path)}\nType: {mime_type or 'Unknown'}\nSize: {file_size} bytes\n\nNote: This file type is not directly supported for text extraction. Consider converting to PDF or text format."
 
+def load_hash_registry():
+    """Load content hash registry for deduplication"""
+    if os.path.exists(HASH_REGISTRY):
+        try:
+            with open(HASH_REGISTRY, 'r', encoding='utf-8') as f:
+                return json.load(f)
+        except (json.JSONDecodeError, FileNotFoundError):
+            pass
+    return {"processed_hashes": {}, "duplicate_count": 0}
+
+def save_hash_registry(registry):
+    """Save content hash registry"""
+    with open(HASH_REGISTRY, 'w', encoding='utf-8') as f:
+        json.dump(registry, f, indent=2)
+
+def calculate_content_hash(content):
+    """Calculate SHA-256 hash of content for deduplication"""
+    # Normalize content for consistent hashing
+    normalized = content.strip().lower()
+    # Remove extra whitespace
+    normalized = re.sub(r'\s+', ' ', normalized)
+    return hashlib.sha256(normalized.encode('utf-8')).hexdigest()
+
 def default_metadata(content):
     """Fallback metadata if ollama fails"""
     title = content.split('\n')[0][:50] if content.strip() else "Inbox Note"
@@ -173,6 +198,9 @@ def create_markdown_file(metadata, content, original_file):
     now = datetime.datetime.now()
     date_str = now.strftime("%Y-%m-%d")
     time_str = now.strftime("%Y-%m-%d %H:%M")
+
+    # Calculate content hash for deduplication
+    content_hash = calculate_content_hash(content)
 
     # Create safe filename - remove URLs from title for cleaner filenames
     title_without_urls = re.sub(r'https?://[^\s]+', '', metadata['title']).strip()
@@ -196,6 +224,7 @@ tags: {metadata['tags']}
 status: draft
 source: inbox_processing
 original_file: {os.path.basename(original_file)}
+content_hash: {content_hash}
 ---
 
 # {display_title}
@@ -229,6 +258,10 @@ def process_inbox(max_files=None):
     """Main processing function"""
     print("DEBUG: Starting process_inbox function")
 
+    # Load hash registry for deduplication
+    hash_registry = load_hash_registry()
+    print(f"DEBUG: Loaded hash registry with {len(hash_registry['processed_hashes'])} entries")
+
     # Process all supported file types
     supported_patterns = ["*.txt", "*.pdf", "*.docx", "*.doc", "*.png", "*.jpg", "*.jpeg"]
     all_files = []
@@ -253,6 +286,9 @@ def process_inbox(max_files=None):
 
     print(f"DEBUG: Processing {len(all_files)} files...")
     print(f"DEBUG: First file: {all_files[0] if all_files else 'None'}")
+
+    processed_count = 0
+    duplicate_count = 0
 
     for file_path in all_files:
         try:
@@ -291,6 +327,19 @@ def process_inbox(max_files=None):
             # Combine original content with scraped content
             full_content = content + scraped_content
 
+            # Check for duplicates using content hash
+            content_hash = calculate_content_hash(full_content)
+            if content_hash in hash_registry['processed_hashes']:
+                duplicate_info = hash_registry['processed_hashes'][content_hash]
+                print(f"⚠️  Duplicate content detected! Hash: {content_hash[:16]}...")
+                print(f"   Original file: {duplicate_info['file']}")
+                print(f"   Original date: {duplicate_info['date']}")
+                print(f"   Removing duplicate: {basename}")
+                os.remove(file_path)
+                duplicate_count += 1
+                hash_registry['duplicate_count'] += 1
+                continue
+
             # Get metadata from ollama (use original content + truncated scrapes for analysis)
             analysis_content = content
             if successful_scrapes:
@@ -302,6 +351,15 @@ def process_inbox(max_files=None):
             # Create markdown file
             md_file = create_markdown_file(metadata, full_content, file_path)
 
+            # Register the hash
+            hash_registry['processed_hashes'][content_hash] = {
+                'file': os.path.basename(md_file),
+                'date': datetime.datetime.now().isoformat(),
+                'original_file': basename,
+                'source': 'inbox_processing'
+            }
+            processed_count += 1
+
             print(f"Created: {md_file}")
 
             # Remove original file
@@ -310,6 +368,14 @@ def process_inbox(max_files=None):
 
         except Exception as e:
             print(f"Error processing {file_path}: {e}")
+
+    # Save updated hash registry
+    save_hash_registry(hash_registry)
+    print(f"DEBUG: Saved hash registry with {len(hash_registry['processed_hashes'])} entries")
+    print(f"📊 Processing Summary:")
+    print(f"  Files processed: {processed_count}")
+    print(f"  Duplicates found: {duplicate_count}")
+    print(f"  Total registry entries: {len(hash_registry['processed_hashes'])}")
 
 if __name__ == "__main__":
     # Ensure directories exist
@@ -325,8 +391,30 @@ if __name__ == "__main__":
             pass
     elif os.getenv('MAX_PROCESS_FILES'):
         try:
-            max_files = int(os.getenv('MAX_PROCESS_FILES'))
+            env_value = os.getenv('MAX_PROCESS_FILES')
+            if env_value is not None:
+                max_files = int(env_value)
         except ValueError:
             pass
 
     process_inbox(max_files)
+
+    # Check if any files were processed and run domain classifier
+    processed_files = len([f for f in os.listdir(PROCESSED_DIR) if f.endswith('.md')])
+    if processed_files > 0:
+        print(f"📁 {processed_files} files processed - running domain classifier...")
+        import subprocess
+        try:
+            domain_classifier_path = os.path.join(os.path.dirname(__file__), "domain_classifier.py")
+            result = subprocess.run([sys.executable, domain_classifier_path],
+                                  capture_output=True, text=True, timeout=300)
+            if result.returncode == 0:
+                print("✅ Domain classification completed successfully")
+            else:
+                print(f"❌ Domain classification failed: {result.stderr}")
+        except subprocess.TimeoutExpired:
+            print("❌ Domain classification timeout")
+        except Exception as e:
+            print(f"❌ Error running domain classifier: {e}")
+    else:
+        print("📭 No files processed")
