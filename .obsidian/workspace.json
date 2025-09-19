@@ -25,10 +25,14 @@
             "id": "5cfe2a261bac3fd5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "3_projects/30_repos/discord-buddy/ACTIONS_SETUP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ACTIONS_SETUP"
             }
           }
         ],
@@ -180,8 +184,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "5cfe2a261bac3fd5",
+  "active": "3bc053380646568f",
   "lastOpenFiles": [
+    "0_admin/07_scripts/rss_feeds~.json",
     "6_academia/61_research_materials/Task Evoked EEG reveals neural processing differences in Aphantasia.pdf",
     "6_academia/61_research_materials/01_ccse-ms-thesis-guide-f16.pdf",
     "6_academia/61_research_materials/1603.08983v6.pdf",
@@ -192,7 +197,6 @@
     "6_academia/61_research_materials/document.pdf",
     "6_academia/61_research_materials/fnins-17-1148855.pdf",
     "6_academia/61_research_materials/Morales-Gregorio_2025_Occipital_alpha_oscillations_negatively_correlate_vividness.pdf",
-    "6_academia/61_research_materials/NeurIPS-2018-recurrent-world-models-facilitate-policy-evolution-Paper.pdf",
     "6_academia/61_research_materials/httpswww.sciencedirect.comsciencearticleabspiiS157106452300218X.md",
     "6_academia/60_thesis_topic/ai_thesis_outline.md",
     "6_academia/60_thesis_topic/study_guide_2025-08-01.md",
