@@ -3,7 +3,11 @@
     "https://arxiv.org/rss/cs.AI",
     "https://arxiv.org/rss/cs.CV",
     "https://arxiv.org/rss/cs.SC",
-    "https://arxiv.org/rss/cs.HC"
+    "https://arxiv.org/rss/cs.HC",
+    "https://feeds.nature.com/neuro/rss/current",
+    "https://www.jneurosci.org/rss/current.xml",
+    "https://www.frontiersin.org/journals/neuroscience/rss",
+    "https://journals.plos.org/ploscompbiol/feed/atom"
   ],
   "last_check": {
     "https://github.blog/feed/": "2025-09-18T11:49:48.758543",
