@@ -9,12 +9,14 @@ import sys
 import json
 import requests
 import feedparser
-from datetime import datetime, timedelta
+import time
+from datetime import datetime, timedelta, timezone
+from time import mktime
 from pathlib import Path
 import re
 
 # Configuration
-INBOX_DIR = Path(__file__).parent.parent / "01_inbox"
+INBOX_DIR = Path(__file__).parent.parent / "01_inbox/rss_txt"
 FEEDS_CONFIG = Path(__file__).parent / "rss_feeds.json"
 
 # Default RSS feeds to monitor with article limits
@@ -62,8 +64,25 @@ def fetch_feed(feed_url, last_check=None, limit=50):
         entries_to_process = feed.entries[:limit] if limit > 0 else feed.entries
 
         for entry in entries_to_process:
-            # TODO: Implement date-based filtering for new entries
-            # For now, include all entries to avoid type issues
+            # Filter entries based on last check time
+            entry_published_time = None
+            if hasattr(entry, 'published_parsed') and isinstance(entry.published_parsed, time.struct_time):
+                try:
+                    entry_published_time = datetime.fromtimestamp(mktime(entry.published_parsed), tz=timezone.utc)
+                except Exception as e:
+                    print(f"Error converting published_parsed to datetime: {e}")
+            elif hasattr(entry, 'updated_parsed') and isinstance(entry.updated_parsed, time.struct_time):
+                try:
+                    entry_published_time = datetime.fromtimestamp(mktime(entry.updated_parsed), tz=timezone.utc)
+                except Exception as e:
+                    print(f"Error converting updated_parsed to datetime: {e}")
+
+            # Ensure the datetime object is timezone-aware (UTC) if it somehow isn't already
+            if entry_published_time and entry_published_time.tzinfo is None:
+                entry_published_time = entry_published_time.replace(tzinfo=timezone.utc)
+            if last_check and entry_published_time and entry_published_time <= last_check:
+                continue # Skip if entry is older than last check
+
 
             # Extract content
             title = getattr(entry, 'title', 'No Title')
@@ -152,10 +171,13 @@ def main():
         # Get last check time
         last_check = None
         if feed_url in config['last_check']:
-            try:
-                last_check = datetime.fromisoformat(config['last_check'][feed_url])
-            except:
-                pass
+                try:
+                    last_check = datetime.fromisoformat(config['last_check'][feed_url])
+                    if last_check.tzinfo is None:
+                        last_check = last_check.replace(tzinfo=timezone.utc)
+                except Exception as e:
+                    print(f"Warning: Could not parse last_check for {feed_url}: {e}")
+                    last_check = None
 
         # Fetch new entries
         new_entries = fetch_feed(feed_url, last_check)
@@ -168,7 +190,7 @@ def main():
             total_new_entries += 1
 
         # Update last check time
-        config['last_check'][feed_url] = datetime.now().isoformat()
+        config['last_check'][feed_url] = datetime.now(timezone.utc).isoformat()
 
     # Save updated configuration
     save_feeds_config(config)
@@ -176,28 +198,7 @@ def main():
     print(f"✅ RSS ingestion complete! Processed {total_new_entries} new entries")
 
     if total_new_entries > 0:
-        print("📝 New content added to inbox - running inbox processor...")
-        # Automatically run inbox processor
-        import subprocess
-        try:
-            result = subprocess.run([sys.executable, str(Path(__file__).parent / "process_inbox.py")],
-                                  capture_output=True, text=True, timeout=300)
-            if result.returncode == 0:
-                print("✅ Inbox processing completed successfully")
-                print("🔄 Running domain classifier...")
-                # Automatically run domain classifier
-                result2 = subprocess.run([sys.executable, str(Path(__file__).parent / "domain_classifier.py")],
-                                       capture_output=True, text=True, timeout=300)
-                if result2.returncode == 0:
-                    print("✅ Domain classification completed successfully")
-                else:
-                    print(f"❌ Domain classification failed: {result2.stderr}")
-            else:
-                print(f"❌ Inbox processing failed: {result.stderr}")
-        except subprocess.TimeoutExpired:
-            print("❌ Processing timeout - run scripts manually")
-        except Exception as e:
-            print(f"❌ Error in automated processing: {e}")
+        print("📝 New content added to inbox.")
     else:
         print("📭 No new content to process")
 

@@ -1,0 +1,2387 @@
+{
+  "processed_hashes": {
+    "87de77d25730d2acd9f9cf6fea58a78df281ba9dbfdcbe813770efe792c47414": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170709_idea_Estimating_the_effectiveness_of_non-pharmaceutical.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104337_rss_Estimating_the_effectiveness_of_non-pharmaceutical.txt",
+      "processed_date": "2025-09-22T17:07:09.786465",
+      "domain": null
+    },
+    "0d52a8a1e1b6a30e9cd7b1c17aa0d41e35a3199bc786e29cec96a3ba79d37852": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170709_idea_FlexMind__Scaffolding_Flexible_Ideation_Workflows_.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_102658_rss_FlexMind__Scaffolding_Flexible_Ideation_Workflows_.txt",
+      "processed_date": "2025-09-22T17:07:09.789206",
+      "domain": "24_computing"
+    },
+    "b3768625694995ca4a29fb03b646311c0dc4684c702e72c1db339b286ff17e30": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170709_idea_AD-DINOv3__Enhancing_DINOv3_for_Zero-Shot_Anomaly_.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250918_114950_rss_AD-DINOv3__Enhancing_DINOv3_for_Zero-Shot_Anomaly_.txt",
+      "processed_date": "2025-09-22T17:07:09.791434",
+      "domain": "24_computing"
+    },
+    "2b990c25e95589916febf402a0dee39bcf688d9c3a3e5ecc2c638b02f5c15755": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170709_idea_Structural_Regeneration_and_Functional_Recovery_of.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_102659_rss_Structural_Regeneration_and_Functional_Recovery_of.txt",
+      "processed_date": "2025-09-22T17:07:09.793653",
+      "domain": "24_computing"
+    },
+    "3a01dbabec50f91a49027ba94647636f847f239619d22a3905aea20cf51d8ea6": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170709_idea_Multisensory_vs._unisensory_learning__how_they_sha.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104245_rss_Multisensory_vs._unisensory_learning__how_they_sha.txt",
+      "processed_date": "2025-09-22T17:07:09.795786",
+      "domain": "24_computing"
+    },
+    "dd6f2852eca08b216aa59b973c4dcd83c9690601e733033e578dca4db40ace51": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170709_idea_Negotiative_Alignment__Embracing_Disagreement_to_A.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104244_rss_Negotiative_Alignment__Embracing_Disagreement_to_A.txt",
+      "processed_date": "2025-09-22T17:07:09.797912",
+      "domain": "24_computing"
+    },
+    "bf72881102c4cb91fd493c4393bf08c42067087132f8b16c245982d20752c6d6": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170709_idea_Distinct_Cortical_Populations_Drive_Multisensory_M.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_102659_rss_Distinct_Cortical_Populations_Drive_Multisensory_M.txt",
+      "processed_date": "2025-09-22T17:07:09.800664",
+      "domain": "26_brain_imaging"
+    },
+    "f74f57700c7edece5baa9a7cbc6b03165488e5e3e7074d39c8b772c58ba0fec8": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170709_idea_Brainwide_hemodynamics_predict_EEG_neural_rhythms_.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250919_175449_rss_Brainwide_hemodynamics_predict_EEG_neural_rhythms_.txt",
+      "processed_date": "2025-09-22T17:07:09.802894",
+      "domain": "24_computing"
+    },
+    "b3a68221de8a7e92618a89bc229b34cf683a23c3e35ab7a7b7c24196ee9db718": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170709_idea_Modeling_Transformers_as_complex_networks_to_analy.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_102658_rss_Modeling_Transformers_as_complex_networks_to_analy.txt",
+      "processed_date": "2025-09-22T17:07:09.805030",
+      "domain": "24_computing"
+    },
+    "d8458cc013e86d8d0c8607e69481f720d7d069a11e4d1c4c95f67d67b8c56c80": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170709_idea_Enhancing_the_sensitivity_of_gamma-aminobutyric_ac.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104337_rss_Enhancing_the_sensitivity_of_gamma-aminobutyric_ac.txt",
+      "processed_date": "2025-09-22T17:07:09.807226",
+      "domain": "24_computing"
+    },
+    "33c3df7eca467b7e10d3355be3566d5a4d24354bc44c13f2d2ce3a813cd65df7": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170709_idea_The_role_of_suprasegmental_cues_in_perception_of_s.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104245_rss_The_role_of_suprasegmental_cues_in_perception_of_s.txt",
+      "processed_date": "2025-09-22T17:07:09.809347",
+      "domain": "24_computing"
+    },
+    "96e298987fdc732b0d82a826cfe46daa5414a26825ca75313843fb8aa3328502": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170709_idea_Obsidian_1.9.12_Mobile__Public_.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104244_rss_Obsidian_1.9.12_Mobile__Public_.txt",
+      "processed_date": "2025-09-22T17:07:09.811467",
+      "domain": null
+    },
+    "f4e2f5a0ebba0fe71eb48908e042478c7abf09595c8cbd66a820ef759422570d": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170709_idea_Obsidian_1.9.13_Mobile__Early_access_.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104244_rss_Obsidian_1.9.13_Mobile__Early_access_.txt",
+      "processed_date": "2025-09-22T17:07:09.813710",
+      "domain": null
+    },
+    "74950c846c7f74a9a3b0dc690f88cb8116e89ca0e4b91f8256998609edc0d7d5": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170709_idea_SmolRGPT__Efficient_Spatial_Reasoning_for_Warehous.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_102658_rss_SmolRGPT__Efficient_Spatial_Reasoning_for_Warehous.txt",
+      "processed_date": "2025-09-22T17:07:09.816093",
+      "domain": "24_computing"
+    },
+    "a54cd3c5cb583d9abfa785722444d26185aeee1f6a22f41d4ce2c68836147878": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170709_idea_SparseDoctor__Towards_Efficient_Chat_Doctor_with_M.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250919_175447_rss_SparseDoctor__Towards_Efficient_Chat_Doctor_with_M.txt",
+      "processed_date": "2025-09-22T17:07:09.818549",
+      "domain": "24_computing"
+    },
+    "f228ceba0c855557bd68dd366c9ab4c81674aa3a3bef9e1953f99d6a85978e1d": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170709_idea_Measurement_and_Potential_Field-Based_Patient_Mode.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104244_rss_Measurement_and_Potential_Field-Based_Patient_Mode.txt",
+      "processed_date": "2025-09-22T17:07:09.821550",
+      "domain": "24_computing"
+    },
+    "3ba35fe4a6b6bf31bda1cdcbb1a089975e2c5a863ad81e303af15896ff0deaf2": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170709_idea_The_Distribution_Shift_Problem_in_Transportation_N.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104243_rss_The_Distribution_Shift_Problem_in_Transportation_N.txt",
+      "processed_date": "2025-09-22T17:07:09.824748",
+      "domain": "24_computing"
+    },
+    "e04419c57ec84a25309ae1b9714d2756b28c7a1d86f31f1933c153048fa09d1a": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170709_idea_Temporal_Representation_Learning_of_Phenotype_Traj.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250919_175448_rss_Temporal_Representation_Learning_of_Phenotype_Traj.txt",
+      "processed_date": "2025-09-22T17:07:09.827496",
+      "domain": "24_computing"
+    },
+    "f51703345cdc085a98debbe46c8b354c15c14fffc891a8d2696813221290eebf": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170709_idea_Value_Alignment_of_Social_Media_Ranking_Algorithms.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250919_175448_rss_Value_Alignment_of_Social_Media_Ranking_Algorithms.txt",
+      "processed_date": "2025-09-22T17:07:09.829945",
+      "domain": "24_computing"
+    },
+    "fedafc7d01cf5c8b1311854c654d155bdcc98b4b11609ae029dd5f8eb59d3037": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170709_idea_Combined_Auditory__Tactile__and_Visual_FMRI_Reveal.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104244_rss_Combined_Auditory__Tactile__and_Visual_FMRI_Reveal.txt",
+      "processed_date": "2025-09-22T17:07:09.832318",
+      "domain": "24_computing"
+    },
+    "e9fdc8e82d6cd98a586ebc53cbc5db4c8876089e8a47a830156edc8d14ffd2bf": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170709_idea_AToken__A_Unified_Tokenizer_for_Vision.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250919_175448_rss_AToken__A_Unified_Tokenizer_for_Vision.txt",
+      "processed_date": "2025-09-22T17:07:09.834781",
+      "domain": "24_computing"
+    },
+    "df2c7f29834eebed1f2fe645adc0ea25158c0be4ed54d3698ab25dabc0daa256": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170709_idea_Synthetic_bootstrapped_pretraining.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104243_rss_Synthetic_bootstrapped_pretraining.txt",
+      "processed_date": "2025-09-22T17:07:09.837429",
+      "domain": "24_computing"
+    },
+    "211eb110d1bb2eb09e31360c245b30599e62f2bfc884b1d141fbb4983e44aac1": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170709_idea_Rapid_learning_of_neural_circuitry_from_holographi.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104336_rss_Rapid_learning_of_neural_circuitry_from_holographi.txt",
+      "processed_date": "2025-09-22T17:07:09.839957",
+      "domain": "26_brain_imaging"
+    },
+    "11bf69dea8e34671cd1eca869902ec7013f821951878d1a81afb148bf4531af1": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170709_idea_FlowDrive__Energy_Flow_Field_for_End-to-End_Autono.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250919_175447_rss_FlowDrive__Energy_Flow_Field_for_End-to-End_Autono.txt",
+      "processed_date": "2025-09-22T17:07:09.842362",
+      "domain": "24_computing"
+    },
+    "e905360663e688801f93c6566801db3579ad4a030772dec8cedba64b3e91ce33": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170709_idea_Near-Real-Time_Resource_Slicing_for_QoS_Optimizati.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250919_175447_rss_Near-Real-Time_Resource_Slicing_for_QoS_Optimizati.txt",
+      "processed_date": "2025-09-22T17:07:09.844731",
+      "domain": "24_computing"
+    },
+    "7b8bcf510f109df22b3d9f70b0de225ba02197cb2972c33cd31a352b6e9d9881": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170709_idea_Obsidian_1.9.10_Desktop__Public_.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104336_rss_Obsidian_1.9.10_Desktop__Public_.txt",
+      "processed_date": "2025-09-22T17:07:09.847858",
+      "domain": null
+    },
+    "5c824e9b76c41460f3942e27efa20c7a0be3327710269a0dd5282f35e5751ddf": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170709_idea_Variation_in_the_geometry_of_concept_manifolds_acr.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104245_rss_Variation_in_the_geometry_of_concept_manifolds_acr.txt",
+      "processed_date": "2025-09-22T17:07:09.850556",
+      "domain": "24_computing"
+    },
+    "085d035da64c6e6794c1b6ad0a96acc2d42a7a2b11ae328047fe091d7b3c47f7": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170709_idea_Grid_cells_accurately_track_movement_during_path_i.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104336_rss_Grid_cells_accurately_track_movement_during_path_i.txt",
+      "processed_date": "2025-09-22T17:07:09.853227",
+      "domain": "24_computing"
+    },
+    "1f42cbd8eb1c2fd162e8d87ad082a49857ef07f3e7a5f84352c5627babc34d31": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170709_idea_Chameleon__A_Surface-Anchored_Smartphone_AR_Protot.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250919_175448_rss_Chameleon__A_Surface-Anchored_Smartphone_AR_Protot.txt",
+      "processed_date": "2025-09-22T17:07:09.855988",
+      "domain": "24_computing"
+    },
+    "c0bff29e8d5fef64d6733212ea73da15f6cb66e4990e02ac9378f05c5d62181d": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170709_idea_Examining_Input_Modalities_and_Visual_Feedback_Des.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_102658_rss_Examining_Input_Modalities_and_Visual_Feedback_Des.txt",
+      "processed_date": "2025-09-22T17:07:09.860977",
+      "domain": "24_computing"
+    },
+    "b6bcb6fdda5785b90bc698de911a2d4e2194cc28d0166d693a619077c986811a": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170709_idea_MEC-Quant__Maximum_Entropy_Coding_for_Extremely_Lo.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104244_rss_MEC-Quant__Maximum_Entropy_Coding_for_Extremely_Lo.txt",
+      "processed_date": "2025-09-22T17:07:09.863712",
+      "domain": "24_computing"
+    },
+    "5c3071dde1e90c956e32ce701deed6d9d7ed24b5bbe958a4665e397051daa111": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170709_idea_Exploring_the_Capabilities_of_LLM_Encoders_for_Ima.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104335_rss_Exploring_the_Capabilities_of_LLM_Encoders_for_Ima.txt",
+      "processed_date": "2025-09-22T17:07:09.866253",
+      "domain": "24_computing"
+    },
+    "7fbb53244a53a12b40cb0fc91b7a70e56f6d558da06223a2a24e5fddde235f7d": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170709_idea_Opportunities_for_machine_learning_to_predict_cros.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_102700_rss_Opportunities_for_machine_learning_to_predict_cros.txt",
+      "processed_date": "2025-09-22T17:07:09.869058",
+      "domain": "24_computing"
+    },
+    "7de1a82f7aba1b043a84fabf8fb22dd33e9471ee84aa8ef24d3371f75dd13ea9": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170709_idea_Partial_Column_Generation_with_Graph_Neural_Networ.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104335_rss_Partial_Column_Generation_with_Graph_Neural_Networ.txt",
+      "processed_date": "2025-09-22T17:07:09.874707",
+      "domain": "24_computing"
+    },
+    "b1eba15753e23a95511223b3dea1ff8961e0f49a37827ea10d9bc4851d5e34b4": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170709_idea_Climate_Data_for_Power_Systems_Applications__Lesso.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250919_175448_rss_Climate_Data_for_Power_Systems_Applications__Lesso.txt",
+      "processed_date": "2025-09-22T17:07:09.877964",
+      "domain": "24_computing"
+    },
+    "663c35ec95cd3bea0ee6496f441358d56e0a2816fb12f43772f47e26afca78f6": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170709_idea_Re-imagining_Behavioral_Sleep_Medicine__Designing_.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_102658_rss_Re-imagining_Behavioral_Sleep_Medicine__Designing_.txt",
+      "processed_date": "2025-09-22T17:07:09.880843",
+      "domain": "24_computing"
+    },
+    "c416e26a5e6e83e867df5dfa4b3917580cfa9437396d64225018bea88f379fe5": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170709_idea_Region-Aware_Deformable_Convolutions.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104335_rss_Region-Aware_Deformable_Convolutions.txt",
+      "processed_date": "2025-09-22T17:07:09.883467",
+      "domain": "24_computing"
+    },
+    "cb7817701a8b0c4974399b503abdd50c14c9f524e5b73c418209561b19af47f3": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170709_idea_Seeing_3D_Through_2D_Lenses__3D_Few-Shot_Class-Inc.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250919_175448_rss_Seeing_3D_Through_2D_Lenses__3D_Few-Shot_Class-Inc.txt",
+      "processed_date": "2025-09-22T17:07:09.886554",
+      "domain": "25_foss"
+    },
+    "788d092ebec2bf3a64187e206c0f30859c17812e5c984a3fc475d125265ccd62": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170709_idea_A_review_of_the_application_of_intelligent_sensing.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250919_175449_rss_A_review_of_the_application_of_intelligent_sensing.txt",
+      "processed_date": "2025-09-22T17:07:09.890783",
+      "domain": "24_computing"
+    },
+    "342255a652650a25b1e7fc47276a6c4d9e17f8ac6013f8ff8e6715908d037eaf": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170709_idea_ViSpec__Accelerating_Vision-Language_Models_with_V.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104244_rss_ViSpec__Accelerating_Vision-Language_Models_with_V.txt",
+      "processed_date": "2025-09-22T17:07:09.894684",
+      "domain": "24_computing"
+    },
+    "180a87173bb75fa410d864f456a21d4d8b1587605c481ffca2a041f4823ef26d": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170709_idea_Obsidian_1.9.3_Mobile__Early_access_.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104336_rss_Obsidian_1.9.3_Mobile__Early_access_.txt",
+      "processed_date": "2025-09-22T17:07:09.897693",
+      "domain": null
+    },
+    "e5d8c1099baa81d7d589b5889c7a427d3d9296c023839b87c83e1cec0d801ef0": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170709_idea_Generative_AI_Meets_Wireless_Sensing__Towards_Wire.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104243_rss_Generative_AI_Meets_Wireless_Sensing__Towards_Wire.txt",
+      "processed_date": "2025-09-22T17:07:09.900884",
+      "domain": "24_computing"
+    },
+    "e010dc640ca77406c461e5325b68a41370df74ee9d0b7aa8df1a318b2c35c613": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170709_idea_Multimodal_Hate_Detection_Using_Dual-Stream_Graph_.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250918_114950_rss_Multimodal_Hate_Detection_Using_Dual-Stream_Graph_.txt",
+      "processed_date": "2025-09-22T17:07:09.904141",
+      "domain": "24_computing"
+    },
+    "a00634330bfd379e8047b7bdc6ec89794cdf2a4447a6547f50558f7b3aa53218": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170709_idea_AgentA_B__Automated_and_Scalable_Web_A_BTesting_wi.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_102658_rss_AgentA_B__Automated_and_Scalable_Web_A_BTesting_wi.txt",
+      "processed_date": "2025-09-22T17:07:09.907516",
+      "domain": "24_computing"
+    },
+    "a5bdd0383f8dac9eec47ac6b3e333c9a75ef0563606208c35d6132e83e2e7b29": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170709_idea_A_Real-Time_Multi-Model_Parametric_Representation_.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250919_175448_rss_A_Real-Time_Multi-Model_Parametric_Representation_.txt",
+      "processed_date": "2025-09-22T17:07:09.911038",
+      "domain": null
+    },
+    "b73e21f7efb2c65e05db1137dae5eca1ce7e57a8588a9a60f7aaae9dd6b8e608": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170709_idea_Collective_Voice__Recovered-Peer_Support_Mediated_.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104244_rss_Collective_Voice__Recovered-Peer_Support_Mediated_.txt",
+      "processed_date": "2025-09-22T17:07:09.913893",
+      "domain": "24_computing"
+    },
+    "1d978e7996d38e2cfe8023cbb777278a6fd288226fd8910714a67f48a639822a": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170709_idea_Characterization_of_Auditory_Responsive_Neurons_in.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104337_rss_Characterization_of_Auditory_Responsive_Neurons_in.txt",
+      "processed_date": "2025-09-22T17:07:09.916977",
+      "domain": "24_computing"
+    },
+    "a8cc5eb80bb26a45c71d7d0fb341bbfe43f7bca634eb4b57d35e4ffa8a0177a4": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170709_idea_Adaptive_algorithms_for_shaping_behavior.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_102700_rss_Adaptive_algorithms_for_shaping_behavior.txt",
+      "processed_date": "2025-09-22T17:07:09.919685",
+      "domain": "24_computing"
+    },
+    "5da5deb21b5126b2034b6b15766e5ff9713583d8f80c316d8210bac18798c4b3": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170709_idea_Pre-Forgettable_Models__Prompt_Learning_as_a_Nativ.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104243_rss_Pre-Forgettable_Models__Prompt_Learning_as_a_Nativ.txt",
+      "processed_date": "2025-09-22T17:07:09.922361",
+      "domain": "24_computing"
+    },
+    "d6fce27bbf12167f9fa2c2e62b0bfefb2504fa44a22d4f42fe72707bf428389a": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170709_idea_Efficient_and_Versatile_Model_for_Multilingual_Inf.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_102658_rss_Efficient_and_Versatile_Model_for_Multilingual_Inf.txt",
+      "processed_date": "2025-09-22T17:07:09.925066",
+      "domain": "24_computing"
+    },
+    "1419c569d657757f63d64a7c8beb30271d23b55d552969f8f56b685d15b427a1": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170709_idea_Spatiotemporal_Dynamics_of_Language_Information_Re.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250919_175449_rss_Spatiotemporal_Dynamics_of_Language_Information_Re.txt",
+      "processed_date": "2025-09-22T17:07:09.927618",
+      "domain": "24_computing"
+    },
+    "f0b5b38755e9040a2994a83e232be114d34c4232104080249d6874f9aeabac96": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170709_idea_Modeling_neuron-astrocyte_interactions_in_neural_n.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_102700_rss_Modeling_neuron-astrocyte_interactions_in_neural_n.txt",
+      "processed_date": "2025-09-22T17:07:09.930101",
+      "domain": "24_computing"
+    },
+    "633d45fc7c0637fd7571a7fb380d46432fef0d85c9e9cd8415d607c84c6471b6": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170709_idea_Explainable_AI_for_Maritime_Autonomous_Surface_Shi.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104336_rss_Explainable_AI_for_Maritime_Autonomous_Surface_Shi.txt",
+      "processed_date": "2025-09-22T17:07:09.932795",
+      "domain": "24_computing"
+    },
+    "b56d0211e1325646e076c974c45e4183e8adf9cfd81587fe459b6ad7b7d49d0b": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170709_idea_The_vermian-crest_angle__a_prediction_model_for_fo.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104245_rss_The_vermian-crest_angle__a_prediction_model_for_fo.txt",
+      "processed_date": "2025-09-22T17:07:09.935421",
+      "domain": "24_computing"
+    },
+    "ced8da811cfca6733f3eeca183d1f29e16ababc54b49a77be9689d1402375f4d": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170709_idea_Campus_AI_vs._Commercial_AI__How_Customizations_Sh.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104336_rss_Campus_AI_vs._Commercial_AI__How_Customizations_Sh.txt",
+      "processed_date": "2025-09-22T17:07:09.937972",
+      "domain": "24_computing"
+    },
+    "7384971d0b285445866d0cee0890f1371de8497b5d39a024222ac46c47ef9c7c": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170709_idea_PRISM__Phase-enhanced_Radial-based_Image_Signature.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104243_rss_PRISM__Phase-enhanced_Radial-based_Image_Signature.txt",
+      "processed_date": "2025-09-22T17:07:09.940443",
+      "domain": "24_computing"
+    },
+    "1b2e3256bc146e139a65697db953ae8d4983aedcd34abda3ac9e0adfe077533a": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170709_idea_How_Good_are_Foundation_Models_in_Step-by-Step_Emb.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104335_rss_How_Good_are_Foundation_Models_in_Step-by-Step_Emb.txt",
+      "processed_date": "2025-09-22T17:07:09.942915",
+      "domain": "24_computing"
+    },
+    "f5fcfe6af860d6c0e1af5c0a9122104dd01cc29dcb355f41199874ea84e087ea": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170709_idea_Ligands_binding_diffusively_to_protein_target_act_.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104337_rss_Ligands_binding_diffusively_to_protein_target_act_.txt",
+      "processed_date": "2025-09-22T17:07:09.946086",
+      "domain": "24_computing"
+    },
+    "7fa1d43ece5a3f7a920ff6ba28308547a3da58ff4c74ccfbb4a38c6296376ef5": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170709_idea_Personalized_pulse_wave_propagation_modeling_to_im.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104245_rss_Personalized_pulse_wave_propagation_modeling_to_im.txt",
+      "processed_date": "2025-09-22T17:07:09.950194",
+      "domain": "24_computing"
+    },
+    "0bec5d39ec183ed9cbaab4613a9a1f6fa7d9f9f87a3386fbe92804f46263f270": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170709_idea_Obsidian_1.9.3_Desktop__Early_access_.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104336_rss_Obsidian_1.9.3_Desktop__Early_access_.txt",
+      "processed_date": "2025-09-22T17:07:09.953389",
+      "domain": "24_computing"
+    },
+    "90fd471ef59557fdd988a282243ea1530d52d205ffebe67481f13b6ce275401a": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170709_idea_Obsidian_1.9.0_Mobile__Early_access_.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_102659_rss_Obsidian_1.9.0_Mobile__Early_access_.txt",
+      "processed_date": "2025-09-22T17:07:09.959309",
+      "domain": null
+    },
+    "f2d95073f53558167e81424a5abb3d8a194e3b45f15b789701bddee17b7e5f6d": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170709_idea_EmoHeal__An_End-to-End_System_for_Personalized_The.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_102658_rss_EmoHeal__An_End-to-End_System_for_Personalized_The.txt",
+      "processed_date": "2025-09-22T17:07:09.962255",
+      "domain": "24_computing"
+    },
+    "3cdca47440d86db471c84332945692b78f80a7dd61e03017caed5d601a08f946": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170709_idea_Real_World_Robotic_Exploration_using_Deep_Neural_N.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250918_114950_rss_Real_World_Robotic_Exploration_using_Deep_Neural_N.txt",
+      "processed_date": "2025-09-22T17:07:09.965551",
+      "domain": "24_computing"
+    },
+    "66fcb6524bbced3f6021a37d8ad071567918a7bc05afac4d88410b900bc91102": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170709_idea_Obsidian_1.9.10_Desktop__Early_access_.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104244_rss_Obsidian_1.9.10_Desktop__Early_access_.txt",
+      "processed_date": "2025-09-22T17:07:09.968704",
+      "domain": null
+    },
+    "2e63ebf68ed97b8f3cd4e5271f673f232133138539853c56c147d9bf62841e89": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170709_idea_Evaluating_the_Limitations_of_Local_LLMs_in_Solvin.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104243_rss_Evaluating_the_Limitations_of_Local_LLMs_in_Solvin.txt",
+      "processed_date": "2025-09-22T17:07:09.971573",
+      "domain": "24_computing"
+    },
+    "76c88d8f7444e4ec79b42b89d5435dcd8847f2966d0a1d73a5502ff15a595b0a": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170709_idea_Affective_Air_Quality_Dataset__Personal_Chemical_E.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104244_rss_Affective_Air_Quality_Dataset__Personal_Chemical_E.txt",
+      "processed_date": "2025-09-22T17:07:09.974362",
+      "domain": "24_computing"
+    },
+    "8f8cfe386521d2261ec35274ad1448effa05a1e243a10d7be5d9ec84d0125411": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170709_idea_UXAgent__A_System_for_Simulating_Usability_Testing.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_102658_rss_UXAgent__A_System_for_Simulating_Usability_Testing.txt",
+      "processed_date": "2025-09-22T17:07:09.979194",
+      "domain": null
+    },
+    "806d19497460dbd12a3f04592b6ff7d83ee8d374696e1ae6b66d963100d4cdec": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170709_idea_Obsidian_1.9.10_Mobile__Early_access_.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104244_rss_Obsidian_1.9.10_Mobile__Early_access_.txt",
+      "processed_date": "2025-09-22T17:07:09.982892",
+      "domain": null
+    },
+    "b65de4630db50d6917b8c98c313b7e3c314ccb24ffb009643c77b446000d994f": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170709_idea_MRDtarget__A_heuristic_Gaussian_approach_for_optim.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104337_rss_MRDtarget__A_heuristic_Gaussian_approach_for_optim.txt",
+      "processed_date": "2025-09-22T17:07:09.985895",
+      "domain": "24_computing"
+    },
+    "055b2e5bbbf9d02bb442466b90f1128ca6125f74b1ca78ad2ce633a2c45beb0c": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170709_idea_Knowledge-Driven_Hallucination_in_Large_Language_M.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_102658_rss_Knowledge-Driven_Hallucination_in_Large_Language_M.txt",
+      "processed_date": "2025-09-22T17:07:09.988887",
+      "domain": "24_computing"
+    },
+    "bcfe923d290b758f031c7554d5a38e84d4d6373db9e7686811c0a0ebb89bd5c7": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170709_idea_Dynamical_mean-field_theory_for_a_highly_heterogen.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104337_rss_Dynamical_mean-field_theory_for_a_highly_heterogen.txt",
+      "processed_date": "2025-09-22T17:07:09.992166",
+      "domain": "24_computing"
+    },
+    "38c4479f4e58dc7cfb2c9fd87ce4a8593359b1e532971649728cfc11255d781d": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170709_idea_Altered_Molecular_Composition_of_a_Specific_Subset.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_102659_rss_Altered_Molecular_Composition_of_a_Specific_Subset.txt",
+      "processed_date": "2025-09-22T17:07:09.996130",
+      "domain": "24_computing"
+    },
+    "1a5992621ea1f4fa4528dca69afb900cc990ad03ab1619eaa3dbe63f25d87f9d": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_A_Systematic_Survey_of_Empirical_User_Studies_of_U.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_102658_rss_A_Systematic_Survey_of_Empirical_User_Studies_of_U.txt",
+      "processed_date": "2025-09-22T17:07:10.003169",
+      "domain": "24_computing"
+    },
+    "f57b182a86bd697e6ae27d7aabf544c9fe088859d13844adf14fd22f60d8fac1": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_High-throughput_synaptic_connectivity_mapping_usin.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_102659_rss_High-throughput_synaptic_connectivity_mapping_usin.txt",
+      "processed_date": "2025-09-22T17:07:10.007482",
+      "domain": "26_brain_imaging"
+    },
+    "bf66d02b7e5c4869da9768e9616d1810057621483e84d25b398fb2129cb51ec5": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Task-relevant_representational_spaces_in_human_mem.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104245_rss_Task-relevant_representational_spaces_in_human_mem.txt",
+      "processed_date": "2025-09-22T17:07:10.014817",
+      "domain": "24_computing"
+    },
+    "2662c5161e7ae9e15fac3478cde26b2cdafed406d2f1ea247c941143c99de26d": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_The_Rise_of_Semantic_Entity_Resolution.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250918_114949_rss_The_Rise_of_Semantic_Entity_Resolution.txt",
+      "processed_date": "2025-09-22T17:07:10.021870",
+      "domain": "24_computing"
+    },
+    "2aa471a47a8a8f247413605904a7e2730b382490fd0f16da5a09e93e0d3bfc81": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Spike-based_time-domain_analog_weighted-sum_calcul.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250919_175449_rss_Spike-based_time-domain_analog_weighted-sum_calcul.txt",
+      "processed_date": "2025-09-22T17:07:10.025917",
+      "domain": "24_computing"
+    },
+    "4c5d1625d5d31b783199b748c7b3e8f394860759d7f8a5e72324bf3bced56674": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_pFedSAM__Personalized_Federated_Learning_of_Segmen.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104244_rss_pFedSAM__Personalized_Federated_Learning_of_Segmen.txt",
+      "processed_date": "2025-09-22T17:07:10.030016",
+      "domain": "24_computing"
+    },
+    "984306567afff4d96cff4f57c01b1c1ee53bc849dc6fc9131193586b8d2f71dd": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Region-Aware_Deformable_Convolutions.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104243_rss_Region-Aware_Deformable_Convolutions.txt",
+      "processed_date": "2025-09-22T17:07:10.034617",
+      "domain": "24_computing"
+    },
+    "7b641d588b68525cb7c69f898cc205e3add3f4be432cd4b7506b5ea4358da3d4": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_From_Capabilities_to_Performance__Evaluating_Key_F.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250919_175447_rss_From_Capabilities_to_Performance__Evaluating_Key_F.txt",
+      "processed_date": "2025-09-22T17:07:10.038947",
+      "domain": "24_computing"
+    },
+    "6aae4362cddb5b08149c416fb7a864f5671c93165f1560010f28badc032df8a5": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Diffusion-Based_Cross-Modal_Feature_Extraction_for.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104244_rss_Diffusion-Based_Cross-Modal_Feature_Extraction_for.txt",
+      "processed_date": "2025-09-22T17:07:10.051330",
+      "domain": "24_computing"
+    },
+    "a427ed388bf3bacdf3c54d36b862be043f3aa54836a63a0e982fd19f45388e7f": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Simulation_insights_on_the_compound_action_potenti.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104337_rss_Simulation_insights_on_the_compound_action_potenti.txt",
+      "processed_date": "2025-09-22T17:07:10.056347",
+      "domain": null
+    },
+    "703d169427e1e9978c7f71adad93bb4cad15b7763ef7255e235acf355bd62206": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Cam-2-Cam__Exploring_the_Design_Space_of_Dual-Came.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250919_175448_rss_Cam-2-Cam__Exploring_the_Design_Space_of_Dual-Came.txt",
+      "processed_date": "2025-09-22T17:07:10.060360",
+      "domain": "24_computing"
+    },
+    "8e662846bdabb27926e11018a8fbc07f41b96b26612138340136f586d7c1296e": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Apertus__Democratizing_Open_and_Compliant_LLMs_for.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250918_114950_rss_Apertus__Democratizing_Open_and_Compliant_LLMs_for.txt",
+      "processed_date": "2025-09-22T17:07:10.063580",
+      "domain": "24_computing"
+    },
+    "29b538a1ee460d5b4886a3d93b3a39bdda602ce1db74188b4655cac317bf9ce3": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_The_Anatomy_of_a_Personal_Health_Agent.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104336_rss_The_Anatomy_of_a_Personal_Health_Agent.txt",
+      "processed_date": "2025-09-22T17:07:10.066388",
+      "domain": "24_computing"
+    },
+    "05a91df77297c36c11e72279a2ed43c6a6d5ff6c38449daf2999d0c747a13503": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Emulating_Human-like_Adaptive_Vision_for_Efficient.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_102658_rss_Emulating_Human-like_Adaptive_Vision_for_Efficient.txt",
+      "processed_date": "2025-09-22T17:07:10.069269",
+      "domain": "24_computing"
+    },
+    "c56175d45b6e8169ab541dec9221d31d1d5a6a01cb2fc4d920200d0e27a1c0af": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Constructive_Conflict-Driven_Multi-Agent_Reinforce.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250919_175447_rss_Constructive_Conflict-Driven_Multi-Agent_Reinforce.txt",
+      "processed_date": "2025-09-22T17:07:10.072504",
+      "domain": null
+    },
+    "f25b7c3eafdf2707cad93a3f4f0ca7bcb24571b71faf98d93d4de5ffd107032e": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_HeedVision__Attention_Awareness_in_Collaborative_I.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_102658_rss_HeedVision__Attention_Awareness_in_Collaborative_I.txt",
+      "processed_date": "2025-09-22T17:07:10.075468",
+      "domain": "24_computing"
+    },
+    "33facf1059fef0132e56b6d1549753d17e3698c904cde2f55f06b784d5cfeb02": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Obsidian_1.8.9_Mobile__Early_access_.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104244_rss_Obsidian_1.8.9_Mobile__Early_access_.txt",
+      "processed_date": "2025-09-22T17:07:10.082092",
+      "domain": null
+    },
+    "241bcb872df903cceed5d09a6797186099624b9b4e011fa9afc92070d3487f34": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Fracture_interactive_geodesic_active_contours_for_.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250919_175448_rss_Fracture_interactive_geodesic_active_contours_for_.txt",
+      "processed_date": "2025-09-22T17:07:10.088293",
+      "domain": "24_computing"
+    },
+    "c18a94cfa3ccf27b1d1f1ae681f2b43e27b851beee0d80cd10fc3e1053b2db22": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_A_nonlinear_relationship_between_prediction_errors.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_102700_rss_A_nonlinear_relationship_between_prediction_errors.txt",
+      "processed_date": "2025-09-22T17:07:10.091534",
+      "domain": "24_computing"
+    },
+    "258faa14efaf3077234d791456b155422808bef626d907e2abd0214e0d05e01b": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Understanding_Physical_Therapy_Challenges_for_Olde.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250919_175448_rss_Understanding_Physical_Therapy_Challenges_for_Olde.txt",
+      "processed_date": "2025-09-22T17:07:10.094475",
+      "domain": "24_computing"
+    },
+    "fd67a8b33d0fdacaa3c18be0d55c393dca8a9c52316e707d4cf76aac2a36a4ee": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Recurrent_pattern_completion_drives_the_neocortica.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104244_rss_Recurrent_pattern_completion_drives_the_neocortica.txt",
+      "processed_date": "2025-09-22T17:07:10.097771",
+      "domain": "26_brain_imaging"
+    },
+    "ab0b6c5c42726e5373a891acb194b4d8b36bf6d5f2c1e05f7897c1c64017d2d4": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Obsidian_1.8.10_Mobile__Public_.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_102659_rss_Obsidian_1.8.10_Mobile__Public_.txt",
+      "processed_date": "2025-09-22T17:07:10.100491",
+      "domain": "24_computing"
+    },
+    "bd96e69b6b724ce9c361c7bc7fbebfb7fcd5248ca75a70936babf806c07ce997": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Temporal_integration_in_human_auditory_cortex_is_p.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_102659_rss_Temporal_integration_in_human_auditory_cortex_is_p.txt",
+      "processed_date": "2025-09-22T17:07:10.110103",
+      "domain": "26_brain_imaging"
+    },
+    "19a1ce3ee8ac7679b6c0a79b4631fd94e55d68637650c6c2875d72d36fb53365": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_wavess__An_R_package_for_simulation_of_adaptive_wi.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250919_175449_rss_wavess__An_R_package_for_simulation_of_adaptive_wi.txt",
+      "processed_date": "2025-09-22T17:07:10.113123",
+      "domain": "24_computing"
+    },
+    "885f074aa270455d7c6a8efaf0850cd5de20603cbccae51205728441f8d32068": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_NeKo__A_tool_for_automatic_network_construction_fr.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_102700_rss_NeKo__A_tool_for_automatic_network_construction_fr.txt",
+      "processed_date": "2025-09-22T17:07:10.118815",
+      "domain": "24_computing"
+    },
+    "0181efc16a9cfbb08cee42c0b076632c82b1e0d70f740134c3e93e0ee07de01e": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Obsidian_1.9.12_Mobile__Early_access_.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104244_rss_Obsidian_1.9.12_Mobile__Early_access_.txt",
+      "processed_date": "2025-09-22T17:07:10.121633",
+      "domain": null
+    },
+    "a1141c4a638febf0e6cb3287eec478b532785b9463188702300934e523968947": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_TFANet__a_temporal_fusion_attention_neural_network.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_102700_rss_TFANet__a_temporal_fusion_attention_neural_network.txt",
+      "processed_date": "2025-09-22T17:07:10.126426",
+      "domain": "24_computing"
+    },
+    "836893e35d51e933f2904056f44a11f0265b723806e75cff12312b43ab4b3a9c": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_From_Development_to_Deployment_of_AI-assisted_Tele.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104244_rss_From_Development_to_Deployment_of_AI-assisted_Tele.txt",
+      "processed_date": "2025-09-22T17:07:10.129213",
+      "domain": "24_computing"
+    },
+    "50f734a8bc3ae8f27bfe8cb385f30157a1fec3354ffed3e126f19051b604e202": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Spatial_Balancing__Harnessing_Spatial_Reasoning_to.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104336_rss_Spatial_Balancing__Harnessing_Spatial_Reasoning_to.txt",
+      "processed_date": "2025-09-22T17:07:10.132349",
+      "domain": null
+    },
+    "711b25501625089d148042d53ef9b4e52e79c9dbd30b11d8cffc5c272eb00ada": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Beyond_Spurious_Signals__Debiasing_Multimodal_Larg.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_102658_rss_Beyond_Spurious_Signals__Debiasing_Multimodal_Larg.txt",
+      "processed_date": "2025-09-22T17:07:10.135346",
+      "domain": "24_computing"
+    },
+    "72ee77bcd41cec3616483144a67c17552b40b4d5b67dbd38e0c2e70eda97cd80": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Hierarchical_Self-Attention__Generalizing_Neural_A.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104243_rss_Hierarchical_Self-Attention__Generalizing_Neural_A.txt",
+      "processed_date": "2025-09-22T17:07:10.138996",
+      "domain": "24_computing"
+    },
+    "1e799efc247b45fcd6797d1fb82bd2214e256cbee243160ab4d65d448090c767": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Obsidian_1.8.9_Mobile__Public_.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_102659_rss_Obsidian_1.8.9_Mobile__Public_.txt",
+      "processed_date": "2025-09-22T17:07:10.142096",
+      "domain": null
+    },
+    "38c79730c02392b881df483ffbcd8fa4a162dea2e0cf663c1a6a5604e4540c29": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Subject_Matter_Expertise_vs_Professional_Managemen.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104244_rss_Subject_Matter_Expertise_vs_Professional_Managemen.txt",
+      "processed_date": "2025-09-22T17:07:10.145674",
+      "domain": "24_computing"
+    },
+    "6c6be4bec88434682077568af8713a7605adb7e9c3c27892d70b4f926358df2f": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Effects_of_tDCS_of_the_DLPFC_on_brain_networks__A_.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104337_rss_Effects_of_tDCS_of_the_DLPFC_on_brain_networks__A_.txt",
+      "processed_date": "2025-09-22T17:07:10.152614",
+      "domain": "24_computing"
+    },
+    "bc99c71b08155c22e0cc757f25fa3f661f7705df0a7c07fc65e92900f1a35813": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Can_Current_AI_Models_Count_What_We_Mean__Not_What.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250918_114950_rss_Can_Current_AI_Models_Count_What_We_Mean__Not_What.txt",
+      "processed_date": "2025-09-22T17:07:10.158950",
+      "domain": "24_computing"
+    },
+    "29df81c5a8916102cf32b984175e2663db9c6d6ce678b793ab5cf91d2842aadf": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_ChannelFlow-Tools__A_Standardized_Dataset_Creation.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104335_rss_ChannelFlow-Tools__A_Standardized_Dataset_Creation.txt",
+      "processed_date": "2025-09-22T17:07:10.164952",
+      "domain": "24_computing"
+    },
+    "5a5043de7294a44b4ec8756ca43179fbae53cdb4600da753bb00a513beae68a3": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Large_Vision_Models_Can_Solve_Mental_Rotation_Prob.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_102658_rss_Large_Vision_Models_Can_Solve_Mental_Rotation_Prob.txt",
+      "processed_date": "2025-09-22T17:07:10.170740",
+      "domain": "24_computing"
+    },
+    "6a503c19554bb0f482a6b259d0a0bd5774d931055dba4b5f28b28b8da930f5dc": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Diagnostics_of_cognitive_failures_in_multi-agent_e.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_102658_rss_Diagnostics_of_cognitive_failures_in_multi-agent_e.txt",
+      "processed_date": "2025-09-22T17:07:10.174035",
+      "domain": "26_brain_imaging"
+    },
+    "147fed7944b2209b34462f4adcf4eeada27f0166859a2c383fd9ae5b0d7cdd10": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Deep_learning_and_abstractive_summarisation_for_ra.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104335_rss_Deep_learning_and_abstractive_summarisation_for_ra.txt",
+      "processed_date": "2025-09-22T17:07:10.177137",
+      "domain": "24_computing"
+    },
+    "eae37e89772d2d92fecad874a940da3d436d34d3f215a0dafc95190137e494f2": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Generating_Part-Based_Global_Explanations_Via_Corr.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104244_rss_Generating_Part-Based_Global_Explanations_Via_Corr.txt",
+      "processed_date": "2025-09-22T17:07:10.179909",
+      "domain": "24_computing"
+    },
+    "c4ea17911aefb4cc7ef537bc3f704ef264db2ca175781030d0040ebcdde90c9a": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Leveraging_Familiarity_with_Television_to_Enrich_O.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104244_rss_Leveraging_Familiarity_with_Television_to_Enrich_O.txt",
+      "processed_date": "2025-09-22T17:07:10.182955",
+      "domain": "24_computing"
+    },
+    "e475f43a0d747bb5535c1457c617495de866fea3c000684be538e5eb21844e6b": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Personalized_Real-time_Jargon_Support_for_Online_M.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104336_rss_Personalized_Real-time_Jargon_Support_for_Online_M.txt",
+      "processed_date": "2025-09-22T17:07:10.185795",
+      "domain": "24_computing"
+    },
+    "f31dec6e8f5177087051594ceffa48b9e87ef4ea431ffc39760b3aeed3a689b9": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Enhancing_Sa2VA_for_Referent_Video_Object_Segmenta.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_102658_rss_Enhancing_Sa2VA_for_Referent_Video_Object_Segmenta.txt",
+      "processed_date": "2025-09-22T17:07:10.192713",
+      "domain": "24_computing"
+    },
+    "8cd479b1b036bbd0c7f36310bda9e4ba07781ce845a83d2edb2f01e7b8cd5927": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Obsidian_1.9.11_Desktop__Early_access_.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104244_rss_Obsidian_1.9.11_Desktop__Early_access_.txt",
+      "processed_date": "2025-09-22T17:07:10.196338",
+      "domain": "24_computing"
+    },
+    "cf371d41e23c85e813cc7258af163a20a157a79dd92c7ec58c5e4a7cac4590c8": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_CAGE__Continuity-Aware_edGE_Network_Unlocks_Robust.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104335_rss_CAGE__Continuity-Aware_edGE_Network_Unlocks_Robust.txt",
+      "processed_date": "2025-09-22T17:07:10.199993",
+      "domain": "24_computing"
+    },
+    "85d428bc6ec47ae2e8fde28428b233305fd9f481e1fb12748e6e1b8290901433": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_MaskAttn-SDXL__Controllable_Region-Level_Text-To-I.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104335_rss_MaskAttn-SDXL__Controllable_Region-Level_Text-To-I.txt",
+      "processed_date": "2025-09-22T17:07:10.203294",
+      "domain": "24_computing"
+    },
+    "257de0125a4f425cd88af54902389fd8525b58fa39d1a617a057eb7d72c94950": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Obsidian_1.9.6_Desktop__Early_access_.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104244_rss_Obsidian_1.9.6_Desktop__Early_access_.txt",
+      "processed_date": "2025-09-22T17:07:10.206687",
+      "domain": "24_computing"
+    },
+    "839bc3212964eaf5a26e9e5959fa134e2e66e067eaea79a13a9691d18973697f": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Where_Do_I__Add_the_Egg____Exploring_Agency_and_Ow.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104244_rss_Where_Do_I__Add_the_Egg____Exploring_Agency_and_Ow.txt",
+      "processed_date": "2025-09-22T17:07:10.211775",
+      "domain": "24_computing"
+    },
+    "4e391a1f2238abce0c0582f8c3cb9d4629e22060cfa99c90641f410d804f574f": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Adrenergic_signals_influence_proteomic_responses_i.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104245_rss_Adrenergic_signals_influence_proteomic_responses_i.txt",
+      "processed_date": "2025-09-22T17:07:10.220019",
+      "domain": "24_computing"
+    },
+    "9e8592d3a64bffe27020d35abec4e0e81dfec6debc0695243f9531f7735e2b6f": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Learning_in_Context__Personalizing_Educational_Con.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250919_175448_rss_Learning_in_Context__Personalizing_Educational_Con.txt",
+      "processed_date": "2025-09-22T17:07:10.222896",
+      "domain": "24_computing"
+    },
+    "470478d89ba495714370632dfcc52a9644a79c2e6f58cd87b292b0f6fcc7daba": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Edge-Aware_Normalized_Attention_for_Efficient_and_.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250919_175448_rss_Edge-Aware_Normalized_Attention_for_Efficient_and_.txt",
+      "processed_date": "2025-09-22T17:07:10.227946",
+      "domain": "24_computing"
+    },
+    "b5ea669924152eabc490aed910e480a0480e037898f8c36988c0fb295b313fc7": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_AutoEdit__Automatic_Hyperparameter_Tuning_for_Imag.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250919_175448_rss_AutoEdit__Automatic_Hyperparameter_Tuning_for_Imag.txt",
+      "processed_date": "2025-09-22T17:07:10.231077",
+      "domain": "24_computing"
+    },
+    "2ada3d3e5795b301ae6a6a99d93f7be9503fa7feff470a9a62c0acbcc7e6138e": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_RespoDiff__Dual-Module_Bottleneck_Transformation_f.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104335_rss_RespoDiff__Dual-Module_Bottleneck_Transformation_f.txt",
+      "processed_date": "2025-09-22T17:07:10.235568",
+      "domain": "24_computing"
+    },
+    "fa8b50e40b361ff87a8022ba219cad67540d4b0922e811ea163f96f52ecfdfe8": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Obsidian_1.8.7_Mobile__Early_access_.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_102659_rss_Obsidian_1.8.7_Mobile__Early_access_.txt",
+      "processed_date": "2025-09-22T17:07:10.247859",
+      "domain": "24_computing"
+    },
+    "f341d75463616bfd32378a4b4e0cc42af60163d09c8db92aea477f92bbc4a511": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Fast_and_exact_stochastic_simulations_of_epidemics.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_102700_rss_Fast_and_exact_stochastic_simulations_of_epidemics.txt",
+      "processed_date": "2025-09-22T17:07:10.262068",
+      "domain": "24_computing"
+    },
+    "4f32f4049756ea41041e9357f01449aa5e347809b4f5378362714f65fba2c110": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_A_Multi-Scale_Graph_Neural_Process_with_Cross-Drug.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_102658_rss_A_Multi-Scale_Graph_Neural_Process_with_Cross-Drug.txt",
+      "processed_date": "2025-09-22T17:07:10.265558",
+      "domain": "24_computing"
+    },
+    "648cee5029a37755a679b8c091590cb4d77f3de06dd607b77d68249134efe4de": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Mouse-Specific_Single_cell_cytokine_activity_predi.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104337_rss_Mouse-Specific_Single_cell_cytokine_activity_predi.txt",
+      "processed_date": "2025-09-22T17:07:10.269655",
+      "domain": "24_computing"
+    },
+    "1b87b080951f1b29c4fa89be806437137e9150870835cac28b58d26362374f21": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Comparing_Computational_Pathology_Foundation_Model.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_102658_rss_Comparing_Computational_Pathology_Foundation_Model.txt",
+      "processed_date": "2025-09-22T17:07:10.273000",
+      "domain": "24_computing"
+    },
+    "17b093d61e0d0f3ab879239ec7edbfd451f7f408d3e3bca4f8ae48f6b4ceeb97": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Knoll__Creating_a_Knowledge_Ecosystem_for_Large_La.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250919_175448_rss_Knoll__Creating_a_Knowledge_Ecosystem_for_Large_La.txt",
+      "processed_date": "2025-09-22T17:07:10.277459",
+      "domain": "24_computing"
+    },
+    "59e34e1212bd68d8925b2511b1652d4e4ef14cbcfbfbfad7982a18ea051141ee": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Designing_Culturally_Aligned_AI_Systems_For_Social.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104244_rss_Designing_Culturally_Aligned_AI_Systems_For_Social.txt",
+      "processed_date": "2025-09-22T17:07:10.281686",
+      "domain": "24_computing"
+    },
+    "98770e0e0cd4e4a68d486e72bc662f9e4be0fae303aba9ee7f990b342f86196b": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_GitHub_Copilot_coding_agent_101__Getting_started_w.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250918_114948_rss_GitHub_Copilot_coding_agent_101__Getting_started_w.txt",
+      "processed_date": "2025-09-22T17:07:10.285844",
+      "domain": "24_computing"
+    },
+    "d146c71f2fa3632df1ea220b5e08a9cce4bc4f81111c6a93368b4ce1aa3541cb": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_In_vitro_clustered_cortical_networks_reveal_NMDA-d.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104245_rss_In_vitro_clustered_cortical_networks_reveal_NMDA-d.txt",
+      "processed_date": "2025-09-22T17:07:10.289993",
+      "domain": "24_computing"
+    },
+    "6a03826bab869343979de4e01c1da979caed098517ebdc45fe626dd800c8b64a": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Prior_expectations_guide_multisensory_integration_.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104337_rss_Prior_expectations_guide_multisensory_integration_.txt",
+      "processed_date": "2025-09-22T17:07:10.295823",
+      "domain": "24_computing"
+    },
+    "e2e6e001c70090c4d7ebd4acb7fb03d68705b68ef13fa810f77114ebb083f466": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Which_Direction_to_Choose__An_Analysis_on_the_Repr.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104244_rss_Which_Direction_to_Choose__An_Analysis_on_the_Repr.txt",
+      "processed_date": "2025-09-22T17:07:10.305997",
+      "domain": "24_computing"
+    },
+    "4aa60abe629411d8c2fbe320799527797444a7efa9da7e402c55bedee087e700": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Neuroprotective_effects_of_bavachalcone_in_a_mouse.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104337_rss_Neuroprotective_effects_of_bavachalcone_in_a_mouse.txt",
+      "processed_date": "2025-09-22T17:07:10.310782",
+      "domain": "24_computing"
+    },
+    "1258f4fc8628c2973f8d08ed4c54eb4de29a755f720f70d80e608e17ed22e708": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Obsidian_1.9.5_Desktop__Early_access_.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104244_rss_Obsidian_1.9.5_Desktop__Early_access_.txt",
+      "processed_date": "2025-09-22T17:07:10.321776",
+      "domain": null
+    },
+    "552e1ccba404128ce1e703bd53dd303b2fa8ddb50b88573c3e9fedf594566a14": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Obsidian_1.9.8_Desktop__Early_access_.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104336_rss_Obsidian_1.9.8_Desktop__Early_access_.txt",
+      "processed_date": "2025-09-22T17:07:10.325529",
+      "domain": null
+    },
+    "9a2870a7087ac370b9699c0f0577068132f63078ded7fc93bf067b4f67d99fff": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Structured_Information_for_Improving_Spatial_Relat.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104243_rss_Structured_Information_for_Improving_Spatial_Relat.txt",
+      "processed_date": "2025-09-22T17:07:10.328648",
+      "domain": "24_computing"
+    },
+    "06896e99d2777ef2707d516c882097c8df24d0abcdcf660a86355f0d284e5e55": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Obsidian_1.9.1_Mobile__Early_access_.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104244_rss_Obsidian_1.9.1_Mobile__Early_access_.txt",
+      "processed_date": "2025-09-22T17:07:10.331796",
+      "domain": null
+    },
+    "87c289fe1f3b8a46baedec5f0e4cebf49cf5c146516a7c9158ba5cb09f41a930": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Obsidian_1.9.7_Desktop__Early_access_.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104336_rss_Obsidian_1.9.7_Desktop__Early_access_.txt",
+      "processed_date": "2025-09-22T17:07:10.340920",
+      "domain": "24_computing"
+    },
+    "3a46f28aebbd2d7fbbd7f08d97644f99f451653cecbd1fead43bec4c37236608": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_SAMPO_Scale-wise_Autoregression_with_Motion_PrOmpt.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104335_rss_SAMPO_Scale-wise_Autoregression_with_Motion_PrOmpt.txt",
+      "processed_date": "2025-09-22T17:07:10.345300",
+      "domain": null
+    },
+    "ee54b2e42b8ee984c03f65ca282af1201781007fcb2012ceb324917bb881793b": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_DF-LLaVA__Unlocking_MLLM_s_potential_for_Synthetic.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250919_175448_rss_DF-LLaVA__Unlocking_MLLM_s_potential_for_Synthetic.txt",
+      "processed_date": "2025-09-22T17:07:10.349324",
+      "domain": "24_computing"
+    },
+    "ca5bb807ada99c78f30f3b740d6d9cf6ef529dee4afc30c559099bc74ca8fcfa": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Obsidian_1.8.7_Desktop__Public_.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104244_rss_Obsidian_1.8.7_Desktop__Public_.txt",
+      "processed_date": "2025-09-22T17:07:10.352873",
+      "domain": "24_computing"
+    },
+    "3f48da735a03af4b67e01d7c4e05670dd9953d92ab696f3ab06092ae2fa6a9f6": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_AnchoredAI__Contextual_Anchoring_of_AI_Comments_Im.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104336_rss_AnchoredAI__Contextual_Anchoring_of_AI_Comments_Im.txt",
+      "processed_date": "2025-09-22T17:07:10.356429",
+      "domain": "24_computing"
+    },
+    "dcf8dc0a545df000d12727769a835bcd28581d451c7241ec6810aef5dd6961dc": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Globally_accessible_platforms_for_the_exchange_of_.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250919_175449_rss_Globally_accessible_platforms_for_the_exchange_of_.txt",
+      "processed_date": "2025-09-22T17:07:10.360550",
+      "domain": "24_computing"
+    },
+    "37b3f795ccca7cabdaeadd16add047152324e387791776ab4952005a3f511176": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Inheritable_cell-states_shape_drug-persister_corre.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_102700_rss_Inheritable_cell-states_shape_drug-persister_corre.txt",
+      "processed_date": "2025-09-22T17:07:10.364956",
+      "domain": "24_computing"
+    },
+    "6dba26eb6dffadbef0ff32facd9d52a9efcf0855196cfdcc839740db0561b651": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Internalizing_Self-Consistency_in_Language_Models_.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250919_175447_rss_Internalizing_Self-Consistency_in_Language_Models_.txt",
+      "processed_date": "2025-09-22T17:07:10.371881",
+      "domain": "24_computing"
+    },
+    "a1fc7b374dfdca1a4167a8d776701f99205d22c72a7380fb56b750b529115935": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_COLP__Scaffolding_Children_s_Online_Long-term_Coll.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250919_175448_rss_COLP__Scaffolding_Children_s_Online_Long-term_Coll.txt",
+      "processed_date": "2025-09-22T17:07:10.376921",
+      "domain": "24_computing"
+    },
+    "02ac0f1cc5a0be4fa036d63265ab06ee045cfd1d60dc4a7d121ef1f567a7a344": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_A_Nascent_Taxonomy_of_Machine_Learning_in_Intellig.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104335_rss_A_Nascent_Taxonomy_of_Machine_Learning_in_Intellig.txt",
+      "processed_date": "2025-09-22T17:07:10.382056",
+      "domain": "24_computing"
+    },
+    "5314edd7f28d98d8e1b80820f875ad269c78d27411660a42d5596f2bb8d04b8d": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_FOVAL__Calibration-Free_and_Subject-Invariant_Fixa.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_102658_rss_FOVAL__Calibration-Free_and_Subject-Invariant_Fixa.txt",
+      "processed_date": "2025-09-22T17:07:10.386826",
+      "domain": "24_computing"
+    },
+    "b680a151b74e96595645283ff21e22a9dd8adb4d252a84495564f4a652067b06": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_EHR-MCP__Real-world_Evaluation_of_Clinical_Informa.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104243_rss_EHR-MCP__Real-world_Evaluation_of_Clinical_Informa.txt",
+      "processed_date": "2025-09-22T17:07:10.392108",
+      "domain": "26_brain_imaging"
+    },
+    "4fa9d6cd8ebe23713a10284215506b918cb732f2b5e3ab378e711f2fae1edc3c": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Where_Do_I__Add_the_Egg____Exploring_Agency_and_Ow.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104243_rss_Where_Do_I__Add_the_Egg____Exploring_Agency_and_Ow.txt",
+      "processed_date": "2025-09-22T17:07:10.396592",
+      "domain": "24_computing"
+    },
+    "cef91410b4cc3699ac7086e5e23dacae0b2b71375d9c89b5fe77e417a15a6334": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Reconstructing_noisy_gene_regulation_dynamics_usin.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104337_rss_Reconstructing_noisy_gene_regulation_dynamics_usin.txt",
+      "processed_date": "2025-09-22T17:07:10.401034",
+      "domain": "24_computing"
+    },
+    "e5f8da561c5d46081bbcd901feaec654de0409b8b063ad306a5cb796d24ab412": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Experience_Level_Influences_User_s_Criteria_for_Av.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104336_rss_Experience_Level_Influences_User_s_Criteria_for_Av.txt",
+      "processed_date": "2025-09-22T17:07:10.406022",
+      "domain": null
+    },
+    "1f58305427191722e04cf3ac865c7b69f0b08634577e6f5b4c5350baab1c10f7": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_IMUFace__Real-Time__Low-Power__Continuous_3D_Facia.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_102658_rss_IMUFace__Real-Time__Low-Power__Continuous_3D_Facia.txt",
+      "processed_date": "2025-09-22T17:07:10.410222",
+      "domain": "24_computing"
+    },
+    "fe5e7b142f136183daff222f520c1594e179d04652ba6aed14deb1e5041a32a8": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_PILOT__Steering_Synthetic_Data_Generation_with_Psy.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104243_rss_PILOT__Steering_Synthetic_Data_Generation_with_Psy.txt",
+      "processed_date": "2025-09-22T17:07:10.414706",
+      "domain": "24_computing"
+    },
+    "824e45b98dbdf1e75d9c06a2dcc22ebf1739505cf7d1249f4a4c55332a96876a": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Impact_of_Elovl5_Deficiency_on_Cerebellar_Excitato.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250919_175449_rss_Impact_of_Elovl5_Deficiency_on_Cerebellar_Excitato.txt",
+      "processed_date": "2025-09-22T17:07:10.419103",
+      "domain": "24_computing"
+    },
+    "a43198395882dadbc2cdf8a3a0e48522f859e1f7779973707341f4368fa1013a": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Building_Data-Driven_Occupation_Taxonomies__A_Bott.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_102658_rss_Building_Data-Driven_Occupation_Taxonomies__A_Bott.txt",
+      "processed_date": "2025-09-22T17:07:10.423439",
+      "domain": "24_computing"
+    },
+    "89e45c99ff1d5864c9af108bab4749749d327a7a7806354c62450d9ee7d328b0": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Obsidian_1.9.12_Desktop__Public_.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104244_rss_Obsidian_1.9.12_Desktop__Public_.txt",
+      "processed_date": "2025-09-22T17:07:10.432494",
+      "domain": "24_computing"
+    },
+    "58a348fd96e1fdcc16bb37e9b92cf94aff7584b08f9d8f3cc4f1172685b0f83a": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Paying_attention_to_attention__High_attention_site.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104245_rss_Paying_attention_to_attention__High_attention_site.txt",
+      "processed_date": "2025-09-22T17:07:10.437724",
+      "domain": "24_computing"
+    },
+    "534f96b28cc80bf4c9a4ff34570899c1e13a06b79a810891d43feb471afe2859": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_An_Artificial_Intelligence_Driven_Semantic_Similar.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104335_rss_An_Artificial_Intelligence_Driven_Semantic_Similar.txt",
+      "processed_date": "2025-09-22T17:07:10.445574",
+      "domain": null
+    },
+    "c9782c07924317db196e491b4ad3441d29e48d36ba3b252bcc6f093f7f4b7fa0": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_A_Novel_Compression_Framework_for_YOLOv8__Achievin.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250918_114950_rss_A_Novel_Compression_Framework_for_YOLOv8__Achievin.txt",
+      "processed_date": "2025-09-22T17:07:10.449160",
+      "domain": "24_computing"
+    },
+    "de858248941c0fcf7c59899ddbdd67e5d4d15fb59254d25dfa4b0bee6e138574": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_BTL-UI__Blink-Think-Link_Reasoning_Model_for_GUI_A.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104335_rss_BTL-UI__Blink-Think-Link_Reasoning_Model_for_GUI_A.txt",
+      "processed_date": "2025-09-22T17:07:10.460355",
+      "domain": "24_computing"
+    },
+    "5ebfc94d3382bc7f5f72dc343aa302295d11651d15c7abbe1231e4eead0fab60": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Inhibitory_Neurons_Marked_by_the_Connectivity_Mole.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104337_rss_Inhibitory_Neurons_Marked_by_the_Connectivity_Mole.txt",
+      "processed_date": "2025-09-22T17:07:10.466117",
+      "domain": "24_computing"
+    },
+    "c87c7490e6178381f722f536b8d5c5ad0f278b8b5519c6041a85db4042508632": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Frontal-subcortical_dysfunction_in_toxic_oil_syndr.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104245_rss_Frontal-subcortical_dysfunction_in_toxic_oil_syndr.txt",
+      "processed_date": "2025-09-22T17:07:10.471753",
+      "domain": "24_computing"
+    },
+    "ac0a3d39bc28752cbfc63b32808bdb8dad3c47ea9e4350012924f9ff7c04acd4": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_The_Great_AI_Witch_Hunt__Reviewers_Perception_and_.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104244_rss_The_Great_AI_Witch_Hunt__Reviewers_Perception_and_.txt",
+      "processed_date": "2025-09-22T17:07:10.475522",
+      "domain": "24_computing"
+    },
+    "d283fdb95ecd5de61b380fd53bb72377f4ccd7217ff19d0d2aa1f679337471a5": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Decoding_pain_s_neural_rhythm__Gamma_oscillation_m.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104245_rss_Decoding_pain_s_neural_rhythm__Gamma_oscillation_m.txt",
+      "processed_date": "2025-09-22T17:07:10.482230",
+      "domain": "24_computing"
+    },
+    "a0daae311370763379ab862cdd95ded5673e62fbdf68d102bd8c2cb7d90b6e61": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Obsidian_1.8.5_Mobile__Early_access_.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104336_rss_Obsidian_1.8.5_Mobile__Early_access_.txt",
+      "processed_date": "2025-09-22T17:07:10.485900",
+      "domain": null
+    },
+    "cd4a07442452c9f91869de837885f535cf10094d7ec6d71e70ce8e796c351a73": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Cin___e_aste__A_Fine-grained_Contextual_Movie_Ques.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250918_114950_rss_Cin___e_aste__A_Fine-grained_Contextual_Movie_Ques.txt",
+      "processed_date": "2025-09-22T17:07:10.492382",
+      "domain": "24_computing"
+    },
+    "dbeace13803c21ebd0709a206b0b6dbc3a20db612863783a45b14d9d9f15bd75": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Beyond_Words__Enhancing_Desire__Emotion__and_Senti.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104335_rss_Beyond_Words__Enhancing_Desire__Emotion__and_Senti.txt",
+      "processed_date": "2025-09-22T17:07:10.498564",
+      "domain": "24_computing"
+    },
+    "32c5558365ec5eef77b65b548021abac449fe3b6b811e6dbd1be246dcfe368df": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Efficient_Multimodal_Dataset_Distillation_via_Gene.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104244_rss_Efficient_Multimodal_Dataset_Distillation_via_Gene.txt",
+      "processed_date": "2025-09-22T17:07:10.501949",
+      "domain": "24_computing"
+    },
+    "d72b32dfef8c2c0f51e04431968e223d153bc329eaf443b2dbe7448fad571d0e": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Detecting_Pipeline_Failures_through_Fine-Grained_A.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250919_175447_rss_Detecting_Pipeline_Failures_through_Fine-Grained_A.txt",
+      "processed_date": "2025-09-22T17:07:10.505755",
+      "domain": "24_computing"
+    },
+    "8a7ebcd51eab294d0e18458ef418d8254faac58e7fa483aca1f1c5a9c55084a7": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_ORCA__Agentic_Reasoning_For_Hallucination_and_Adve.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_102658_rss_ORCA__Agentic_Reasoning_For_Hallucination_and_Adve.txt",
+      "processed_date": "2025-09-22T17:07:10.509433",
+      "domain": "24_computing"
+    },
+    "3e47faa59eed38d2dfd54a1ac6b31b786d946bd676f7f9bb43463523c754fe9f": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Brain-HGCN__A_Hyperbolic_Graph_Convolutional_Netwo.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250919_175448_rss_Brain-HGCN__A_Hyperbolic_Graph_Convolutional_Netwo.txt",
+      "processed_date": "2025-09-22T17:07:10.512900",
+      "domain": "24_computing"
+    },
+    "d863ddf30dbf41428b821c2551c43ef7dc060b690987ea5b1f40d396454d4c4e": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Dual-Mode_Visual_System_for_Brain-Computer_Interfa.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104243_rss_Dual-Mode_Visual_System_for_Brain-Computer_Interfa.txt",
+      "processed_date": "2025-09-22T17:07:10.518840",
+      "domain": "24_computing"
+    },
+    "35a95123a29712783ff88bb3e0a85e4abb9208b406618146d2f22254a8947745": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_RaceGAN__A_Framework_for_Preserving_Individuality_.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104244_rss_RaceGAN__A_Framework_for_Preserving_Individuality_.txt",
+      "processed_date": "2025-09-22T17:07:10.529018",
+      "domain": "24_computing"
+    },
+    "41bf456a9a72117d3999ee9bf070af1c1dc394da57df76bf39c9b53cecd8da4e": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_VoXtream__Full-Stream_Text-to-Speech_with_Extremel.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104336_rss_VoXtream__Full-Stream_Text-to-Speech_with_Extremel.txt",
+      "processed_date": "2025-09-22T17:07:10.532927",
+      "domain": "24_computing"
+    },
+    "388c42e1b4e073a142eefa05305df27087dca0128e97af5d0585f8265c99c4e2": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Quiz__Exploring_Python_Closures__Examples_and_Use_.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250918_114949_rss_Quiz__Exploring_Python_Closures__Examples_and_Use_.txt",
+      "processed_date": "2025-09-22T17:07:10.536514",
+      "domain": "24_computing"
+    },
+    "b99b05a8a99dc984c94af125452f345ee1ee1a3e998b3e2046e14c9654904f33": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Affordance-Based_Disambiguation_of_Surgical_Instru.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104244_rss_Affordance-Based_Disambiguation_of_Surgical_Instru.txt",
+      "processed_date": "2025-09-22T17:07:10.540645",
+      "domain": null
+    },
+    "1efff352867c48b2b94bf4f08e8bd2537360062675eb51d8b976365e36f3a61a": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_OpenViGA__Video_Generation_for_Automotive_Driving_.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_102658_rss_OpenViGA__Video_Generation_for_Automotive_Driving_.txt",
+      "processed_date": "2025-09-22T17:07:10.551339",
+      "domain": "24_computing"
+    },
+    "1467324ecc7a44b1adb16f0e351b3fd9d602531ebd67b5e2495ed5d28128941d": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Trade-offs_in_Cross-Domain_Generalization_of_Found.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250919_175448_rss_Trade-offs_in_Cross-Domain_Generalization_of_Found.txt",
+      "processed_date": "2025-09-22T17:07:10.554819",
+      "domain": "24_computing"
+    },
+    "76e4d70df338f1b8a743ef478689c24f5609aac595c8cfda6b1aa4bf6bf88c92": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_MARIC__Multi-Agent_Reasoning_for_Image_Classificat.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250919_175448_rss_MARIC__Multi-Agent_Reasoning_for_Image_Classificat.txt",
+      "processed_date": "2025-09-22T17:07:10.558247",
+      "domain": "24_computing"
+    },
+    "e4345ee5aa0dd1fb3eb618d71e9f2d4a1b7f8b403a3e8f74caab34154c55af38": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Obsidian_1.9.9_Desktop__Early_access_.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104336_rss_Obsidian_1.9.9_Desktop__Early_access_.txt",
+      "processed_date": "2025-09-22T17:07:10.561625",
+      "domain": null
+    },
+    "379b66141be19b41bfcaf0ce02197ca8d4936602dee4edf9570bf9a845e2ce02": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Obsidian_1.9.12_Desktop__Early_access_.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_102659_rss_Obsidian_1.9.12_Desktop__Early_access_.txt",
+      "processed_date": "2025-09-22T17:07:10.564873",
+      "domain": null
+    },
+    "bd12e44472faab2431911009dcd56cc12372aaf47c6cb3eb23e2583fc350e0a0": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_In-Ear_Electrode_EEG_for_Practical_SSVEP_BCI.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_102658_rss_In-Ear_Electrode_EEG_for_Practical_SSVEP_BCI.txt",
+      "processed_date": "2025-09-22T17:07:10.568290",
+      "domain": "24_computing"
+    },
+    "fdcf6422fbe64c4664faa6d1a10b71ae73bdaf518accc67665018af31494e0cc": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Set_Contribution_Functions_for_Quantitative_Bipola.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250919_175447_rss_Set_Contribution_Functions_for_Quantitative_Bipola.txt",
+      "processed_date": "2025-09-22T17:07:10.577566",
+      "domain": "24_computing"
+    },
+    "c564330b7a522683ca7fbb9932b5e39732fb89830ba9739f6242f030e23dab7d": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_The_Real_Python_Podcast___Episode__261__Selecting_.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250918_114949_rss_The_Real_Python_Podcast___Episode__261__Selecting_.txt",
+      "processed_date": "2025-09-22T17:07:10.581478",
+      "domain": "24_computing"
+    },
+    "f9ccb2715cb94496ab64b8ad64c1f5020cd9bee69eda14cece7a0c0f454b96db": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_DeKeyNLU__Enhancing_Natural_Language_to_SQL_Genera.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250919_175447_rss_DeKeyNLU__Enhancing_Natural_Language_to_SQL_Genera.txt",
+      "processed_date": "2025-09-22T17:07:10.585234",
+      "domain": "24_computing"
+    },
+    "4bb34df009a18aed55e742b41737fc3b3bfa46713c964806c795aa2356f49131": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Modelling_the_relative_contribution_of_infection__.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_170645_rss_Modelling_the_relative_contribution_of_infection__.txt",
+      "processed_date": "2025-09-22T17:07:10.589103",
+      "domain": "24_computing"
+    },
+    "5ef6e4cf12968812771ea2873abea337bf23ba76c0ae288ea4978f2f69c68834": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Advancing_Conversational_AI_with_Shona_Slang__A_Da.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250919_175447_rss_Advancing_Conversational_AI_with_Shona_Slang__A_Da.txt",
+      "processed_date": "2025-09-22T17:07:10.592561",
+      "domain": "24_computing"
+    },
+    "3cf84ea0cb56ee3989e82a8799aa30976d00ee0724194d37733d7bc9680f23f0": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_A_Visual_Guide_to_Tuning_Gradient_Boosted_Trees.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250918_114949_rss_A_Visual_Guide_to_Tuning_Gradient_Boosted_Trees.txt",
+      "processed_date": "2025-09-22T17:07:10.596114",
+      "domain": null
+    },
+    "ecce43a0783cf26cc871aa493bd6f65a7008b7187cc3a70939101ff26ff78e87": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Multi-Modal_Interpretability_for_Enhanced_Localiza.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104335_rss_Multi-Modal_Interpretability_for_Enhanced_Localiza.txt",
+      "processed_date": "2025-09-22T17:07:10.602244",
+      "domain": "24_computing"
+    },
+    "b1f215882b757b06ae2ed0a227606baa2430dc73027f5e19099df6bb4dc79965": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Relational_Dissonance_in_Human-AI_Interactions__Th.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104336_rss_Relational_Dissonance_in_Human-AI_Interactions__Th.txt",
+      "processed_date": "2025-09-22T17:07:10.608634",
+      "domain": "24_computing"
+    },
+    "2894877499e391d4d5064580cdf4373994ff95f8f67d4df229901e1309989bc4": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_MemEvo__Memory-Evolving_Incremental_Multi-view_Clu.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250919_175448_rss_MemEvo__Memory-Evolving_Incremental_Multi-view_Clu.txt",
+      "processed_date": "2025-09-22T17:07:10.612126",
+      "domain": "24_computing"
+    },
+    "f73dd698c0443464abb7298273865c979e8e20e985ac44a1d47b20e85b465046": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_CCrepairBench__A_High-Fidelity_Benchmark_and_Reinf.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104243_rss_CCrepairBench__A_High-Fidelity_Benchmark_and_Reinf.txt",
+      "processed_date": "2025-09-22T17:07:10.615648",
+      "domain": "24_computing"
+    },
+    "639161da95c214afa815499e1db847472a8f109839d8039dba45abef9dc5faa4": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Obsidian_1.9.2_Desktop__Early_access_.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104336_rss_Obsidian_1.9.2_Desktop__Early_access_.txt",
+      "processed_date": "2025-09-22T17:07:10.630709",
+      "domain": "24_computing"
+    },
+    "42077cde7fce3a5d566c61e026ba292d675746de83ecfd62822c9af6f06ca3e1": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_RationAnomaly__Log_Anomaly_Detection_with_Rational.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250919_175447_rss_RationAnomaly__Log_Anomaly_Detection_with_Rational.txt",
+      "processed_date": "2025-09-22T17:07:10.634862",
+      "domain": "24_computing"
+    },
+    "5280cc938b92af255ee4b2543238bef8cbd475f0277cd068eef3f2e4a6a00f00": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Emulating_Human-like_Adaptive_Vision_for_Efficient.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104243_rss_Emulating_Human-like_Adaptive_Vision_for_Efficient.txt",
+      "processed_date": "2025-09-22T17:07:10.641901",
+      "domain": "24_computing"
+    },
+    "6c0cab6ed1ae071f56cf3579f2f6f9a184505acdb1299907db836dec8f659450": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Understanding_the_Role_of_Large_Language_Models_in.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_102658_rss_Understanding_the_Role_of_Large_Language_Models_in.txt",
+      "processed_date": "2025-09-22T17:07:10.645307",
+      "domain": "24_computing"
+    },
+    "bc05185ce9bf03b3dfa5351b7c1900bb2513e2a2cc444d3a5bf84c23389fb621": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Obsidian_1.9.6_Mobile__Early_access_.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104244_rss_Obsidian_1.9.6_Mobile__Early_access_.txt",
+      "processed_date": "2025-09-22T17:07:10.648900",
+      "domain": null
+    },
+    "9ea638b5b58a3c5ec756252dea480ee8f49519ca0a638d357659671b8c6e3312": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Obsidian_1.8.6_Mobile__Early_access_.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104336_rss_Obsidian_1.8.6_Mobile__Early_access_.txt",
+      "processed_date": "2025-09-22T17:07:10.652403",
+      "domain": null
+    },
+    "846b65cf08d5a289a845620d0b94e728e2d3ab093eb350ccd5fcf08e5a45dc9b": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_The_course_of_mechanical_allodynia_differs_between.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_102700_rss_The_course_of_mechanical_allodynia_differs_between.txt",
+      "processed_date": "2025-09-22T17:07:10.655863",
+      "domain": "24_computing"
+    },
+    "26201acedc84ec597efec953f970183fe485c494dea2058e303616788e3b931f": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Who_is_Responsible_When_AI_Fails__Mapping_Causes__.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104336_rss_Who_is_Responsible_When_AI_Fails__Mapping_Causes__.txt",
+      "processed_date": "2025-09-22T17:07:10.659284",
+      "domain": "24_computing"
+    },
+    "77a08d6c46a8a97e52e7724613055ecc7d23fc62b528774e9ec51c8e7e5dde6a": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Recent_Advancements_in_Microscopy_Image_Enhancemen.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104243_rss_Recent_Advancements_in_Microscopy_Image_Enhancemen.txt",
+      "processed_date": "2025-09-22T17:07:10.662552",
+      "domain": "24_computing"
+    },
+    "bfcb4e63edfd43bbc6026bfeb6fe4bc11afea4fd6a8d4720550822a089c399d9": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Defining_and_Monitoring_Complex_Robot_Activities_v.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104336_rss_Defining_and_Monitoring_Complex_Robot_Activities_v.txt",
+      "processed_date": "2025-09-22T17:07:10.665809",
+      "domain": "24_computing"
+    },
+    "b9d8d64ff7a9e6290ad758619ad8108f5e253ba6f20a026eca63a8a406c35ba9": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Computing_Linear_Regions_in_Neural_Networks_with_S.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104336_rss_Computing_Linear_Regions_in_Neural_Networks_with_S.txt",
+      "processed_date": "2025-09-22T17:07:10.674864",
+      "domain": "24_computing"
+    },
+    "1168e63ebee8d9fe8cc3146d1b30129beba8714a00c5a7a0c3c93cc9019a2769": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Evolving_perspectives_on_speech_perception_assessm.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_102700_rss_Evolving_perspectives_on_speech_perception_assessm.txt",
+      "processed_date": "2025-09-22T17:07:10.682088",
+      "domain": "24_computing"
+    },
+    "ce1943195b2d57fe5fb1a37fe265d5bcb1fc54821ee3b8dd6d07b0ba1dd149b5": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Bidirectional_dynamic_threshold_SNN_for_enhanced_o.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104337_rss_Bidirectional_dynamic_threshold_SNN_for_enhanced_o.txt",
+      "processed_date": "2025-09-22T17:07:10.686634",
+      "domain": "24_computing"
+    },
+    "4f8b1fa31aed4f9d9e249f56eec1569bb102fd94be58a9a3a23398ec311ba1cb": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Aberrant_static_and_dynamic_brain_functional_topol.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250919_175449_rss_Aberrant_static_and_dynamic_brain_functional_topol.txt",
+      "processed_date": "2025-09-22T17:07:10.692364",
+      "domain": "24_computing"
+    },
+    "4049420063e7bc2e440df2800711f949f9dda9fe41eebd5b42eeb53072e49cd4": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Generating_Plans_for_Belief-Desire-Intention__BDI_.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_102658_rss_Generating_Plans_for_Belief-Desire-Intention__BDI_.txt",
+      "processed_date": "2025-09-22T17:07:10.710748",
+      "domain": "24_computing"
+    },
+    "5519487b3f3468bebab931d7b7ce75197099181e7e420263f33415ec6ebdc021": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Towards_an_AI-Augmented_Textbook.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_102658_rss_Towards_an_AI-Augmented_Textbook.txt",
+      "processed_date": "2025-09-22T17:07:10.715889",
+      "domain": "24_computing"
+    },
+    "9df34c1aa95185dfd54898247f8e11a50d161b9c663aaf0866877b696653bf06": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_GUI-ARP__Enhancing_Grounding_with_Adaptive_Region_.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_102658_rss_GUI-ARP__Enhancing_Grounding_with_Adaptive_Region_.txt",
+      "processed_date": "2025-09-22T17:07:10.720791",
+      "domain": "24_computing"
+    },
+    "c179cc8c481ea8f696f8583c3da5401972881744c2a07f51de04527d6f972ee7": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_SSL-SSAW__Self-Supervised_Learning_with_Sigmoid_Se.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250918_114950_rss_SSL-SSAW__Self-Supervised_Learning_with_Sigmoid_Se.txt",
+      "processed_date": "2025-09-22T17:07:10.725680",
+      "domain": "24_computing"
+    },
+    "f04f6507ada5d23d7fbe237d5ebf4d5a0c9e8a116a4b7ad624dfc1c733f94eab": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Backdoor_Mitigation_via_Invertible_Pruning_Masks.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104244_rss_Backdoor_Mitigation_via_Invertible_Pruning_Masks.txt",
+      "processed_date": "2025-09-22T17:07:10.730943",
+      "domain": "24_computing"
+    },
+    "83123a6b35f8aedfaf94374848f940a358956f3d80c5ddb101096238bfbdbdb9": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Obsidian_1.9.4_Mobile__Early_access_.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104336_rss_Obsidian_1.9.4_Mobile__Early_access_.txt",
+      "processed_date": "2025-09-22T17:07:10.736212",
+      "domain": null
+    },
+    "33ce6c31b942923d858649b136ad9c236f1c80503df50d4703565f7208b0fbc6": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_The_Sum_Leaks_More_Than_Its_Parts__Compositional_P.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250919_175447_rss_The_Sum_Leaks_More_Than_Its_Parts__Compositional_P.txt",
+      "processed_date": "2025-09-22T17:07:10.741609",
+      "domain": "24_computing"
+    },
+    "ae13d64cb900d9c5baea057c760ccbede0c728fae525d379161ad039e1e1e6d1": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_DACoN__DINO_for_Anime_Paint_Bucket_Colorization_wi.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250919_175448_rss_DACoN__DINO_for_Anime_Paint_Bucket_Colorization_wi.txt",
+      "processed_date": "2025-09-22T17:07:10.746898",
+      "domain": "24_computing"
+    },
+    "03e2a1e5952e0d4bfea4edbc1e59e680210e9b48c462249a7d9457a93a12f209": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Implicit_Kinodynamic_Motion_Retargeting_for_Human-.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104243_rss_Implicit_Kinodynamic_Motion_Retargeting_for_Human-.txt",
+      "processed_date": "2025-09-22T17:07:10.754595",
+      "domain": "24_computing"
+    },
+    "1c7cb911943976bc0d08c3129cfe1123780c607116683adabe20ef9b79d9807a": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Exploring_multimodal_implicit_behavior_learning_fo.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_102658_rss_Exploring_multimodal_implicit_behavior_learning_fo.txt",
+      "processed_date": "2025-09-22T17:07:10.759275",
+      "domain": "24_computing"
+    },
+    "e9627fad3e8be20807314044b43707ed5569f49a424e9175d86040cc76592dc3": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Evolution_of_Kernels__Automated_RISC-V_Kernel_Opti.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250919_175447_rss_Evolution_of_Kernels__Automated_RISC-V_Kernel_Opti.txt",
+      "processed_date": "2025-09-22T17:07:10.764680",
+      "domain": "24_computing"
+    },
+    "b3db583321f605ac01a751faa0e4135d182efc31d6b9cc81f0da86a6827dcbd2": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_The_size-weight_illusion_and_beyond__A_new_model_o.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_102700_rss_The_size-weight_illusion_and_beyond__A_new_model_o.txt",
+      "processed_date": "2025-09-22T17:07:10.768975",
+      "domain": "24_computing"
+    },
+    "9b2288b678e68ea1a6499ada531de394f04e4b63fa8af703e9496db2c91100bb": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_On_Optimality_and_Human_Prediction_of_Event_Durati.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250919_175448_rss_On_Optimality_and_Human_Prediction_of_Event_Durati.txt",
+      "processed_date": "2025-09-22T17:07:10.776291",
+      "domain": null
+    },
+    "e8b36af094032e1ea0663c9429f5564cf58585e98409455631e1a7a9c04b35a5": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Obsidian_1.8.8_Desktop__Early_access_.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_102659_rss_Obsidian_1.8.8_Desktop__Early_access_.txt",
+      "processed_date": "2025-09-22T17:07:10.784141",
+      "domain": null
+    },
+    "6153e894c4e7ee4a80f24aa79d00d2be74ae33c1b55a80c9cedae054d7a7a820": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Autoguided_Online_Data_Curation_for_Diffusion_Mode.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104335_rss_Autoguided_Online_Data_Curation_for_Diffusion_Mode.txt",
+      "processed_date": "2025-09-22T17:07:10.788235",
+      "domain": "24_computing"
+    },
+    "29c1546548de359e1567c3405d0b7136982e9390cee983fc39b23873380af3b1": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Nudging_the_Somas__Exploring_How_Live-Configurable.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250919_175448_rss_Nudging_the_Somas__Exploring_How_Live-Configurable.txt",
+      "processed_date": "2025-09-22T17:07:10.792507",
+      "domain": "24_computing"
+    },
+    "a007258f849a199c368bae13deee2fbfff0410be3137594c42e55703f3fea866": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Ontology_Creation_and_Management_Tools__the_Case_o.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104243_rss_Ontology_Creation_and_Management_Tools__the_Case_o.txt",
+      "processed_date": "2025-09-22T17:07:10.800679",
+      "domain": "24_computing"
+    },
+    "bad8ee695097cf7a6f1eba35b2b93fae53734ec25e5d3f625401a22e3cf67b7a": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_A_Comparative_Study_of_Rule-Based_and_Data-Driven_.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104243_rss_A_Comparative_Study_of_Rule-Based_and_Data-Driven_.txt",
+      "processed_date": "2025-09-22T17:07:10.813841",
+      "domain": "24_computing"
+    },
+    "06c947f82c8fe69d7a29996fbc1c9eab82daeed35b06e938a3aca77ff2990b50": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Collective_Voice__Recovered-Peer_Support_Mediated_.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104335_rss_Collective_Voice__Recovered-Peer_Support_Mediated_.txt",
+      "processed_date": "2025-09-22T17:07:10.818128",
+      "domain": "24_computing"
+    },
+    "a7fed382b8dd55d66a11f1eb977e9b914b1f93a075fc8bd176fd4f8e77de5e54": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Obsidian_1.9.9_Mobile__Early_access_.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104336_rss_Obsidian_1.9.9_Mobile__Early_access_.txt",
+      "processed_date": "2025-09-22T17:07:10.822015",
+      "domain": null
+    },
+    "19bd651b98fbea82ba52bebec3df899a29938da2177dad976e89c3e3984c989a": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_tDCS_peripheral_nerve_stimulation_can_enhance_pass.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_102700_rss_tDCS_peripheral_nerve_stimulation_can_enhance_pass.txt",
+      "processed_date": "2025-09-22T17:07:10.830281",
+      "domain": "24_computing"
+    },
+    "59148b45380796329da6b8ed599c31bbbaab48a58c9de62ba51cd803a8384c69": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Implementing_the_Coffee_Machine_Project_in_Python_.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250918_114949_rss_Implementing_the_Coffee_Machine_Project_in_Python_.txt",
+      "processed_date": "2025-09-22T17:07:10.833954",
+      "domain": "24_computing"
+    },
+    "b4821d34846232c3ed38139a22209e107f773c822ea8cd0916701e1eca73fc48": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Obsidian_1.9.4_Desktop__Early_access_.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104336_rss_Obsidian_1.9.4_Desktop__Early_access_.txt",
+      "processed_date": "2025-09-22T17:07:10.840264",
+      "domain": "24_computing"
+    },
+    "4dedb86ea02a7ffb0253b4a57ede4a4a91e516ec6af5c8b1d9b2e454f7856f0f": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Conversational_AI_increases_political_knowledge_as.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_102658_rss_Conversational_AI_increases_political_knowledge_as.txt",
+      "processed_date": "2025-09-22T17:07:10.844043",
+      "domain": "24_computing"
+    },
+    "fb95dba5330d5dfef6f9465d685290fa820d04eb17af0c55b8a730a47274f187": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Causal_Reasoning_Elicits_Controllable_3D_Scene_Gen.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_102658_rss_Causal_Reasoning_Elicits_Controllable_3D_Scene_Gen.txt",
+      "processed_date": "2025-09-22T17:07:10.858801",
+      "domain": "24_computing"
+    },
+    "21ffe8e395fe51bec5154cb8a7f7000b0f06f8421289671e4e9f9fe5896f0bb7": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Asterisk_Operator.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250918_114950_rss_Asterisk_Operator.txt",
+      "processed_date": "2025-09-22T17:07:10.871705",
+      "domain": "24_computing"
+    },
+    "f3039396df37b00ce6db2e4a52276b84b61a2011a8481f40207ad55eef4e747e": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_LSTC-MDA__A_Unified_Framework_for_Long-Short_Term_.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250919_175448_rss_LSTC-MDA__A_Unified_Framework_for_Long-Short_Term_.txt",
+      "processed_date": "2025-09-22T17:07:10.895220",
+      "domain": "24_computing"
+    },
+    "13865330e5c6fa8c79285bf552dbf205ffae7b650a7423fa9084286e6028c09e": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Obsidian_1.8.10_Mobile__Early_access_.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104244_rss_Obsidian_1.8.10_Mobile__Early_access_.txt",
+      "processed_date": "2025-09-22T17:07:10.901751",
+      "domain": "24_computing"
+    },
+    "a3af45f4b869d90ad7d8a03eff3be4f3a2e17a797a3c5d400e725a4b9fad445d": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_UNIV__Unified_Foundation_Model_for_Infrared_and_Vi.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104244_rss_UNIV__Unified_Foundation_Model_for_Infrared_and_Vi.txt",
+      "processed_date": "2025-09-22T17:07:10.914419",
+      "domain": "24_computing"
+    },
+    "41fa3b5cb5f50d8382a54de5c5a7f7ee05c07a1f420a818144271505966ac159": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Landcover_classification_and_change_detection_usin.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250918_114950_rss_Landcover_classification_and_change_detection_usin.txt",
+      "processed_date": "2025-09-22T17:07:10.921575",
+      "domain": "24_computing"
+    },
+    "1da0fa7492253bc65ac83197ee69e282ac6c92854a1a57403ae9e232c1313133": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_EyePCR__A_Comprehensive_Benchmark_for_Fine-Grained.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104335_rss_EyePCR__A_Comprehensive_Benchmark_for_Fine-Grained.txt",
+      "processed_date": "2025-09-22T17:07:10.926702",
+      "domain": "24_computing"
+    },
+    "8bf7ed6ae03afacea61113d023b5af9ff39301ff58992e962fd54770598845d5": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_TinkerXR__In-Situ__Reality-Aware_CAD_and_3D_Printi.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_102658_rss_TinkerXR__In-Situ__Reality-Aware_CAD_and_3D_Printi.txt",
+      "processed_date": "2025-09-22T17:07:10.934016",
+      "domain": "24_computing"
+    },
+    "ed4f6bea0963a9ef9aad5629434aae390743263d030edd3998589533611603fd": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Training_Text-to-Molecule_Models_with_Context-Awar.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250918_114950_rss_Training_Text-to-Molecule_Models_with_Context-Awar.txt",
+      "processed_date": "2025-09-22T17:07:10.937708",
+      "domain": "24_computing"
+    },
+    "8001522a70e268a73096b9395cecbdd8ca8132f9a350ecc5a933f169ed7af882": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_NeuroRAD-FM__A_Foundation_Model_for_Neuro-Oncology.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104335_rss_NeuroRAD-FM__A_Foundation_Model_for_Neuro-Oncology.txt",
+      "processed_date": "2025-09-22T17:07:10.950363",
+      "domain": "24_computing"
+    },
+    "e27beb85cde95db6576ce6925b3b321916329abd80329a3b7e1c48efffbe1378": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_A_physiologically_inspired_hybrid_CPG_Reflex_contr.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104245_rss_A_physiologically_inspired_hybrid_CPG_Reflex_contr.txt",
+      "processed_date": "2025-09-22T17:07:10.958684",
+      "domain": null
+    },
+    "3775e1060f35772957c7fc1d2c4db2fd46f20d87e3c80d51d488b671de0fb78f": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Combined_long_nerve_allograft_and_nerve_transfer_f.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104245_rss_Combined_long_nerve_allograft_and_nerve_transfer_f.txt",
+      "processed_date": "2025-09-22T17:07:10.972044",
+      "domain": "24_computing"
+    },
+    "dca7315ff567ed6505c590184859b7c5e864b6d9f0957208448ffa3f9bd03ad9": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Radiology_Report_Conditional_3D_CT_Generation_with.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250919_175448_rss_Radiology_Report_Conditional_3D_CT_Generation_with.txt",
+      "processed_date": "2025-09-22T17:07:10.978863",
+      "domain": "24_computing"
+    },
+    "38b30efbe4d62dcaa9cf8e88b3f1970a543d2a60727755d33649353c2fe804b7": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_THLANet__A_deep_learning_framework_for_predicting_.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104245_rss_THLANet__A_deep_learning_framework_for_predicting_.txt",
+      "processed_date": "2025-09-22T17:07:10.985582",
+      "domain": "24_computing"
+    },
+    "94427e5ecfc8310114c214432dcbe89df10947a340bdc2b1f475d1d3df54095b": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Self-supervised_learning_of_imaging_and_clinical_s.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104335_rss_Self-supervised_learning_of_imaging_and_clinical_s.txt",
+      "processed_date": "2025-09-22T17:07:10.989994",
+      "domain": "24_computing"
+    },
+    "0a08d64f8566079098e8ad48a0b2a7cc44c427dd8be64167f4744e2ea9c9054c": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Default_mode_network_connectivity_predicts_individ.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104337_rss_Default_mode_network_connectivity_predicts_individ.txt",
+      "processed_date": "2025-09-22T17:07:10.994858",
+      "domain": "24_computing"
+    },
+    "8860a8054b534325c80c1daec6a973f814f73fcd1e632d30672262bdf119b30e": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170710_idea_Obsidian_1.9.11_Mobile__Early_access_.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104336_rss_Obsidian_1.9.11_Mobile__Early_access_.txt",
+      "processed_date": "2025-09-22T17:07:10.999459",
+      "domain": null
+    },
+    "40a5c3136976eecc6834b96f44950f30635a3960f347703f98f3134af3ba9863": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170711_idea_Semantic-Enhanced_Cross-Modal_Place_Recognition_fo.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250918_114950_rss_Semantic-Enhanced_Cross-Modal_Place_Recognition_fo.txt",
+      "processed_date": "2025-09-22T17:07:11.008116",
+      "domain": "24_computing"
+    },
+    "d16fe60758a21ecd8c7d0f69e9444340ce24a1a8061fef952fd57418e27da826": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170711_idea_Python_String_Splitting.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250918_114949_rss_Python_String_Splitting.txt",
+      "processed_date": "2025-09-22T17:07:11.012527",
+      "domain": "24_computing"
+    },
+    "7dd220efb99f92dfc4ac129299ea3dad1a105c3fe7610720ff83bd5e83589fd4": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170711_idea_Peripheral_Gating_of_Nociception_Investigated_with.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250919_175449_rss_Peripheral_Gating_of_Nociception_Investigated_with.txt",
+      "processed_date": "2025-09-22T17:07:11.020702",
+      "domain": "24_computing"
+    },
+    "e299c24317db42ff037935a5a57d6d979398d6822672577d5b19593736a5149e": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170711_idea_From_Development_to_Deployment_of_AI-assisted_Tele.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104335_rss_From_Development_to_Deployment_of_AI-assisted_Tele.txt",
+      "processed_date": "2025-09-22T17:07:11.031384",
+      "domain": "24_computing"
+    },
+    "a186238241e51a6150b4b00aa1249e36acfc4a86c5936df6115ad3c36824eaac": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170711_idea_Property-Isometric_Variational_Autoencoders_for_Se.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250919_175447_rss_Property-Isometric_Variational_Autoencoders_for_Se.txt",
+      "processed_date": "2025-09-22T17:07:11.038697",
+      "domain": "24_computing"
+    },
+    "720afdc642de70cdb30a9a854f5c9e6f88fec93c1812d0fbbf740c312e21dd66": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170711_idea_Causal_Fingerprints_of_AI_Generative_Models.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_102658_rss_Causal_Fingerprints_of_AI_Generative_Models.txt",
+      "processed_date": "2025-09-22T17:07:11.045838",
+      "domain": "24_computing"
+    },
+    "5f4c21199e9922859877d40423b30219878de3122d4425cedeac98ef0af10329": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170711_idea_Optimizing_crop_varietal_mixtures_for_viral_diseas.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_102700_rss_Optimizing_crop_varietal_mixtures_for_viral_diseas.txt",
+      "processed_date": "2025-09-22T17:07:11.056718",
+      "domain": "24_computing"
+    },
+    "5fcc86a85637cd64409de344cd761e20ae29cce704dad5e616fe065654926448": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170711_idea_Obsidian_1.9.10_Mobile__Public_.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104244_rss_Obsidian_1.9.10_Mobile__Public_.txt",
+      "processed_date": "2025-09-22T17:07:11.093457",
+      "domain": null
+    },
+    "5ef8334fa5005e9bce66aa30e459689590110ec308a3cdd9399fe98a705a0d05": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170711_idea_Obsidian_1.8.8_Mobile__Early_access_.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104336_rss_Obsidian_1.8.8_Mobile__Early_access_.txt",
+      "processed_date": "2025-09-22T17:07:11.108979",
+      "domain": null
+    },
+    "36b99193b07eb4cadca6355ae24b49007e577c2ee47bfeddf2b534125431b988": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170711_idea_GenCAD-3D__CAD_Program_Generation_using_Multimodal.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104335_rss_GenCAD-3D__CAD_Program_Generation_using_Multimodal.txt",
+      "processed_date": "2025-09-22T17:07:11.117174",
+      "domain": "24_computing"
+    },
+    "a3ee7dfb1171e6a4e03c4c7bccc00a56f92a3838479eed750fcf20e12474e2bb": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170711_idea_Investigating_the_Ways_in_Which_Mobile_Phone_Image.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250919_175448_rss_Investigating_the_Ways_in_Which_Mobile_Phone_Image.txt",
+      "processed_date": "2025-09-22T17:07:11.136895",
+      "domain": "24_computing"
+    },
+    "032db61b75856930c68d87f648d9093684f581def3bbae59f6c0c83d3152962b": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170711_idea_Synthesis_and_Perceptual_Scaling_of_High_Resolutio.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250918_114950_rss_Synthesis_and_Perceptual_Scaling_of_High_Resolutio.txt",
+      "processed_date": "2025-09-22T17:07:11.142350",
+      "domain": "24_computing"
+    },
+    "40b666adf774682f53fdadd0b2c95b0c7fbd569080e41a540f5306d4fcf06ad6": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170711_idea_Obsidian_1.9.13_Desktop__Early_access_.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104244_rss_Obsidian_1.9.13_Desktop__Early_access_.txt",
+      "processed_date": "2025-09-22T17:07:11.161050",
+      "domain": null
+    },
+    "e8f8eb395acaff41eafa7c7499da5bf19171b225eaaa75885967294a7244b36a": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170711_idea__My_Boyfriend_is_AI___A_Computational_Analysis_of_.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_102658_rss__My_Boyfriend_is_AI___A_Computational_Analysis_of_.txt",
+      "processed_date": "2025-09-22T17:07:11.164769",
+      "domain": "24_computing"
+    },
+    "ee0044cf3d78061484f1b4b5d08c95df6adb7cc083dbd84f0151a7f190b55b62": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170711_idea_Mining_the_Long_Tail__A_Comparative_Study_of_Data-.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250918_114950_rss_Mining_the_Long_Tail__A_Comparative_Study_of_Data-.txt",
+      "processed_date": "2025-09-22T17:07:11.168632",
+      "domain": "24_computing"
+    },
+    "9a744fab6662fc9f16b60c50c59032d9adfdc06ed942867c2939f6b07e7827b3": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170711_idea_PRISM__Phase-enhanced_Radial-based_Image_Signature.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104244_rss_PRISM__Phase-enhanced_Radial-based_Image_Signature.txt",
+      "processed_date": "2025-09-22T17:07:11.173596",
+      "domain": "24_computing"
+    },
+    "764f783e5d7c26911742a304c5f3d71366b699cb48ccbbc2a8b45788b94b0e77": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170711_idea_Obsidian_1.8.5_Desktop__Early_access_.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104336_rss_Obsidian_1.8.5_Desktop__Early_access_.txt",
+      "processed_date": "2025-09-22T17:07:11.181785",
+      "domain": "24_computing"
+    },
+    "440e0e036006504e8c0022cac56bc55e4a5678910fd62b62250b48c00e872dbc": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170711_idea_Obsidian_1.8.7_Mobile__Public_.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104244_rss_Obsidian_1.8.7_Mobile__Public_.txt",
+      "processed_date": "2025-09-22T17:07:11.186513",
+      "domain": "24_computing"
+    },
+    "9d7d27c94eaf391258ffa9beb333066b37833713d50d8ca53dc49eb19aad075c": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170711_idea_Explainable_AI_for_Infection_Prevention_and_Contro.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250919_175447_rss_Explainable_AI_for_Infection_Prevention_and_Contro.txt",
+      "processed_date": "2025-09-22T17:07:11.191222",
+      "domain": "24_computing"
+    },
+    "c1c6703805dfe031bc82bc702c4fc8b1fa80f09bb9a9da7196044fe256534d28": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170711_idea_Do_Vision-Language_Models_See_Urban_Scenes_as_Peop.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250919_175448_rss_Do_Vision-Language_Models_See_Urban_Scenes_as_Peop.txt",
+      "processed_date": "2025-09-22T17:07:11.201484",
+      "domain": "24_computing"
+    },
+    "24d515dba6dc01b3e9e1e226d1eb07639773cb8d8a53c80b511c7e6c9ecb4e6d": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170711_idea_Process-Driven_Visual_Analysis_of_Cybersecurity_Ca.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104244_rss_Process-Driven_Visual_Analysis_of_Cybersecurity_Ca.txt",
+      "processed_date": "2025-09-22T17:07:11.205505",
+      "domain": "24_computing"
+    },
+    "a2a9f3cccbd7e87486787c418f836997780bd709b93907b6a8fda921e33b967b": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170711_idea_Towards_Human-like_Multimodal_Conversational_Agent.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250919_175448_rss_Towards_Human-like_Multimodal_Conversational_Agent.txt",
+      "processed_date": "2025-09-22T17:07:11.209217",
+      "domain": "24_computing"
+    },
+    "28579a82f71a227e46d6834e99df700b3ad60275bba20336a3bd95f84eb2afee": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170711_idea_LLM-I__LLMs_are_Naturally_Interleaved_Multimodal_C.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250918_114950_rss_LLM-I__LLMs_are_Naturally_Interleaved_Multimodal_C.txt",
+      "processed_date": "2025-09-22T17:07:11.212893",
+      "domain": "24_computing"
+    },
+    "370809921e19d51991e1ec2d7698acc5de06edeff8164fce28f0b6d085220a26": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170711_idea_Beyond_Community_Notes__A_Framework_for_Understand.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104336_rss_Beyond_Community_Notes__A_Framework_for_Understand.txt",
+      "processed_date": "2025-09-22T17:07:11.223289",
+      "domain": null
+    },
+    "d4aec94b511ac08f15405590d7ebbe906d231d4f1f4ca03f32c44d7e03b9180b": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170711_idea_Obsidian_1.9.5_Mobile__Early_access_.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104244_rss_Obsidian_1.9.5_Mobile__Early_access_.txt",
+      "processed_date": "2025-09-22T17:07:11.227282",
+      "domain": null
+    },
+    "5ef83c4cefe0db7c45410c8ffaf80b3e12da5f7614cd0a3c94e62e6eb50c957f": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170711_idea_MicroRCA-Agent__Microservice_Root_Cause_Analysis_M.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104243_rss_MicroRCA-Agent__Microservice_Root_Cause_Analysis_M.txt",
+      "processed_date": "2025-09-22T17:07:11.236179",
+      "domain": "24_computing"
+    },
+    "9866164018418b5110cda27b705f812da25a8af6f63f1d1642add53b669d28b3": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170711_idea_Effects_of_segmentation_errors_on_downstream-analy.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104337_rss_Effects_of_segmentation_errors_on_downstream-analy.txt",
+      "processed_date": "2025-09-22T17:07:11.251369",
+      "domain": "24_computing"
+    },
+    "1239a70b869229f98cb44ebeadc474661f98a0648d80a97c6d1ba859d75c9389": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170711_idea_Dataset_Distillation_for_Super-Resolution_without_.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250919_175448_rss_Dataset_Distillation_for_Super-Resolution_without_.txt",
+      "processed_date": "2025-09-22T17:07:11.269473",
+      "domain": "24_computing"
+    },
+    "e9283e30a2848a04a1a1a4130f26fae8f676e4df08f9d4a2555172cbd7db8a7e": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170711_idea_Autoguided_Online_Data_Curation_for_Diffusion_Mode.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104243_rss_Autoguided_Online_Data_Curation_for_Diffusion_Mode.txt",
+      "processed_date": "2025-09-22T17:07:11.281136",
+      "domain": "24_computing"
+    },
+    "9201295366f6ec391b45bc0882c3e1c6f57df29e9df0f8172a83d65aa7ee6a12": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170711_idea_KNARsack__Teaching_Neural_Algorithmic_Reasoners_to.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104335_rss_KNARsack__Teaching_Neural_Algorithmic_Reasoners_to.txt",
+      "processed_date": "2025-09-22T17:07:11.289821",
+      "domain": "24_computing"
+    },
+    "33ac4cc582143e550827051308bd5b3bec2d960d633859fa182c40474f12adbf": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170711_idea_Fairness-in-the-Workflow__How_Machine_Learning_Pra.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104244_rss_Fairness-in-the-Workflow__How_Machine_Learning_Pra.txt",
+      "processed_date": "2025-09-22T17:07:11.295220",
+      "domain": "24_computing"
+    },
+    "06d8db9ba9715fe1a7501eaef98b8b30a2ae0b10a9db4a4d24e06d3a93b7d1d1": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170711_idea_Topography_of_the_insular_cortex_in_heart_rate_con.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104337_rss_Topography_of_the_insular_cortex_in_heart_rate_con.txt",
+      "processed_date": "2025-09-22T17:07:11.299868",
+      "domain": "24_computing"
+    },
+    "b1602fdb73a019e3615901b1947c538d8facec6316d4307effd055ad1572805c": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170711_idea_Impact_of_Phonetics_on_Speaker_Identity_in_Adversa.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_102658_rss_Impact_of_Phonetics_on_Speaker_Identity_in_Adversa.txt",
+      "processed_date": "2025-09-22T17:07:11.313795",
+      "domain": "24_computing"
+    },
+    "b1dd2db5f2c254a96ec9235b3dbb8308d724a41d2bb9cfb681b3bbf34d3736b5": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170711_idea_Attention_Schema-based_Attention_Control__ASAC___A.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104335_rss_Attention_Schema-based_Attention_Control__ASAC___A.txt",
+      "processed_date": "2025-09-22T17:07:11.317573",
+      "domain": "24_computing"
+    },
+    "c0c25c015d8b6c022c9268577f18a5e27b19567fb8f06b15e215884056030d93": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170711_idea_Walk_and_Read_Less__Improving_the_Efficiency_of_Vi.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104243_rss_Walk_and_Read_Less__Improving_the_Efficiency_of_Vi.txt",
+      "processed_date": "2025-09-22T17:07:11.335603",
+      "domain": "24_computing"
+    },
+    "da6bf11df22a8bc20a6a10552d5b08f26464dedb4d01d0ff9396b41908635879": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170711_idea_Graph-Enhanced_Retrieval-Augmented_Question_Answer.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250919_175447_rss_Graph-Enhanced_Retrieval-Augmented_Question_Answer.txt",
+      "processed_date": "2025-09-22T17:07:11.352395",
+      "domain": "24_computing"
+    },
+    "80d1d4254a69ae3c2bbd38b15c0cf6da340ea83ea14d80a317e41e0b86fafd8b": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170711_idea_FragmentRetro__A_Quadratic_Retrosynthetic_Method_B.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104335_rss_FragmentRetro__A_Quadratic_Retrosynthetic_Method_B.txt",
+      "processed_date": "2025-09-22T17:07:11.357344",
+      "domain": "24_computing"
+    },
+    "5c5fa319261b6cb36e61902b8913817cefa9467fa6eccd3b1474a966ce197174": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170711_idea_EchoVLM__Dynamic_Mixture-of-Experts_Vision-Languag.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250919_175448_rss_EchoVLM__Dynamic_Mixture-of-Experts_Vision-Languag.txt",
+      "processed_date": "2025-09-22T17:07:11.365547",
+      "domain": "24_computing"
+    },
+    "a91041247187ddc5d7c7031a6d4954363ecfd55141476e012d5fcf52f2cc2cf1": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170711_idea_Mapping_body-related_research_within_the_experimen.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104337_rss_Mapping_body-related_research_within_the_experimen.txt",
+      "processed_date": "2025-09-22T17:07:11.386371",
+      "domain": "24_computing"
+    },
+    "13a94e2d994b2401f4b203f3fb4b6ee2f67bac2f43bfa2c8bf62489b565dd2dc": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170711_idea_EHR-MCP__Real-world_Evaluation_of_Clinical_Informa.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_102658_rss_EHR-MCP__Real-world_Evaluation_of_Clinical_Informa.txt",
+      "processed_date": "2025-09-22T17:07:11.394118",
+      "domain": "26_brain_imaging"
+    },
+    "ed8c854642fe5af8206fc2de1fdef22dc1002cb93d9e17203560111352b02e64": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170711_idea_Obsidian_1.8.9_Desktop__Early_access_.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104244_rss_Obsidian_1.8.9_Desktop__Early_access_.txt",
+      "processed_date": "2025-09-22T17:07:11.402681",
+      "domain": null
+    },
+    "219342cd923a9e0ced92568781a76fc8d1dae4da0966bf8afe611af8c2fcea1f": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170711_idea_Obsidian_1.9.2_Mobile__Early_access_.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_102659_rss_Obsidian_1.9.2_Mobile__Early_access_.txt",
+      "processed_date": "2025-09-22T17:07:11.425832",
+      "domain": null
+    },
+    "3cd7b9ec607c8c3f11f617eda17d2a689d1e3291dccdeb58cbc8511b6e683c4d": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170711_idea_Author_Correction__Spatial_transcriptomics_reveals.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104244_rss_Author_Correction__Spatial_transcriptomics_reveals.txt",
+      "processed_date": "2025-09-22T17:07:11.429841",
+      "domain": "24_computing"
+    },
+    "fa7195ad7a184ca75abd48bcca1680d2bcbeeac6fc8510ffa227647ebf6c6f0a": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170711_idea_New_Insights_into_Global_Warming__End-to-End_Visua.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250919_175448_rss_New_Insights_into_Global_Warming__End-to-End_Visua.txt",
+      "processed_date": "2025-09-22T17:07:11.433673",
+      "domain": "24_computing"
+    },
+    "25b081e655de5f3efa47e2417400a1b23c9072b5c2b8dffb1efd4f695806096a": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170711_idea_Walk_and_Read_Less__Improving_the_Efficiency_of_Vi.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104335_rss_Walk_and_Read_Less__Improving_the_Efficiency_of_Vi.txt",
+      "processed_date": "2025-09-22T17:07:11.437975",
+      "domain": "24_computing"
+    },
+    "32c7c1b368314a9b5b6f6b1f8c170ec4538298dce4a545e9e1eb7f720d123bcf": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170711_idea_MiR-153_Prevents_NRF2_Nuclear_Translocation_to_Dri.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_102659_rss_MiR-153_Prevents_NRF2_Nuclear_Translocation_to_Dri.txt",
+      "processed_date": "2025-09-22T17:07:11.453906",
+      "domain": "24_computing"
+    },
+    "0cca86dad3b478ff38a469ac05487f2fa5ef1fdacf108269a1550d6d363f7a40": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170711_idea_GS-Scale__Unlocking_Large-Scale_3D_Gaussian_Splatt.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104244_rss_GS-Scale__Unlocking_Large-Scale_3D_Gaussian_Splatt.txt",
+      "processed_date": "2025-09-22T17:07:11.468767",
+      "domain": "24_computing"
+    },
+    "41a8dbdcd3f291328d7bd00aa3abe7af4c23849c43a8cb46b93c47bf80640758": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170711_idea_Stress_Testing_Deliberative_Alignment_for_Anti-Sch.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_102658_rss_Stress_Testing_Deliberative_Alignment_for_Anti-Sch.txt",
+      "processed_date": "2025-09-22T17:07:11.473496",
+      "domain": "24_computing"
+    },
+    "552a7abb1e9ae48b3021a87a594158a6f3c5de3f1fa4ccc70c2487753d7e24cc": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170711_idea_Exogenous_spatial_attention_is_functional_in_paral.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104245_rss_Exogenous_spatial_attention_is_functional_in_paral.txt",
+      "processed_date": "2025-09-22T17:07:11.485331",
+      "domain": null
+    },
+    "dc3040805f1d70f6d6786eb5c37fbe246e3a9e8d433d977d5671a6b4427a451e": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170711_idea_Designing_with_Culture__How_Social_Norms_Shape_Tru.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_102658_rss_Designing_with_Culture__How_Social_Norms_Shape_Tru.txt",
+      "processed_date": "2025-09-22T17:07:11.495674",
+      "domain": "24_computing"
+    },
+    "c0407f3a20fc38dd9b1220ae4330213318bd95a7e36c2f1d6c0114a3a22b4efb": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170711_idea_Emotion-Aware_Speech_Generation_with_Character-Spe.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104243_rss_Emotion-Aware_Speech_Generation_with_Character-Spe.txt",
+      "processed_date": "2025-09-22T17:07:11.524912",
+      "domain": "24_computing"
+    },
+    "b042912a1a694a04e5d844f0f6e7be57f0e1c21e5acb439f96067600e7f95fa9": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170711_idea_UCorr__Wire_Detection_and_Depth_Estimation_for_Aut.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250919_175448_rss_UCorr__Wire_Detection_and_Depth_Estimation_for_Aut.txt",
+      "processed_date": "2025-09-22T17:07:11.538735",
+      "domain": "24_computing"
+    },
+    "68bbb942cea156370e04e8a5f85f34ebc8610de43ceb481de3900796b761c194": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170711_idea_Generating_Part-Based_Global_Explanations_Via_Corr.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104243_rss_Generating_Part-Based_Global_Explanations_Via_Corr.txt",
+      "processed_date": "2025-09-22T17:07:11.543967",
+      "domain": "24_computing"
+    },
+    "eddbddff9c745255b4c9e4656b3f0c4eefea9db732f3c19136796e90ced03ae6": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170711_idea_Obsidian_1.9.1_Desktop__Early_access_.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104336_rss_Obsidian_1.9.1_Desktop__Early_access_.txt",
+      "processed_date": "2025-09-22T17:07:11.549085",
+      "domain": null
+    },
+    "93cfe1bb71f469eb73c69da8bf5ef41bf6b67efbd9c9ac640e0b3e1fbd4bde4d": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170711_idea_SynBench__A_Benchmark_for_Differentially_Private_T.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250919_175447_rss_SynBench__A_Benchmark_for_Differentially_Private_T.txt",
+      "processed_date": "2025-09-22T17:07:11.557931",
+      "domain": "24_computing"
+    },
+    "961373b56751063f0abf53473699dd9eca91d9d5d7561bc0d7bbe8ca6ef65cf2": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170711_idea_Competition_and_cooperation_of_assembly_sequences_.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104337_rss_Competition_and_cooperation_of_assembly_sequences_.txt",
+      "processed_date": "2025-09-22T17:07:11.569246",
+      "domain": "24_computing"
+    },
+    "a8daa7a7ddf721bedb0462acef56fc5a625e64f9e6908e4110e8c9e6bb1f43e2": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170711_idea_Obsidian_1.8.10_Desktop__Early_access_.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104336_rss_Obsidian_1.8.10_Desktop__Early_access_.txt",
+      "processed_date": "2025-09-22T17:07:11.583970",
+      "domain": null
+    },
+    "9d1af0ceadaeea1512b3ac05c66147cf8da2e59bef19bac367d2f4b494491a08": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170711_idea_LowDiff__Efficient_Diffusion_Sampling_with_Low-Res.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104244_rss_LowDiff__Efficient_Diffusion_Sampling_with_Low-Res.txt",
+      "processed_date": "2025-09-22T17:07:11.590035",
+      "domain": null
+    },
+    "cf7d29d4a122ab45e051ae10e0347221efd918a5a203c6e1563c97612d58bbb8": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170711_idea_Class-invariant_Test-Time_Augmentation_for_Domain_.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250919_175448_rss_Class-invariant_Test-Time_Augmentation_for_Domain_.txt",
+      "processed_date": "2025-09-22T17:07:11.599532",
+      "domain": "24_computing"
+    },
+    "44253eb6e051e2026c7852e6f6634399e741e99964d0350af4f12a5a41abaa09": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170711_idea_Hallucination_Detection_with_the_Internal_Layers_o.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250919_175447_rss_Hallucination_Detection_with_the_Internal_Layers_o.txt",
+      "processed_date": "2025-09-22T17:07:11.608477",
+      "domain": "24_computing"
+    },
+    "9be07fa01ff5527503d09da8ae5df0b867fc3307177793d4530fce8d70a4cc89": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170711_idea_See__Think__Act__Teaching_Multimodal_Agents_to_Eff.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250918_114950_rss_See__Think__Act__Teaching_Multimodal_Agents_to_Eff.txt",
+      "processed_date": "2025-09-22T17:07:11.620072",
+      "domain": "24_computing"
+    },
+    "4e805fb87623d32ffd35c2705b2d0b679c2af41a1231b3bc1704fbdb1bcc38a1": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170711_idea_MAP__End-to-End_Autonomous_Driving_with_Map-Assist.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250918_114950_rss_MAP__End-to-End_Autonomous_Driving_with_Map-Assist.txt",
+      "processed_date": "2025-09-22T17:07:11.631136",
+      "domain": "24_computing"
+    },
+    "747342dd93104435684ebccb9d329d45f6180cb329f272591afe563112268b31": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170711_idea_SwiftVideo__A_Unified_Framework_for_Few-Step_Video.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250918_114950_rss_SwiftVideo__A_Unified_Framework_for_Few-Step_Video.txt",
+      "processed_date": "2025-09-22T17:07:11.645008",
+      "domain": null
+    },
+    "0e8b6eab32d1de421f0ddc31eae9b0a900f9f0f685a74eaea3f40b6996dc0383": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170711_idea_Lynx__Towards_High-Fidelity_Personalized_Video_Gen.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104244_rss_Lynx__Towards_High-Fidelity_Personalized_Video_Gen.txt",
+      "processed_date": "2025-09-22T17:07:11.691991",
+      "domain": "24_computing"
+    },
+    "c9d77e8cc9251138b909bca4eee81f96d45d07c5ef2af5d7398811d806e2eed9": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170711_idea_Enhancing_WSI-Based_Survival_Analysis_with_Report-.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_102658_rss_Enhancing_WSI-Based_Survival_Analysis_with_Report-.txt",
+      "processed_date": "2025-09-22T17:07:11.713824",
+      "domain": "24_computing"
+    },
+    "7d89ac1fdc25fb24ce88e1dc5168aeda1625f8d383c0e4ead9481be51537c720": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170711_idea_Obsidian_1.9.8_Mobile__Early_access_.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104244_rss_Obsidian_1.9.8_Mobile__Early_access_.txt",
+      "processed_date": "2025-09-22T17:07:11.724399",
+      "domain": null
+    },
+    "7b75e80486dc3f04427956887dcbc2317b063e61dd53df030c06d3c43b37a018": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170711_idea_Why_Johnny_Can_t_Use_Agents__Industry_Aspirations_.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250919_175448_rss_Why_Johnny_Can_t_Use_Agents__Industry_Aspirations_.txt",
+      "processed_date": "2025-09-22T17:07:11.734552",
+      "domain": "24_computing"
+    },
+    "313c1ac8e3a63878c5a145fba19907fecba22128fbbad82a4e7d6f369d9d9253": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170711_idea_DICE__Diffusion_Consensus_Equilibrium_for_Sparse-v.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250919_175448_rss_DICE__Diffusion_Consensus_Equilibrium_for_Sparse-v.txt",
+      "processed_date": "2025-09-22T17:07:11.773338",
+      "domain": null
+    },
+    "a7b513f273ab341efef57628639684f5a12301306aa8409a3149d0fcf6b98fa6": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170711_idea_CoDoL__Conditional_Domain_Prompt_Learning_for_Out-.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104335_rss_CoDoL__Conditional_Domain_Prompt_Learning_for_Out-.txt",
+      "processed_date": "2025-09-22T17:07:11.777382",
+      "domain": "24_computing"
+    },
+    "30413c4ca9604dc0303dd48ce9abe4698155492610e80bd6d2d50f879e6c71b6": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170711_idea_FingerSplat__Contactless_Fingerprint_3D_Reconstruc.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_102658_rss_FingerSplat__Contactless_Fingerprint_3D_Reconstruc.txt",
+      "processed_date": "2025-09-22T17:07:11.791175",
+      "domain": null
+    },
+    "c693ae07c13d686b6dd05c63fc1c9fd26a7c658ec27ddf12cce742d3ea51eca2": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170711_idea_Obsidian_1.8.6_Desktop__Early_access_.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104244_rss_Obsidian_1.8.6_Desktop__Early_access_.txt",
+      "processed_date": "2025-09-22T17:07:11.798576",
+      "domain": "24_computing"
+    },
+    "864cb33968b34767f5b202cfb3dec62bea0d8919ffa16016d3420c69933a2c8e": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170711_idea__It_Felt_Like_I_Was_Left_in_the_Dark___Exploring_I.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104336_rss__It_Felt_Like_I_Was_Left_in_the_Dark___Exploring_I.txt",
+      "processed_date": "2025-09-22T17:07:11.809631",
+      "domain": "24_computing"
+    },
+    "c3210ef660ee3e7f1096099498687c48bfe8a581e7b9f733a9aad8edb658c56d": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170711_idea_GenKOL__Modular_Generative_AI_Framework_For_Scalab.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250919_175448_rss_GenKOL__Modular_Generative_AI_Framework_For_Scalab.txt",
+      "processed_date": "2025-09-22T17:07:11.818589",
+      "domain": "24_computing"
+    },
+    "5a1db68537ec41763040ac42178057acdfb55860bb5a46269cee2b5a429ebda7": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170711_idea_Quiz__What_Does_-__Mean_in_Python_Function_Definit.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250918_114949_rss_Quiz__What_Does_-__Mean_in_Python_Function_Definit.txt",
+      "processed_date": "2025-09-22T17:07:11.829023",
+      "domain": "24_computing"
+    },
+    "137bc85280469ce15fc53d53dad9abffb8b67ac4bc352cf60ffcb7988265c523": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170711_idea_M-PACE__Mother_Child_Framework_for_Multimodal_Comp.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104244_rss_M-PACE__Mother_Child_Framework_for_Multimodal_Comp.txt",
+      "processed_date": "2025-09-22T17:07:11.843929",
+      "domain": "24_computing"
+    },
+    "5b5ccf1dadf0a8ff04d305dca9ae9d27b52fcfdcfef112cbf60eefed0ea8b1c0": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170711_idea_IEFS-GMB__Gradient_Memory_Bank-Guided_Feature_Sele.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_102658_rss_IEFS-GMB__Gradient_Memory_Bank-Guided_Feature_Sele.txt",
+      "processed_date": "2025-09-22T17:07:11.857717",
+      "domain": "24_computing"
+    },
+    "230684a2a05ce01b53fbeea8e52114cad26d494836554e30aafa0d1873d10fc2": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170711_idea_QuizRank__Picking_Images_by_Quizzing_VLMs.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250919_175448_rss_QuizRank__Picking_Images_by_Quizzing_VLMs.txt",
+      "processed_date": "2025-09-22T17:07:11.865508",
+      "domain": "24_computing"
+    },
+    "ade7d85ad8801f6d30984a4b968a204388820af94caf4b459fed7ced86db50b9": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170711_idea_PRISM__Product_Retrieval_In_Shopping_Carts_using_H.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250919_175448_rss_PRISM__Product_Retrieval_In_Shopping_Carts_using_H.txt",
+      "processed_date": "2025-09-22T17:07:11.911914",
+      "domain": "24_computing"
+    },
+    "ab8f851915b401cb844b545ecbc95398f36f9bae8e83835aaf30992b030bd324": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170711_idea_DC-Mamba__Bi-temporal_deformable_alignment_and_sca.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_102658_rss_DC-Mamba__Bi-temporal_deformable_alignment_and_sca.txt",
+      "processed_date": "2025-09-22T17:07:11.940830",
+      "domain": null
+    },
+    "807e43ada62413fd5094281cd2970b4f0b069685b65b1ad39b9715dfde380814": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170711_idea_How_to_debug_a_web_app_with_Playwright_MCP_and_Git.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250918_114948_rss_How_to_debug_a_web_app_with_Playwright_MCP_and_Git.txt",
+      "processed_date": "2025-09-22T17:07:11.955829",
+      "domain": "25_foss"
+    },
+    "f174767a0c71aaabfb53c90c13b4ba3210e5d4244ea0d5c1db4b289b7523d6e6": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170711_idea_VarPPUD__Pinpointing_diagnostic_variants_from_sets.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_170645_rss_VarPPUD__Pinpointing_diagnostic_variants_from_sets.txt",
+      "processed_date": "2025-09-22T17:07:11.985537",
+      "domain": "24_computing"
+    },
+    "217558761d379b4425f956098b01c41fd7d98f583074d64a301cf9fc0fa665fc": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170712_idea_Augmenting_AMPA_receptor_signaling_after_spinal_co.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104336_rss_Augmenting_AMPA_receptor_signaling_after_spinal_co.txt",
+      "processed_date": "2025-09-22T17:07:12.011864",
+      "domain": "26_brain_imaging"
+    },
+    "bf0cd1d6bd131b4b0a70cb05d2a8614f930acf35f774975a40d6967a3b249329": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170712_idea_PCSR__Pseudo-label_Consistency-Guided_Sample_Refin.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_102658_rss_PCSR__Pseudo-label_Consistency-Guided_Sample_Refin.txt",
+      "processed_date": "2025-09-22T17:07:12.026069",
+      "domain": "24_computing"
+    },
+    "8e48208c6656bb1f3774d0c9721a93abefc449799761e631e1fc509bec79ccc3": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170712_idea_Domain_Adaptation_for_Ulcerative_Colitis_Severity_.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250919_175448_rss_Domain_Adaptation_for_Ulcerative_Colitis_Severity_.txt",
+      "processed_date": "2025-09-22T17:07:12.047865",
+      "domain": "24_computing"
+    },
+    "9a295a102fccff1b3b48fa87018587ea7386c0e00e5c06faceed28a12b8668cb": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170712_idea_Obsidian_2025.08.22__Public_.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104336_rss_Obsidian_2025.08.22__Public_.txt",
+      "processed_date": "2025-09-22T17:07:12.056207",
+      "domain": "25_foss"
+    },
+    "51f41d024dd936169522b1fa2ec955bbf68c9193701e470d3c66031c21d5746d": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170712_idea_Ten_simple_rules_for_building_and_maintaining_sust.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_170645_rss_Ten_simple_rules_for_building_and_maintaining_sust.txt",
+      "processed_date": "2025-09-22T17:07:12.067733",
+      "domain": "26_brain_imaging"
+    },
+    "3c1be3fa42dacffdd3150087982b6ff8971349b76a8b1d3ce2a5beb85db234ae": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170712_idea_Improving_Context_Fidelity_via_Native_Retrieval-Au.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250918_114950_rss_Improving_Context_Fidelity_via_Native_Retrieval-Au.txt",
+      "processed_date": "2025-09-22T17:07:12.072461",
+      "domain": "24_computing"
+    },
+    "588d86f4e29f442f6c3fadca20b5c139c637e22145ae3cb53a1fa74979ce9f75": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170712_idea_Affordance-Based_Disambiguation_of_Surgical_Instru.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250919_175448_rss_Affordance-Based_Disambiguation_of_Surgical_Instru.txt",
+      "processed_date": "2025-09-22T17:07:12.121152",
+      "domain": null
+    },
+    "52b3e41fbaf48c23b34826deda6ceb0a74085baccfaf28912e8f391b1fde97f9": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170712_idea_Study_on_the_protective_effects_and_mechanisms_of_.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104337_rss_Study_on_the_protective_effects_and_mechanisms_of_.txt",
+      "processed_date": "2025-09-22T17:07:12.145038",
+      "domain": "24_computing"
+    },
+    "485636289779f79eaf85bb8d98b355cdb2019bb8ad06740d0e7cacbc05e6edef": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170712_idea_Obsidian_1.9.0_Desktop__Early_access_.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_102659_rss_Obsidian_1.9.0_Desktop__Early_access_.txt",
+      "processed_date": "2025-09-22T17:07:12.149460",
+      "domain": null
+    },
+    "e13be85584c0ed5b72aed7ed367ab3595fcc4cdf3668f02a455243514a03ba36": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170712_idea_Efficient_Hate_Speech_Detection__Evaluating_38_Mod.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250919_175447_rss_Efficient_Hate_Speech_Detection__Evaluating_38_Mod.txt",
+      "processed_date": "2025-09-22T17:07:12.164991",
+      "domain": "24_computing"
+    },
+    "47779ccbf51b63befd2a8973771c51db17088dd308b4b5f22a9064ff74b1c903": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170712_idea_ASTREA__Introducing_Agentic_Intelligence_for_Orbit.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250918_114950_rss_ASTREA__Introducing_Agentic_Intelligence_for_Orbit.txt",
+      "processed_date": "2025-09-22T17:07:12.169546",
+      "domain": "24_computing"
+    },
+    "be418c3f34e463699e97e74d3cc56d714537f9eed38a759a6f3311ae2e1573c7": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170712_idea_SPATIALGEN__Layout-guided_3D_Indoor_Scene_Generati.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250919_175448_rss_SPATIALGEN__Layout-guided_3D_Indoor_Scene_Generati.txt",
+      "processed_date": "2025-09-22T17:07:12.188729",
+      "domain": "24_computing"
+    },
+    "49b7f5dffd64ba28c57034d122e18bf052cb3094c7f9fd53f657345e8c6bac1f": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170712_idea_Template-Based_Cortical_Surface_Reconstruction_wit.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250919_175448_rss_Template-Based_Cortical_Surface_Reconstruction_wit.txt",
+      "processed_date": "2025-09-22T17:07:12.233167",
+      "domain": "24_computing"
+    },
+    "9d418e9a6f7ebd65966f9bce9bc284d2d62f296313b0d34c5e63931bf2d10728": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170712_idea_Obsidian_1.8.10_Desktop__Public_.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104336_rss_Obsidian_1.8.10_Desktop__Public_.txt",
+      "processed_date": "2025-09-22T17:07:12.247168",
+      "domain": null
+    },
+    "4e999547152d1aae1002485ba48b8cc762a1fed1b9a8c4c9eb21d55af712ab0f": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170712_idea_Defeating_Nondeterminism_in_LLM_Inference.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250918_114949_rss_Defeating_Nondeterminism_in_LLM_Inference.txt",
+      "processed_date": "2025-09-22T17:07:12.274905",
+      "domain": "24_computing"
+    },
+    "2b1bfd819933082d6c8cf037bef5c476e3a9c71d589f40a3c066e5ee7d08dde7": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170712_idea_DAVIS__Planning_Agent_with_Knowledge_Graph-Powered.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250918_114950_rss_DAVIS__Planning_Agent_with_Knowledge_Graph-Powered.txt",
+      "processed_date": "2025-09-22T17:07:12.299293",
+      "domain": "24_computing"
+    },
+    "d034f76d80e041f47f5015ddd8ff8e52bc66b89e7dc6ed93ea54414195a313ae": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170712_idea_A_Culturally-diverse_Multilingual_Multimodal_Video.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250918_114950_rss_A_Culturally-diverse_Multilingual_Multimodal_Video.txt",
+      "processed_date": "2025-09-22T17:07:12.304175",
+      "domain": "24_computing"
+    },
+    "15f44dca7edff6cb5afe62bf51c3c7bb7c95a29bf223cc792a52b4405951f1ff": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170712_idea_Obsidian_1.8.9_Desktop__Public_.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104244_rss_Obsidian_1.8.9_Desktop__Public_.txt",
+      "processed_date": "2025-09-22T17:07:12.326888",
+      "domain": null
+    },
+    "27c93b8a8827aebadee152c7a111eaf9a0e548a2df455724aa0caf839c0a1ab0": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170712_idea_CrossPT__Exploring_Cross-Task_Transferability_thro.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250919_175447_rss_CrossPT__Exploring_Cross-Task_Transferability_thro.txt",
+      "processed_date": "2025-09-22T17:07:12.334841",
+      "domain": "24_computing"
+    },
+    "c7356dbd3773b117d4ac3b9364469d4fa7b32b41c2bbb33374f5283ec6a7c4e0": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170712_idea_Shutdown_Resistance_in_Large_Language_Models.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250919_175447_rss_Shutdown_Resistance_in_Large_Language_Models.txt",
+      "processed_date": "2025-09-22T17:07:12.354850",
+      "domain": null
+    },
+    "454f58eaafc0353fea5ebc048d002ef59e3113aad7883bea5c3697295bcae0e8": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170712_idea_Synthetic-to-Real_Object_Detection_using_YOLOv11_a.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250919_175448_rss_Synthetic-to-Real_Object_Detection_using_YOLOv11_a.txt",
+      "processed_date": "2025-09-22T17:07:12.387990",
+      "domain": "24_computing"
+    },
+    "8ec00495e982f4cecd582b505d23ff4b839105bd1b386056faebeabb18187258": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170712_idea_Multimodal_Learning_for_Fake_News_Detection_in_Sho.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104335_rss_Multimodal_Learning_for_Fake_News_Detection_in_Sho.txt",
+      "processed_date": "2025-09-22T17:07:12.427434",
+      "domain": null
+    },
+    "9d01ce04ec1e420146c70a3ca4915e2bcd1092730b4c8539285f5fb87384633f": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170712_idea_SBMLNetwork__A_framework_for_standards-based_visua.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_170645_rss_SBMLNetwork__A_framework_for_standards-based_visua.txt",
+      "processed_date": "2025-09-22T17:07:12.450785",
+      "domain": "24_computing"
+    },
+    "a6244b96e3c1926c86e04040acc48b704aa7b78753ca8ac72cd2153df655cc56": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170712_idea_TennisTV__Do_Multimodal_Large_Language_Models_Unde.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104244_rss_TennisTV__Do_Multimodal_Large_Language_Models_Unde.txt",
+      "processed_date": "2025-09-22T17:07:12.491019",
+      "domain": "24_computing"
+    },
+    "20d07d4967eeea0be8a5a7153611ab6ef49fe4c3c7fdd66ed1747ea7421ad4e8": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170712_idea_Invisible_Yet_Detected__PelFANet_with_Attention-Gu.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250918_114950_rss_Invisible_Yet_Detected__PelFANet_with_Attention-Gu.txt",
+      "processed_date": "2025-09-22T17:07:12.533863",
+      "domain": "24_computing"
+    },
+    "c1e81e344c409aa1e8c1ddfadfeb0c1dbfacccf14a0adccc568194fe57ef31c8": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170712_idea_Large_Vision_Models_Can_Solve_Mental_Rotation_Prob.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104243_rss_Large_Vision_Models_Can_Solve_Mental_Rotation_Prob.txt",
+      "processed_date": "2025-09-22T17:07:12.540274",
+      "domain": "24_computing"
+    },
+    "beaa3d0c823503854f362a70969d01bfb0e2f8e7b1f8fc3b27044d15652ce403": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170712_idea_Texture-Aware_Superpixel_Segmentation.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250918_114950_rss_Texture-Aware_Superpixel_Segmentation.txt",
+      "processed_date": "2025-09-22T17:07:12.583396",
+      "domain": "24_computing"
+    },
+    "4eaa39407402d4a7f8f502468efef22d58c0fb90431c2f41d10d08a612ee3075": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170712_idea_Towards_Size-invariant_Salient_Object_Detection__A.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104244_rss_Towards_Size-invariant_Salient_Object_Detection__A.txt",
+      "processed_date": "2025-09-22T17:07:12.621230",
+      "domain": null
+    },
+    "b8301b1b1d3d7ad9e27b0484a4d3977a194b2ff6f4692b4186926ca0fc334aea": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170712_idea_ClearFairy__Capturing_Creative_Workflows_through_D.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250919_175448_rss_ClearFairy__Capturing_Creative_Workflows_through_D.txt",
+      "processed_date": "2025-09-22T17:07:12.633077",
+      "domain": "24_computing"
+    },
+    "b0df2423fb8cb12215c0a21777a131a0c064dcb8e3cc2959359bf41b44d94980": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170712_idea_Beyond_Data_Privacy__New_Privacy_Risks_for_Large_L.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250919_175447_rss_Beyond_Data_Privacy__New_Privacy_Risks_for_Large_L.txt",
+      "processed_date": "2025-09-22T17:07:12.637436",
+      "domain": "24_computing"
+    },
+    "2a8de0019928d19f7f16882ca4351c187b1b2ff910026da4fa0b2baff3879b48": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170712_idea_How_to_use_the_GitHub_and_JFrog_integration_for_se.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250918_114948_rss_How_to_use_the_GitHub_and_JFrog_integration_for_se.txt",
+      "processed_date": "2025-09-22T17:07:12.649463",
+      "domain": "25_foss"
+    },
+    "b828599029316b9a5028173b50dd39540e8727adc2d77afa4ce8a07d5ecfd37e": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170712_idea_ORCA__Agentic_Reasoning_For_Hallucination_and_Adve.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104243_rss_ORCA__Agentic_Reasoning_For_Hallucination_and_Adve.txt",
+      "processed_date": "2025-09-22T17:07:12.676699",
+      "domain": "24_computing"
+    },
+    "416814bc17591356b946e8bb61fa55ae29f8bcfa24b8ca496b22adde304f53a3": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170712_idea_StyleProtect__Safeguarding_Artistic_Identity_in_Fi.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250918_114950_rss_StyleProtect__Safeguarding_Artistic_Identity_in_Fi.txt",
+      "processed_date": "2025-09-22T17:07:12.681544",
+      "domain": "24_computing"
+    },
+    "4a3b520f01fe95137cb4ac03eb77e359e4c72220f8fbebd25569758aab9ea151": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170712_idea_Opening_the_Black_Box__Interpretable_LLMs_via_Sema.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250919_175447_rss_Opening_the_Black_Box__Interpretable_LLMs_via_Sema.txt",
+      "processed_date": "2025-09-22T17:07:12.748186",
+      "domain": "24_computing"
+    },
+    "61a6447f8c5b620dbbdd1c55007c92d8e0ed93860f0c6cbd87c6856b02ac2769": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170712_idea_Beyond_Classification__Evaluating_LLMs_for_Fine-Gr.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250919_175447_rss_Beyond_Classification__Evaluating_LLMs_for_Fine-Gr.txt",
+      "processed_date": "2025-09-22T17:07:12.752790",
+      "domain": "24_computing"
+    },
+    "59c2b2c2f5738c30f8e32aa3a5c40619048f228219c4c9a5b154871a2aed7dc8": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170712_idea_Feature-aligned_Motion_Transformation_for_Efficien.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250919_175448_rss_Feature-aligned_Motion_Transformation_for_Efficien.txt",
+      "processed_date": "2025-09-22T17:07:12.807327",
+      "domain": "24_computing"
+    },
+    "9deda96db10fb58145113a7b7c237e0fbff49f5717f4a972b22ed9978ec967e5": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170712_idea_Unified_Crew_Planning_and_Replanning_Optimization_.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250919_175447_rss_Unified_Crew_Planning_and_Replanning_Optimization_.txt",
+      "processed_date": "2025-09-22T17:07:12.823520",
+      "domain": "24_computing"
+    },
+    "a45f32f7e981b3f886f4e3056e73869562233be3ea73ebba00bd2cdde8d8cb0d": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170712_idea_Case_Report__Prenatal_diagnosis_of_10_fetuses_with.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104245_rss_Case_Report__Prenatal_diagnosis_of_10_fetuses_with.txt",
+      "processed_date": "2025-09-22T17:07:12.827832",
+      "domain": "24_computing"
+    },
+    "79dbd9ce0ff6f18e3eec44189e41fad8a5cac72fa2b0d895817d37e5a5c7b14e": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170712_idea_MICA__Multi-Agent_Industrial_Coordination_Assistan.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_102658_rss_MICA__Multi-Agent_Industrial_Coordination_Assistan.txt",
+      "processed_date": "2025-09-22T17:07:12.848297",
+      "domain": "24_computing"
+    },
+    "ef341f85cd55ce74f81f5708f826e90a0e1e666ae8f0f25fb00aaf270eef988a": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170712_idea_MS-GS__Multi-Appearance_Sparse-View_3D_Gaussian_Sp.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104335_rss_MS-GS__Multi-Appearance_Sparse-View_3D_Gaussian_Sp.txt",
+      "processed_date": "2025-09-22T17:07:12.853210",
+      "domain": "24_computing"
+    },
+    "9652f37af63a089810c5efbda261a1f09738a6b1ecb8b26b3239e2072b396e75": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170712_idea_ProFusion__3D_Reconstruction_of_Protein_Complex_St.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_102658_rss_ProFusion__3D_Reconstruction_of_Protein_Complex_St.txt",
+      "processed_date": "2025-09-22T17:07:12.877564",
+      "domain": "24_computing"
+    },
+    "2e58cda82e5b4a364164da6d149154ca83997175a26e27a5d6e4b888f59de7d0": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170712_idea_A_Comprehensive_Survey_on_the_Trustworthiness_of_L.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250918_114950_rss_A_Comprehensive_Survey_on_the_Trustworthiness_of_L.txt",
+      "processed_date": "2025-09-22T17:07:12.895725",
+      "domain": "24_computing"
+    },
+    "90231337d83731ed00f61c47a772f7c8875021e895e034826aebaf3fb050ff1f": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170712_idea_Identity-Preserving_Text-to-Video_Generation_Guide.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250918_114950_rss_Identity-Preserving_Text-to-Video_Generation_Guide.txt",
+      "processed_date": "2025-09-22T17:07:12.908830",
+      "domain": "24_computing"
+    },
+    "100591b2b452fb8a0dd966980dcbb513785e324298aae637994b16add9f5df77": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170712_idea_Clonal_heterogeneity_and_antigenic_stimulation_sha.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104245_rss_Clonal_heterogeneity_and_antigenic_stimulation_sha.txt",
+      "processed_date": "2025-09-22T17:07:12.927984",
+      "domain": "24_computing"
+    },
+    "c291a9e693cace03d6fc72b5736a4ff2d2a74152061bc2bfca94d7a8022a6163": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170712_idea_Posterior-GRPO__Rewarding_Reasoning_Processes_in_C.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250918_114950_rss_Posterior-GRPO__Rewarding_Reasoning_Processes_in_C.txt",
+      "processed_date": "2025-09-22T17:07:12.955722",
+      "domain": "24_computing"
+    },
+    "393b4ca9ba60699f76dcdbddea59e8b1a02816e5640ae283306e27c704fb4a62": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170712_idea_Anthropic__A_postmortem_of_three_recent_issues.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250918_114949_rss_Anthropic__A_postmortem_of_three_recent_issues.txt",
+      "processed_date": "2025-09-22T17:07:12.970132",
+      "domain": "24_computing"
+    },
+    "91dbc2b41f7ccf86907701248e26164a9a4ab10043cca2011bec7e5abd0befda": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170713_idea_The_Provenance_Problem__LLMs_and_the_Breakdown_of_.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250918_114950_rss_The_Provenance_Problem__LLMs_and_the_Breakdown_of_.txt",
+      "processed_date": "2025-09-22T17:07:13.014931",
+      "domain": "24_computing"
+    },
+    "d148b5349ab71877f3e55d6f93cd0af6daaf592630b80370be5b75b72297997f": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170713_idea_The_NazoNazo_Benchmark__A_Cost-Effective_and_Exten.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250919_175447_rss_The_NazoNazo_Benchmark__A_Cost-Effective_and_Exten.txt",
+      "processed_date": "2025-09-22T17:07:13.038530",
+      "domain": "24_computing"
+    },
+    "bcbdf4f733b02a4f920361bfd40f3138e918382634e124c35a3dcff9c6a7241d": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170713_idea_The_action_effect_was_not_affected_by_cognitive_lo.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104245_rss_The_action_effect_was_not_affected_by_cognitive_lo.txt",
+      "processed_date": "2025-09-22T17:07:13.064817",
+      "domain": "26_brain_imaging"
+    },
+    "2741acb8ef7c85c189bcad5de48aae4042552dfc8f2c482f87d0d845ea9e19c8": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170713_idea_FedMentor__Domain-Aware_Differential_Privacy_for_H.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250919_175447_rss_FedMentor__Domain-Aware_Differential_Privacy_for_H.txt",
+      "processed_date": "2025-09-22T17:07:13.071714",
+      "domain": "24_computing"
+    },
+    "99b6b39acd7d0c78ceaedbd395ec7d2d6def51de2f2fac56ccf05b06c977822d": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170713_idea_A_Matter_of_Height__The_Impact_of_a_Robotic_Object.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104336_rss_A_Matter_of_Height__The_Impact_of_a_Robotic_Object.txt",
+      "processed_date": "2025-09-22T17:07:13.111731",
+      "domain": "24_computing"
+    },
+    "55e718882a6796835867ff519fbd6f1b386a33e74b37ad7fb7ea366fbf193044": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170713_idea_DiffVL__Diffusion-Based_Visual_Localization_on_2D_.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250919_175448_rss_DiffVL__Diffusion-Based_Visual_Localization_on_2D_.txt",
+      "processed_date": "2025-09-22T17:07:13.171597",
+      "domain": "24_computing"
+    },
+    "5bad776df6b442e4a0b0264735a7d97c3f07fd7938870d9f74d1ef3dd2caa797": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170713_idea_SCoGen__Scenario-Centric_Graph-Based_Synthesis_of_.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250919_175447_rss_SCoGen__Scenario-Centric_Graph-Based_Synthesis_of_.txt",
+      "processed_date": "2025-09-22T17:07:13.223997",
+      "domain": "24_computing"
+    },
+    "3619c28759f4acfb8e45ec6e0c496ca6ff3094e99742c6dc811ac79816cb54b5": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170713_idea_Transposon_activity_and_nucleotide_triplet_instabi.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250919_175449_rss_Transposon_activity_and_nucleotide_triplet_instabi.txt",
+      "processed_date": "2025-09-22T17:07:13.233944",
+      "domain": "24_computing"
+    },
+    "56137d574f374a709b7edfc479564e5b525ad14230582d99b5f6091e4df32c72": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170713_idea_Obsidian_1.9.7_Mobile__Early_access_.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250922_104244_rss_Obsidian_1.9.7_Mobile__Early_access_.txt",
+      "processed_date": "2025-09-22T17:07:13.276615",
+      "domain": null
+    },
+    "89b1b03eaccc4d0e22ccbacc2962de70dd9b6436c70354e2e992f61f8283718d": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170713_idea_Understanding_the_Thinking_Process_of_Reasoning_Mo.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250919_175447_rss_Understanding_the_Thinking_Process_of_Reasoning_Mo.txt",
+      "processed_date": "2025-09-22T17:07:13.305614",
+      "domain": "24_computing"
+    },
+    "c6ff41f0574f165a701e391aba0402470002ee8a2dacfe298ca279050fa425e4": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170713_idea_LLM-JEPA__Large_Language_Models_Meet_Joint_Embeddi.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250919_175447_rss_LLM-JEPA__Large_Language_Models_Meet_Joint_Embeddi.txt",
+      "processed_date": "2025-09-22T17:07:13.322781",
+      "domain": "24_computing"
+    },
+    "1558bc0171d5a799dcc26c68b14d0a06a144574808e72438edbb14ad18ff8eca": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170713_idea_Working_With_Python_s_Built-in_Exceptions.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250918_114949_rss_Working_With_Python_s_Built-in_Exceptions.txt",
+      "processed_date": "2025-09-22T17:07:13.352462",
+      "domain": "24_computing"
+    },
+    "f11e73830e1fbba6afbd3b46b4ecb7b51de25db647d04c38eb8c5c24d4c18c1e": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170713_idea_Managing_Multiple_Python_Versions_With_pyenv.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250918_114949_rss_Managing_Multiple_Python_Versions_With_pyenv.txt",
+      "processed_date": "2025-09-22T17:07:13.365165",
+      "domain": "24_computing"
+    },
+    "25afe25c0694ae36e249ab0ebf0cf0c9509b3a8a7de018615a6688aa00a65e04": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170713_idea_Calibrated_Generative_AI_as_Meta-Reviewer__A_Syste.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250919_175448_rss_Calibrated_Generative_AI_as_Meta-Reviewer__A_Syste.txt",
+      "processed_date": "2025-09-22T17:07:13.461609",
+      "domain": "24_computing"
+    },
+    "668752a72bddb8f9ae0ef99ab91ce37aaa81ca06d11a8742e695c7e3cd3f8126": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170713_idea_Human_Interaction_for_Collaborative_Semantic_SLAM_.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250919_175448_rss_Human_Interaction_for_Collaborative_Semantic_SLAM_.txt",
+      "processed_date": "2025-09-22T17:07:13.484584",
+      "domain": null
+    },
+    "2c5beaa0bfc38dd7a21a8fade2835032c8e8c8db12210e7daddbc6e3e72db64d": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170713_idea_Quiz__Defining_and_Calling_Python_Functions.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250918_114949_rss_Quiz__Defining_and_Calling_Python_Functions.txt",
+      "processed_date": "2025-09-22T17:07:13.494051",
+      "domain": "24_computing"
+    },
+    "a5ad73bab9c8a73dcc45d29820b0691e16d66b3bd101d7d7a3b353390a3b3c07": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170713_idea_From_Sea_to_System__Exploring_User-Centered_Explai.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250919_175448_rss_From_Sea_to_System__Exploring_User-Centered_Explai.txt",
+      "processed_date": "2025-09-22T17:07:13.548320",
+      "domain": "24_computing"
+    },
+    "43e910b6c40da490e74aeb316df609fbef38c74ec5429da74ca079261cb8831e": {
+      "file": "/home/ian/NEUROMANCER/1_ideas/20250922_170713_idea_Not_All_Degradations_Are_Equal__A_Targeted_Feature.md",
+      "original_raw_file": "/home/ian/NEUROMANCER/0_admin/01_inbox/rss_txt/20250919_175448_rss_Not_All_Degradations_Are_Equal__A_Targeted_Feature.txt",
+      "processed_date": "2025-09-22T17:07:13.621216",
+      "domain": "24_computing"
+    }
+  },
+  "duplicate_count": 510
+}
