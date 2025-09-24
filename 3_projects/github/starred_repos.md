@@ -1,0 +1,171 @@
+# GitHub Starred Repos (Last Sync: Tue Sep 23 22:51:26 EDT 2025)
+
+- **[mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know)** (90804 stars) - A collection of (mostly) technical things every software developer should know about
+- **[braindecode/braindecode](https://github.com/braindecode/braindecode)** (1025 stars) - Deep learning software to decode EEG, ECG or MEG signals
+- **[snailpt/CTNet](https://github.com/snailpt/CTNet)** (302 stars) - CTNet: A Convolutional Transformer Network for EEG-Based Motor Imagery Classification
+- **[tldraw/make-real-starter](https://github.com/tldraw/make-real-starter)** (1520 stars) - Make it real
+- **[ChenxinAn-fdu/POLARIS](https://github.com/ChenxinAn-fdu/POLARIS)** (591 stars) - Scaling RL on advanced reasoning models
+- **[ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica)** (25777 stars) - Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
+- **[sst/opencode](https://github.com/sst/opencode)** (24762 stars) - AI coding agent, built for the terminal.
+- **[Nezreka/SoulSync](https://github.com/Nezreka/SoulSync)** (334 stars) - Automated Music Discovery and Collection Manager
+- **[vuciv/animal-crossing-llm-mod](https://github.com/vuciv/animal-crossing-llm-mod)** (267 stars) - AI-powered dialogue generation for Animal Crossing villagers using LLMs
+- **[GUTTERBALLmagazine/gutterbot](https://github.com/GUTTERBALLmagazine/gutterbot)** (1 stars) - null
+- **[vasturiano/react-force-graph](https://github.com/vasturiano/react-force-graph)** (2747 stars) - React component for 2D, 3D, VR and AR force directed graphs
+- **[schej-it/timeful.app](https://github.com/schej-it/timeful.app)** (1103 stars) - Timeful (formerly Schej) is a scheduling platform helps you find the best time for a group to meet. It is a free availability poll that is easy to use and integrates with your calendar.
+- **[NeuroTechX/moabb](https://github.com/NeuroTechX/moabb)** (844 stars) - Mother of All BCI Benchmarks
+- **[SuperBruceJia/EEG-Motor-Imagery-Classification-CNNs-TensorFlow](https://github.com/SuperBruceJia/EEG-Motor-Imagery-Classification-CNNs-TensorFlow)** (229 stars) - EEG Motor Imagery Tasks Classification (by Channels) via Convolutional Neural Networks (CNNs) based on TensorFlow
+- **[JudiniLabs/mcp-code-graph](https://github.com/JudiniLabs/mcp-code-graph)** (329 stars) - MCP Server for code graph analysis and visualization by CodeGPT
+- **[public-apis/public-apis](https://github.com/public-apis/public-apis)** (366040 stars) - A collective list of free APIs
+- **[splitbrain/ReMarkableAPI](https://github.com/splitbrain/ReMarkableAPI)** (416 stars) - Docs and implementation of the reMarkable file sync API
+- **[rankdim/conway](https://github.com/rankdim/conway)** (26 stars) - A lightweight library for beautiful game of life embeds.
+- **[Altaheri/EEG-ATCNet](https://github.com/Altaheri/EEG-ATCNet)** (278 stars) - Attention temporal convolutional network for EEG-based motor imagery classification
+- **[kyutai-labs/delayed-streams-modeling](https://github.com/kyutai-labs/delayed-streams-modeling)** (2383 stars) - Kyutai's Speech-To-Text and Text-To-Speech models based on the Delayed Streams Modeling framework.
+- **[asciinema/asciinema](https://github.com/asciinema/asciinema)** (16007 stars) - Terminal session recorder, streamer and player 📹
+- **[toplap/awesome-livecoding](https://github.com/toplap/awesome-livecoding)** (2918 stars) - All things livecoding
+- **[Qirky/FoxDot](https://github.com/Qirky/FoxDot)** (1099 stars) - Python driven environment for Live Coding
+- **[AlecM33/balatro-joker-bot](https://github.com/AlecM33/balatro-joker-bot)** (15 stars) - A bot that monitors reddit comments and replies with Balatro info when summoned. Inspired by u/balatro-bot.
+- **[rednote-hilab/dots.llm1](https://github.com/rednote-hilab/dots.llm1)** (465 stars) - The official repository of the dots.llm1 base and instruct models proposed by rednote-hilab.
+- **[TriliumNext/Trilium](https://github.com/TriliumNext/Trilium)** (31614 stars) - Build your personal knowledge base with Trilium Notes
+- **[FacioErgoSum/OpenHEG](https://github.com/FacioErgoSum/OpenHEG)** (12 stars) - An open-source neurofeedback and brain-monitoring headset
+- **[analogdotnow/Analog](https://github.com/analogdotnow/Analog)** (1428 stars) - Meet the calendar that changes everything
+- **[myint/cronometer](https://github.com/myint/cronometer)** (34 stars) - Nutrition tracker; fork of the old Java-based Cronometer with better macOS support and newer USDA database
+- **[em-llm/EM-LLM-model](https://github.com/em-llm/EM-LLM-model)** (231 stars) - null
+- **[felixrieseberg/clippy](https://github.com/felixrieseberg/clippy)** (1073 stars) - 📎 Clippy, now with some AI
+- **[promptslab/Promptify](https://github.com/promptslab/Promptify)** (4249 stars) - Prompt Engineering | Prompt Versioning | Use GPT or other prompt based models to get structured output. Join our discord for Prompt-Engineering, LLMs and other latest research
+- **[robolyst/streetview](https://github.com/robolyst/streetview)** (467 stars) - Python package for retrieving current and historical photos from Google Street View
+- **[browser-use/browser-use](https://github.com/browser-use/browser-use)** (70382 stars) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
+- **[TheNumbat/Lists](https://github.com/TheNumbat/Lists)** (306 stars) - Bookmarks in graphics, algorithms, low level programming, math, languages
+- **[ObsidianToAnki/Obsidian_to_Anki](https://github.com/ObsidianToAnki/Obsidian_to_Anki)** (1822 stars) - Script to add flashcards from text/markdown files to Anki
+- **[sccn/eeglab](https://github.com/sccn/eeglab)** (690 stars) - EEGLAB is an open source signal processing environment for electrophysiological signals running on Matlab and developed at the SCCN/UCSD
+- **[hexgrad/kokoro](https://github.com/hexgrad/kokoro)** (4435 stars) - https://hf.co/hexgrad/Kokoro-82M
+- **[labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations)** (63301 stars) - 🧑‍🏫 60+ Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠
+- **[openai/retro](https://github.com/openai/retro)** (3533 stars) - Retro Games in Gym
+- **[reuseman/flashcards-obsidian](https://github.com/reuseman/flashcards-obsidian)** (1005 stars) - 🎴 An Anki plugin for Obsidian.md
+- **[SimonAytes/SoT](https://github.com/SimonAytes/SoT)** (127 stars) - Official code repository for Sketch-of-Thought (SoT)
+- **[LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research)** (3433 stars) - Local Deep Research achieves ~95% on SimpleQA benchmark (tested with GPT-4.1-mini). Supports local and cloud LLMs (Ollama, Google, Anthropic, ...). Searches 10+ sources - arXiv, PubMed, web, and your private documents. Everything Local.
+- **[SesameAILabs/csm](https://github.com/SesameAILabs/csm)** (14091 stars) - A Conversational Speech Generation Model
+- **[PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules)** (34084 stars) - 📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors
+- **[deepseek-ai/Janus](https://github.com/deepseek-ai/Janus)** (17561 stars) - Janus-Series: Unified Multimodal Understanding and Generation Models
+- **[maglore9900/gibber](https://github.com/maglore9900/gibber)** (11 stars) - A simple Speech-to-Text (STT) / Text-to-Speech (TTS) wrapper for LLMs
+- **[Kazuhito00/hand-gesture-recognition-using-mediapipe](https://github.com/Kazuhito00/hand-gesture-recognition-using-mediapipe)** (657 stars) - MediaPipe(Python版)を用いて手の姿勢推定を行い、検出したキーポイントを用いて、簡易なMLPでハンドサインとフィンガージェスチャーを認識するサンプルプログラムです。（Estimate hand pose using MediaPipe(Python version). This is a sample program that recognizes hand signs and finger gestures with a simple MLP using the detected key points.）
+- **[eugeneyan/open-llms](https://github.com/eugeneyan/open-llms)** (12388 stars) - 📋 A list of open LLMs available for commercial use.
+- **[manish-9245/Facial-Emotion-Recognition-using-OpenCV-and-Deepface](https://github.com/manish-9245/Facial-Emotion-Recognition-using-OpenCV-and-Deepface)** (183 stars) - Facial Emotion Recognition using OpenCV and Deepface
+- **[AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics)** (25898 stars) - Python sample codes and textbook for robotics algorithms.
+- **[akinami3/PybulletRobotics](https://github.com/akinami3/PybulletRobotics)** (107 stars) - Pybullet codes for robotics
+- **[nspady/google-calendar-mcp](https://github.com/nspady/google-calendar-mcp)** (638 stars) - MCP integration for Google Calendar to manage events.
+- **[FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus)** (49958 stars) - No fortress, purely open ground.  OpenManus is Coming.
+- **[modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers)** (68655 stars) - Model Context Protocol Servers
+- **[mrgreene09/computational-neuroscience-textbook](https://github.com/mrgreene09/computational-neuroscience-textbook)** (9 stars) - Hosted textbook written by students in NS/PY 357 at Bates College
+- **[brianpetro/obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections)** (4140 stars) - Chat with your notes & see links to related content with AI embeddings. Use local models or 100+ via APIs like Claude, Gemini, ChatGPT & Llama 3
+- **[watussi-cyber/email_to_remarkable](https://github.com/watussi-cyber/email_to_remarkable)** (8 stars) - Send an HTML, PDF, or PNG file by email and receive it on your Remarkable
+- **[ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox)** (25005 stars) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
+- **[karlicoss/promnesia](https://github.com/karlicoss/promnesia)** (1825 stars) - Another piece of your extended mind
+- **[shade34321/CS_7267](https://github.com/shade34321/CS_7267)** (1 stars) - Work for KSU CS 7267, Machine learning.
+- **[skitiz/CS7267](https://github.com/skitiz/CS7267)** (1 stars) - compilation of all my machine learning programs at KSU  :chart_with_upwards_trend:
+- **[ycatsh/boring-fox](https://github.com/ycatsh/boring-fox)** (128 stars) - Retro and minimal (and boring) firefox theme
+- **[browsh-org/browsh](https://github.com/browsh-org/browsh)** (17919 stars) - A fully-modern text-based browser, rendering to TTY and browsers
+- **[markqvist/Reticulum](https://github.com/markqvist/Reticulum)** (3116 stars) - The cryptography-based networking stack for building unstoppable networks with LoRa, Packet Radio, WiFi and everything in between.
+- **[robertsdotpm/p2pd](https://github.com/robertsdotpm/p2pd)** (97 stars) - Async NAT traversal library for Python 3
+- **[infinitefusion/infinitefusion-e18](https://github.com/infinitefusion/infinitefusion-e18)** (139 stars) - A heavily modified RPG Maker XP game project that makes the game play like a Pokémon game. Not a full project in itself; this repo is to be added into an existing RMXP game project.
+- **[nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace)** (15649 stars) - AeroSpace is an i3-like tiling window manager for macOS
+- **[aoout/obsidian-epub-importer](https://github.com/aoout/obsidian-epub-importer)** (199 stars) - Import EPUB files as Markdown.
+- **[glowingjade/obsidian-smart-composer](https://github.com/glowingjade/obsidian-smart-composer)** (1788 stars) - AI chat assistant for Obsidian with contextual awareness, smart writing assistance, and one-click edits. Features vault-aware conversations, semantic search, and local model support.
+- **[mtagius/pwnagotchi-tools](https://github.com/mtagius/pwnagotchi-tools)** (464 stars) - null
+- **[redecentralize/alternative-internet](https://github.com/redecentralize/alternative-internet)** (5428 stars) - A collection of interesting new networks and tech aiming at decentralisation (in some form).
+- **[djsime1/awesome-flipperzero](https://github.com/djsime1/awesome-flipperzero)** (21768 stars) - 🐬 A collection of awesome resources for the Flipper Zero device.
+- **[AYehia0/soundcloud-dl](https://github.com/AYehia0/soundcloud-dl)** (116 stars) - A small CLI tool to download SoundCloud tracks and playlists, written in Go lang.
+- **[tabibyte/obsifetch](https://github.com/tabibyte/obsifetch)** (78 stars) - neofetch but for obsidian
+- **[jackz3/rgwl](https://github.com/jackz3/rgwl)** (10 stars) - An easy-to-use retroarch web frontend
+- **[karakeep-app/karakeep](https://github.com/karakeep-app/karakeep)** (19859 stars) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
+- **[AhmedOsamaMath/git-basics](https://github.com/AhmedOsamaMath/git-basics)** (56 stars) - Comprehensive Git Guide: A complete resource covering Git fundamentals, workflows, advanced techniques, and best practices for version control and collaboration.
+- **[trimstray/the-practical-linux-hardening-guide](https://github.com/trimstray/the-practical-linux-hardening-guide)** (10271 stars) - This guide details creating a secure Linux production system. OpenSCAP (C2S/CIS, STIG).
+- **[vikhyat/moondream](https://github.com/vikhyat/moondream)** (8504 stars) - tiny vision language model
+- **[tcgoetz/GarminDB](https://github.com/tcgoetz/GarminDB)** (2671 stars) - Download and parse data from Garmin Connect or a Garmin watch, FitBit CSV, and MS Health CSV files into and analyze data in Sqlite serverless databases with Jupyter notebooks.
+- **[rommapp/romm](https://github.com/rommapp/romm)** (6512 stars) - A beautiful, powerful, self-hosted rom manager and player.
+- **[vrtmrz/obsidian-livesync](https://github.com/vrtmrz/obsidian-livesync)** (7897 stars) - null
+- **[chr3st5an/Google-Dorking](https://github.com/chr3st5an/Google-Dorking)** (516 stars) - Google Dorking Cheat Sheet 
+- **[linuxserver/docker-emulatorjs](https://github.com/linuxserver/docker-emulatorjs)** (628 stars) - Web based retro emulation frontend with rom scanning and automated art ingestion. 
+- **[maoserr/epublifier](https://github.com/maoserr/epublifier)** (804 stars) - Converts some webnovels to epub format
+- **[dhvcc/rss-reader](https://github.com/dhvcc/rss-reader)** (25 stars) - Command line RSS feed reader and json/html/pdf/epub converter
+- **[anteprandium/news2kindle](https://github.com/anteprandium/news2kindle)** (49 stars) - A docker containter that pulls your favourite RSS feeds, converts to MOBI, then whipersync to Kindle
+- **[dynobo/normcap](https://github.com/dynobo/normcap)** (2364 stars) - OCR powered screen-capture tool to capture information instead of images
+- **[ozgrozer/ai-renamer](https://github.com/ozgrozer/ai-renamer)** (1985 stars) - A Node.js CLI that uses Ollama and LM Studio models (Llava, Gemma, Llama etc.) to intelligently rename files by their contents
+- **[xjdr-alt/entropix](https://github.com/xjdr-alt/entropix)** (3423 stars) - Entropy Based Sampling and Parallel CoT Decoding 
+- **[teivah/algodeck](https://github.com/teivah/algodeck)** (5773 stars) - An Open-Source Collection of Flash Cards to Help You Preparing Your Algorithms & Data Structures and System Design Interviews 💯
+- **[huggingface/chat-macOS](https://github.com/huggingface/chat-macOS)** (1982 stars) - Making the community's best AI chat models available to everyone.
+- **[build-with-groq/g1](https://github.com/build-with-groq/g1)** (4221 stars) - g1: Using Llama-3.1 70b on Groq to create o1-like reasoning chains
+- **[sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)** (68866 stars) - Hunt down social media accounts by username across social networks
+- **[abrsvn/pyactr-book](https://github.com/abrsvn/pyactr-book)** (48 stars) - Repository for the "Computational Cognitive Modeling and Linguistic Theory" (Brasoveanu & Dotlacil 2020) book
+- **[soulisalmed/biff](https://github.com/soulisalmed/biff)** (171 stars) - Extract text and images from highlighted pdf generated with reMarkable tablet.
+- **[papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love)** (98518 stars) - Papers from the computer science community to read and discuss.
+- **[mifi/lossless-cut](https://github.com/mifi/lossless-cut)** (33610 stars) - The swiss army knife of lossless video/audio editing
+- **[anvaka/sayit](https://github.com/anvaka/sayit)** (1382 stars) - Visualization of related subreddits
+- **[kwsch/PKHeX](https://github.com/kwsch/PKHeX)** (4131 stars) - Pokémon Save File Editor
+- **[gluonfield/enchanted](https://github.com/gluonfield/enchanted)** (5645 stars) - Enchanted is iOS and macOS app for chatting with private self hosted language models such as Llama2, Mistral or Vicuna using Ollama.
+- **[kermitt2/grobid](https://github.com/kermitt2/grobid)** (4330 stars) - A machine learning software for extracting information from scholarly documents
+- **[tinyworldmap/tiny-world-map](https://github.com/tinyworldmap/tiny-world-map)** (1418 stars) - tinyworldmap is a tiny world map for offline-first and low-bandwidth web apps
+- **[cablehead/stacks](https://github.com/cablehead/stacks)** (117 stars) - an experimental "tool for thought"
+- **[vgarciasc/xeupiu](https://github.com/vgarciasc/xeupiu)** (48 stars) - Translation project for 'Tokimeki Memorial: Forever With You' (1994, PS1)
+- **[jackyzha0/telescopic-text](https://github.com/jackyzha0/telescopic-text)** (92 stars) - 🔭 an open-source library to help with creating expandable text
+- **[TheLastGimbus/GooglePhotosTakeoutHelper](https://github.com/TheLastGimbus/GooglePhotosTakeoutHelper)** (5048 stars) - Script that organizes the Google Takeout archive into one big chronological folder
+- **[jsquared21/Intro-to-Java-Programming](https://github.com/jsquared21/Intro-to-Java-Programming)** (1260 stars) - Solutions to Programming Exercises in Introduction to Java Programming, Comprehensive Version (10th Edition) by Y. Daniel Liang
+- **[xRyul/obsidian-image-converter](https://github.com/xRyul/obsidian-image-converter)** (537 stars) - ⚡️ Convert, compress, resize, annotate, markup, draw, crop, rotate, flip, align images directly in Obsidian. Drag-resize, rename with variables, batch process. WEBP, JPG, PNG, HEIC, TIF.
+- **[docker/awesome-compose](https://github.com/docker/awesome-compose)** (41482 stars) - Awesome Docker Compose samples
+- **[Schaka/media-server-guide](https://github.com/Schaka/media-server-guide)** (101 stars) - A full guide for creating and maintaining your media server at home
+- **[ruebeckscube/remarkable-crossword-dl](https://github.com/ruebeckscube/remarkable-crossword-dl)** (19 stars) - Sync crosswords to the reMarkable cloud
+- **[riverrun/genxword](https://github.com/riverrun/genxword)** (189 stars) - Crossword generator written in Python.
+- **[Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify)** (3837 stars) - Self hosted Spotify tracking dashboard
+- **[PacktPublishing/Deep-Reinforcement-Learning-Hands-On](https://github.com/PacktPublishing/Deep-Reinforcement-Learning-Hands-On)** (3026 stars) -  Hands-on Deep Reinforcement Learning, published by Packt
+- **[sympy/sympy](https://github.com/sympy/sympy)** (13938 stars) - A computer algebra system written in pure Python
+- **[PacktPublishing/Practical-Discrete-Mathematics](https://github.com/PacktPublishing/Practical-Discrete-Mathematics)** (133 stars) - Practical Discrete Mathematics, published by Packt
+- **[gethomepage/homepage](https://github.com/gethomepage/homepage)** (25817 stars) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
+- **[LazyVim/LazyVim](https://github.com/LazyVim/LazyVim)** (22946 stars) - Neovim config for the lazy
+- **[Flybell/HTML-newspaper-for-e-readers](https://github.com/Flybell/HTML-newspaper-for-e-readers)** (17 stars) - Crawls and scrapes a site (news, magazine, blog, etc) to create a html file for conversion into PDF, EPUB, etc.
+- **[johanngan/pmd-bot](https://github.com/johanngan/pmd-bot)** (22 stars) - Fully autonomous Lua bot for Pokémon Mystery Dungeon: Explorers of Sky
+- **[Pythe1337N/garmin-connect](https://github.com/Pythe1337N/garmin-connect)** (168 stars) - Makes it simple to interface with Garmin Connect to get or set any data point.
+- **[Leberwurscht/vivosmart](https://github.com/Leberwurscht/vivosmart)** (12 stars) - null
+- **[oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui)** (45041 stars) - The definitive Web UI for local AI, with powerful features and easy setup.
+- **[PWhiddy/PokemonRedExperiments](https://github.com/PWhiddy/PokemonRedExperiments)** (7598 stars) - Playing Pokemon Red with Reinforcement Learning
+- **[pystardust/ani-cli](https://github.com/pystardust/ani-cli)** (9849 stars) - A cli tool to browse and play anime
+- **[mb1986/rm-hacks](https://github.com/mb1986/rm-hacks)** (636 stars) - Small improvements and tweaks for rM devices, covering both rM1 and rM2.
+- **[myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice)** (34487 stars) - Instant voice cloning by MIT and MyShell. Audio foundation model.
+- **[DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS)** (11986 stars) - Desktop environment in the browser
+- **[pyrochlore/obsidian-tracker](https://github.com/pyrochlore/obsidian-tracker)** (1633 stars) - A plugin tracks occurrences and numbers in your notes
+- **[thephm/hal_md](https://github.com/thephm/hal_md)** (82 stars) - Personal relationship management using Markdown files
+- **[binarynonsense/comic-book-reader](https://github.com/binarynonsense/comic-book-reader)** (282 stars) - ACBR - A comic book reader and converter for CBZ, CBR, CB7, EPUB and PDF files (Windows & Linux)
+- **[Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy)** (25637 stars) - A curated list of awesome warez and piracy links
+- **[sandsmark/recrossable](https://github.com/sandsmark/recrossable)** (70 stars) - crossword game with simplistic handwriting recognition and automatic generation of crosswords
+- **[dps/remarkable-wikipedia](https://github.com/dps/remarkable-wikipedia)** (165 stars) - null
+- **[ddvk/remarkable-hacks](https://github.com/ddvk/remarkable-hacks)** (1735 stars) - additional functionality via binary patching
+- **[after-eight/regitable](https://github.com/after-eight/regitable)** (104 stars) - reGitable - backup your reMarkable using git.
+- **[reHackable/awesome-reMarkable](https://github.com/reHackable/awesome-reMarkable)** (6936 stars) - A curated list of projects related to the reMarkable tablet
+- **[KartikTalwar/Duolingo](https://github.com/KartikTalwar/Duolingo)** (872 stars) - Unofficial Duolingo API Written in Python
+- **[charmbracelet/vhs](https://github.com/charmbracelet/vhs)** (17413 stars) - Your CLI home video recorder 📼
+- **[selfire1/goodsidian](https://github.com/selfire1/goodsidian)** (111 stars) - A Goodreads to Obsidian script
+- **[watson/awesome-computer-history](https://github.com/watson/awesome-computer-history)** (2832 stars) - An Awesome List of computer history videos, documentaries and related folklore
+- **[pluja/awesome-privacy](https://github.com/pluja/awesome-privacy)** (16724 stars) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
+- **[terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding)** (13964 stars) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
+- **[thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi)** (15138 stars) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
+- **[gztchan/awesome-design](https://github.com/gztchan/awesome-design)** (16267 stars) - 🌟 Curated design resources from all over the world.
+- **[willianjusten/awesome-audio-visualization](https://github.com/willianjusten/awesome-audio-visualization)** (4845 stars) - A curated list about Audio Visualization.
+- **[tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet)** (52618 stars) - A list of cool features of Git and GitHub.
+- **[leomaurodesenv/game-datasets](https://github.com/leomaurodesenv/game-datasets)** (931 stars) - :video_game: A curated list of awesome game datasets, and tools to artificial intelligence in games
+- **[TomNicholas/Python-for-Scientists](https://github.com/TomNicholas/Python-for-Scientists)** (341 stars) - A list of recommended Python libraries, and resources, intended for scientific Python users.
+- **[Manisso/fsociety](https://github.com/Manisso/fsociety)** (11515 stars) - fsociety Hacking Tools Pack – A Penetration Testing Framework
+- **[iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS)** (17094 stars) -   A curated list of awesome applications, softwares, tools and shiny things for macOS.
+- **[EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning)** (19177 stars) - A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
+- **[keon/awesome-nlp](https://github.com/keon/awesome-nlp)** (17569 stars) - :book: A curated list of resources dedicated to Natural Language Processing (NLP)
+- **[vsouza/awesome-ios](https://github.com/vsouza/awesome-ios)** (49930 stars) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects 
+- **[sindresorhus/awesome](https://github.com/sindresorhus/awesome)** (402121 stars) - 😎 Awesome lists about all kinds of interesting topics
+- **[awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)** (248498 stars) - A list of Free Software network services and web applications which can be hosted on your own servers
+- **[GavriloviciEduard/ShinyHunter](https://github.com/GavriloviciEduard/ShinyHunter)** (37 stars) - A minimal Pokémon shiny hunter app built with Python for the GB Operator.
+- **[PokemonTCG/pokemon-tcg-data](https://github.com/PokemonTCG/pokemon-tcg-data)** (624 stars) - The data found within the Pokémon TCG API
+- **[robertmartin8/MolecularNotes](https://github.com/robertmartin8/MolecularNotes)** (356 stars) - My Obsidian Second Brain setup
+- **[mfarragher/obsidiantools](https://github.com/mfarragher/obsidiantools)** (492 stars) - Obsidian tools - a Python package for analysing an Obsidian.md vault
+- **[Aetherinox/obsidian-dataview-snippets](https://github.com/Aetherinox/obsidian-dataview-snippets)** (166 stars) - A collection of Obsidian.md scripts which include Tag & Page Clouds, Table of Contents / ToC, Bad / Missing Link reporting, etc.
+- **[sepandhaghighi/art](https://github.com/sepandhaghighi/art)** (2359 stars) - 🎨 ASCII art library for Python
+- **[vinta/awesome-python](https://github.com/vinta/awesome-python)** (261107 stars) - An opinionated list of awesome Python frameworks, libraries, software and resources.
+- **[bgstaal/multipleWindow3dScene](https://github.com/bgstaal/multipleWindow3dScene)** (18795 stars) - A quick example of how one can "synchronize" a 3d scene across multiple windows using three.js and localStorage
+- **[benfoxall/lastfm-to-csv](https://github.com/benfoxall/lastfm-to-csv)** (521 stars) - Web based tool for exporting scrobbles
+
+Total: 167 repos

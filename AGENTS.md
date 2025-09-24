@@ -4,7 +4,7 @@ hey, welcome to the agent guidelines for neuromancer! this is our little guide t
 
 different languages have their own ways of doing things, but here's the usual stuff we do to keep our code clean and working:
 
-- **python:** set up a virtual environment with `python -m venv venv`, activate it with `source venv/bin/activate`, install deps via `pip install -r requirements.txt`, check style with `ruff check .`, and run tests with `pytest`
+- **python:** prefer Conda. create env `conda create -n neuromancer -y python=3.11`, activate with `conda activate neuromancer`, install deps via `pip install -r requirements.txt` (or `conda env update -f environment.yml` if present), check style with `ruff check .`, and run tests with `pytest`
 - **javascript/typescript:** grab dependencies with `npm install`, lint with `npm run lint`, test with `npm test`
 - **shell scripts:** just run 'em with `bash script_name.sh`
 

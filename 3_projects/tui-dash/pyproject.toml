@@ -1,0 +1,9 @@
+[project]
+name = "tui-dash"
+version = "0.0.1"
+description = "Modular TUI dashboard with durable storage and API"
+requires-python = ">=3.11"
+
+[project.optional-dependencies]
+all = ["textual>=0.83", "rich>=13.7", "pydantic>=2.8", "fastapi>=0.115", "uvicorn>=0.30", "pyyaml>=6.0", "aiofiles>=24.1"]
+

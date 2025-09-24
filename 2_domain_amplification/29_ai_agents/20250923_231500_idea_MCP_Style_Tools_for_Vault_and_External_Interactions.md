@@ -1,0 +1,3 @@
+Additional feature concept: 'MCP'-style tools to navigate vault and interact with external sources. e.g., "hey NEUROMANCER, any new music out lately?" would call a predefined last.fm/spotify API call to check on new music from artists i like (stored in a different csv file, etc.). not limited to music; check news/rss/reddit/etc. for recent updates on topics i'm interested in.
+
+This enables proactive, personalized interactions: Agent uses MCP pattern (Model for reasoning, Controller for orchestration, Provider for APIs/DBs) to query vault prefs (e.g., CSV in 4_places or 1_ideas) and fetch external data, summarizing for user. Integrate as LangChain tools in NEUROMANCER agent for seamless natural language access.

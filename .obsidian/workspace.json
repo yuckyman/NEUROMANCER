@@ -27,16 +27,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_projects/30_repos/discord-buddy/ACTIONS_SETUP.md",
+                "file": "4_places/sewell_mill_library.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ACTIONS_SETUP"
+              "title": "sewell_mill_library"
+            }
+          },
+          {
+            "id": "f1191b8b9115041e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2_domain_amplification/24_computing/2025-09-18_Claudes_new_Code_Interpreter.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-09-18_Claudes_new_Code_Interpreter"
+            }
+          },
+          {
+            "id": "a97d02adc571add2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2_domain_amplification/29_ai_agents/20250923_230000_refined_Hybrid_Routing_for_AI_Prompts.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "20250923_230000_refined_Hybrid_Routing_for_AI_Prompts"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -93,7 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "58ccd9656312c9d0",
@@ -186,51 +214,51 @@
   },
   "active": "3bc053380646568f",
   "lastOpenFiles": [
-    "0_admin/07_scripts/rss_feeds~.json",
-    "6_academia/61_research_materials/Task Evoked EEG reveals neural processing differences in Aphantasia.pdf",
-    "6_academia/61_research_materials/01_ccse-ms-thesis-guide-f16.pdf",
-    "6_academia/61_research_materials/1603.08983v6.pdf",
-    "6_academia/61_research_materials/2401.05446v1.pdf",
-    "6_academia/61_research_materials/2506.21734v2.pdf",
-    "6_academia/61_research_materials/A_large_electroencephalographic_motor_imagery_data.pdf",
-    "6_academia/61_research_materials/applsci-10-05662-with-cover.pdf",
-    "6_academia/61_research_materials/document.pdf",
-    "6_academia/61_research_materials/fnins-17-1148855.pdf",
-    "6_academia/61_research_materials/Morales-Gregorio_2025_Occipital_alpha_oscillations_negatively_correlate_vividness.pdf",
-    "6_academia/61_research_materials/httpswww.sciencedirect.comsciencearticleabspiiS157106452300218X.md",
-    "6_academia/60_thesis_topic/ai_thesis_outline.md",
-    "6_academia/60_thesis_topic/study_guide_2025-08-01.md",
-    "0_admin/01_inbox/dev_log.md",
-    "AGENTS.md",
-    "6_academia/69_admin/2025-09-18_research_workflow_guide.md",
-    "6_academia/68_supervision/2025-09-18_supervision_meeting_template.md",
-    "6_academia/64_literature_review/2025-09-18_literature_review_template.md",
-    "6_academia/62_drafts/README.md",
-    "6_academia/61_research_materials/README.md",
-    "6_academia/61_research_materials/2025-09-18_Legal-Critical_Software_Development_for_Tax_Prep_w.md",
-    "6_academia/61_research_materials/2025-09-18_Co-Investigator_AI_A_New_Agentic_Framework_for_Sma.md",
-    "6_academia/61_research_materials/2025-09-18_Auto-Failure_Attribution_of_Multi-Agent_Systems_vi.md",
-    "6_academia/61_research_materials/2025-09-18_Adaptive_Collaborative_Tools_for_Enhanced_Problem-.md",
-    "6_academia/60_thesis_topic/README.md",
-    "6_academia/60_thesis_topic/2025-09-18_research_questions_template.md",
-    "6_academia/60_thesis_topic/2025-09-18_thesis_proposal_template.md",
-    "6_academia/README.md",
-    "2_domain_amplification/26_brain_imaging/README.md",
-    "2_domain_amplification/26_brain_imaging/2025-09-18_arXiv_Glioblastoma_Study.md",
-    "2_domain_amplification/26_brain_imaging/2025-09-18_VocSegMRI_Multimodal_Learning_for_Precise_Vocal_Tr.md",
-    "2_domain_amplification/26_brain_imaging/2025-09-18_Rest2Visual_Predicting_Visually_Evoked_fMRI_from_R.md",
-    "2_domain_amplification/26_brain_imaging/2025-09-18_KANs_for_Medical_Image_Classification.md",
-    "2_domain_amplification/26_brain_imaging/2025-09-18_Joint_data_imputation_and_mechanistic_modelling_fo.md",
-    "2_domain_amplification/26_brain_imaging/2025-09-18_CV_Research_VLM-Driven_Automated_Medical_Image_Ana.md",
-    "3_projects/30_repos/spillyourgutsonline-gutterball/whiteboard/node_modules/undici/docs/assets/lifecycle-diagram.png",
-    "3_projects/30_repos/spillyourgutsonline-gutterball/whiteboard/node_modules/@cloudflare/workers-types/entrypoints.svg",
-    "3_projects/30_repos/spillyourgutsonline-gutterball/whiteboard-build/node_modules/@cloudflare/workers-types/entrypoints.svg",
-    "3_projects/30_repos/spillyourgutsonline-gutterball/whiteboard-build/node_modules/undici/docs/assets/lifecycle-diagram.png",
-    "3_projects/30_repos/spillyourgutsonline-gutterball/vitejs-vite-ahoswhus/src/assets/react.svg",
-    "3_projects/30_repos/spillyourgutsonline-gutterball/whiteboard_screenshot.png",
-    "3_projects/30_repos/spillyourgutsonline-gutterball/node_modules/playwright-core/lib/vite/traceViewer/playwright-logo.svg",
-    "3_projects/30_repos/spillyourgutsonline-gutterball/node_modules/playwright-core/lib/vite/recorder/playwright-logo.svg",
-    "3_projects/30_repos/spillyourgutsonline-gutterball/node_modules/playwright-core/lib/server/chromium/appIcon.png",
-    "3_projects/30_repos/spillyourgutsonline-gutterball/tldraw-sync-worker/node_modules/concurrently/docs/demo.gif"
+    "1_ideas/2025-09-23_academic_career_strategy.md",
+    "0_admin/00_index/2025-09-23_dev_log.md",
+    "IAN.md",
+    "NEUROMANCER.md",
+    "3_projects/github/temp_my_repos.json",
+    "3_projects/github/temp.json",
+    "0_admin/07_scripts/sync_twitter_likes.py",
+    "3_projects/twitter/last_api_call.txt",
+    "3_projects/twitter/user_id.txt",
+    "3_projects/twitter/sync_twitter_likes.log",
+    "0_admin/07_scripts/sync_twitter_likes.sh",
+    "3_projects/twitter/env_template.txt",
+    "3_projects/twitter",
+    "3_projects/github/last_my_repos_sync.txt",
+    "3_projects/github/my_repos.md",
+    "3_projects/github/starred_repos.md",
+    "0_admin/07_scripts/data/starred_repos.md",
+    "2_domain_amplification/29_ai_agents/29.02_coqui_tts_feasibility_and_integration.md",
+    "2_domain_amplification/29_ai_agents/29.01_model_communication_server.md",
+    "2_domain_amplification/29_ai_agents/20250923_221125_refined_Semi-Autonomous_AI_Partner_Vision.md",
+    "2_domain_amplification/29_ai_agents/20250923_221125_project_skeleton_NEUROMANCER_Agent.md",
+    "2_domain_amplification/29_ai_agents/20250923_230000_refined_Hybrid_Routing_for_AI_Prompts.md",
+    "2_domain_amplification/29_ai_agents/20250923_231500_idea_MCP_Style_Tools_for_Vault_and_External_Interactions.md",
+    "1_ideas/2025-09-23_Corpus_Callosotomies_Recent_Articles.md",
+    "1_ideas/20250923_230000_idea_Hybrid_Routing_for_AI_Prompts.md",
+    "1_ideas/20250923_221125_idea_Semi-Autonomous_AI_Partner_Vision.md",
+    "3_projects/tui-dash/storage/notes/note-20250923T031508Z.md",
+    "3_projects/tui-dash/storage/notes/note-20250923T031506Z.md",
+    "3_projects/tui-dash/storage/notes/note-20250923T031242Z.md",
+    "3_projects/tui-dash/storage/notes/note-20250923T031239Z.md",
+    "3_projects/tui-dash/README.md",
+    "Untitled 1.md",
+    "2_domain_amplification/24_computing/2025-09-18_Claudes_new_Code_Interpreter.md",
+    "Untitled.md",
+    "2_domain_amplification/24_computing/2025-09-19_Revisiting_the_Image_Formation_Model_for_Realistic.md",
+    "2_domain_amplification/26_brain_imaging/2025-09-22_Adrenergic_signals_influence_proteomic_responses_i.md",
+    "3_projects/30_repos/spillyourgutsonline-gutterball/tldraw-sync/arch.png",
+    "3_projects/30_repos/spillyourgutsonline-gutterball/themes/gutterball/assets/icons/sun.svg",
+    "3_projects/30_repos/spillyourgutsonline-gutterball/themes/gutterball/assets/icons/moon.svg",
+    "3_projects/30_repos/spillyourgutsonline-gutterball/static/images/connectome-visualization.png",
+    "3_projects/30_repos/spillyourgutsonline-gutterball/static/favicon-32x32.png",
+    "3_projects/30_repos/spillyourgutsonline-gutterball/images/wheel.gif",
+    "3_projects/30_repos/spillyourgutsonline-gutterball/content/images/quinn-wrasfest.JPG",
+    "3_projects/30_repos/spillyourgutsonline-gutterball/content/images/gutterball-warped.png",
+    "3_projects/30_repos/spillyourgutsonline-gutterball/content/images/film-06-2025-edit.png",
+    "3_projects/30_repos/spillyourgutsonline-gutterball/content/images/connectome-visualization.png"
   ]
 }
