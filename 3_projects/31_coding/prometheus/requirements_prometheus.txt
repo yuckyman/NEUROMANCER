@@ -4,15 +4,6 @@
 # core dependencies
 requests>=2.31.0
 numpy>=1.24.0
-asyncio
-sqlite3  # built into python
-pathlib  # built into python
-dataclasses  # built into python 3.7+
-logging  # built into python
-json  # built into python
-time  # built into python
-datetime  # built into python
-typing  # built into python 3.5+
 
 # optional: for better data analysis
 pandas>=2.0.0

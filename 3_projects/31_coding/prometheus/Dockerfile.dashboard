@@ -1,0 +1,22 @@
+FROM python:3.11-slim
+
+# set working directory
+WORKDIR /app
+
+# install system dependencies
+RUN apt-get update && apt-get install -y \
+    sqlite3 \
+    && rm -rf /var/lib/apt/lists/*
+
+# copy requirements and install python dependencies
+COPY requirements_prometheus.txt .
+RUN pip install --no-cache-dir -r requirements_prometheus.txt
+
+# copy dashboard server
+COPY dashboard_enhanced.py .
+
+# expose port
+EXPOSE 8080
+
+# run dashboard
+CMD ["python", "dashboard_enhanced.py"]

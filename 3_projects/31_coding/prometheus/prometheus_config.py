@@ -13,7 +13,13 @@ COINGECKO_API_KEY = os.getenv("COINGECKO_API_KEY", None)  # optional, free tier 
 
 # monitoring configuration
 MONITORING_INTERVAL_MINUTES = 30  # how often to check markets
-SYMBOLS_TO_TRACK = ["SPY", "QQQ", "BTC", "ETH"]  # what to monitor
+SYMBOLS_TO_TRACK = [
+    "SPY", "QQQ", "BTC", "ETH",  # original set
+    "TSLA", "NVDA", "AAPL", "MSFT",  # tech giants
+    "GOOGL", "AMZN", "META", "NFLX",  # big tech
+    "SOL", "ADA", "DOT", "MATIC",  # more crypto
+    "VIX", "GLD", "SLV", "TLT"  # volatility & commodities
+]  # what to monitor
 
 # prediction configuration
 PREDICTION_TIMEFRAME = "4h"  # how far ahead to predict

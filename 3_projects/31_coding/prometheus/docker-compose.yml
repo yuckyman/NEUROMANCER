@@ -1,0 +1,42 @@
+services:
+  prometheus:
+    build: .
+    container_name: prometheus-monitor
+    restart: unless-stopped
+    environment:
+      - ALPHA_VANTAGE_API_KEY=${ALPHA_VANTAGE_API_KEY}
+      - COINGECKO_API_KEY=${COINGECKO_API_KEY}
+    volumes:
+      - ./prometheus_data:/app/prometheus_data
+      - ./prometheus_logs:/app/prometheus_logs
+      - ./prometheus_models:/app/prometheus_models
+      - ./prometheus.db:/app/prometheus.db
+      - ./.env:/app/.env
+    networks:
+      - prometheus-net
+
+  dashboard:
+    build:
+      context: .
+      dockerfile: Dockerfile.dashboard
+    container_name: prometheus-dashboard
+    restart: unless-stopped
+    ports:
+      - "${WEB_PORT:-7777}:8080"
+    volumes:
+      - ./prometheus.db:/app/prometheus.db:ro
+      - ./dashboard:/app/dashboard
+    depends_on:
+      - prometheus
+    networks:
+      - prometheus-net
+
+
+networks:
+  prometheus-net:
+    driver: bridge
+
+volumes:
+  prometheus_data:
+  prometheus_logs:
+  prometheus_models:

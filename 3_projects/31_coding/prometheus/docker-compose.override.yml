@@ -1,0 +1,9 @@
+# local development overrides
+# this file is automatically loaded by docker compose
+
+services:
+  dashboard:
+    environment:
+      - DASHBOARD_PORT=8080
+    ports:
+      - "12345:8080"  # map local port 12345 to container port 8080
