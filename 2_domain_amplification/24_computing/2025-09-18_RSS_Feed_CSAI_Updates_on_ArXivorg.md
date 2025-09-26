@@ -1,12 +1,11 @@
 ---
 type: note
 category: 24-computing
-created: 2025-09-18 11:51
-modified: 2025-09-18 11:51
+created: 2025-09-18 11:59
+modified: 2025-09-18 11:59
 tags:
-- LLM
-- code translation
-- programming languages
+- inbox
+- unprocessed
 - computer-vision
 - machine-learning
 - programming
@@ -14,23 +13,29 @@ tags:
 - software
 status: draft
 source: inbox_processing
-original_file: 20250918_114950_rss_Semantic_Alignment-Enhanced_Code_Translation_via_a.txt
+original_file: 20250918_114950_rss_Database-Augmented_Query_Representation_for_Inform.txt
 ---
 
 
-# RSS Feed: CS.AI Updates on ArXiv.org
+# RSS Feed: cs.AI updates on arXiv.org
 
 ## summary
-The article discusses the impact of Large Language Models (LLMs) and their improvements in enabling automated code translation from one programming language to another.
+RSS Feed: cs.AI updates on arXiv.org
+Source: https://arxiv.org/rss/cs.AI
+Link: https://arxiv.org/abs/2406.16013
+
+Database-Augmented Query Representation for Information Retrieval
+
+arXiv:2406.16013v2 A...
 
 ## content
 RSS Feed: cs.AI updates on arXiv.org
 Source: https://arxiv.org/rss/cs.AI
-Link: https://arxiv.org/abs/2409.19894
+Link: https://arxiv.org/abs/2406.16013
 
-Semantic Alignment-Enhanced Code Translation via an LLM-Based Multi-Agent System
+Database-Augmented Query Representation for Information Retrieval
 
-arXiv:2409.19894v4 Announce Type: replace-cross Abstract: Code translation converts code from one programming language to another while maintaining its original functionality, which is crucial for software migration, system refactoring, and cross-platform development. Traditional rule-based methods rely on manually-written rules, which can be time-consuming and often result in less readable code. To overcome this, learning-based methods have been developed, leveraging parallel data to train models for automated code translation. More recently, the advance of Large Language Models (LLMs) further boosts learning-based code translation. Although promising, LLM-translated program still suffers from diverse quality issues (e.g., syntax errors and semantic errors). In particular, it can be challenging for LLMs to self-debug these errors when simply provided with the corresponding error messages. In this work, we propose a novel LLM-based multi-agent system TRANSAGENT, which enhances LLM-base...
+arXiv:2406.16013v2 Announce Type: replace-cross Abstract: Information retrieval models that aim to search for documents relevant to a query have shown multiple successes, which have been applied to diverse tasks. Yet, the query from the user is oftentimes short, which challenges the retrievers to correctly fetch relevant documents. To tackle this, previous studies have proposed expanding the query with a couple of additional (user-related) features related to it. However, they may be suboptimal to effectively augment the query, and there is plenty of other information available to augment it in a relational database. Motivated by this fact, we present a novel retrieval framework called Database-Augmented Query representation (DAQu), which augments the original query with various (query-related) metadata across multiple tables. In addition, as the number of features in the metadata can be very large and there is no order among them, we encode them with the graph-based set-encoding strat...
 
 ## Scraped from https://arxiv.org/rss/cs.AI
 <?xml version='1.0' encoding='UTF-8'?>
@@ -56,8 +61,8 @@ arXiv:2409.19894v4 Announce Type: replace-cross Abstract: Code translation conve
 Abstract: As Large Language Models (LLMs) are increasingly adopted as automated judges in benchmarking and reward modeling, ensuring their reliability, efficiency, and robustness has become critical. In this work, we present a systematic comparison of "thinking" and "non-thinking" LLMs in the LLM-as-a-judge paradigm using open-source Qwen 3 models of relatively small sizes (0.6B, 1.7B, and 4B parameters). We evaluate both accuracy and computational efficiency (FLOPs) on RewardBench tasks, and further examine augmentation strategies for non-thinking models, including in-context learning, rubric-guided judging, reference-based evaluation, and n-best aggregation. Our results show that despite these enhancements, non-thinking models generally fall short of their thinking counterparts. Our results show that thinking models achieve approximately 10% points higher accuracy with lit...
 
 
-## Scraped from https://arxiv.org/abs/2409.19894
-[2409.19894] Semantic Alignment-Enhanced Code Translation via an LLM-Based Multi-Agent System Skip to main content We gratefully acknowledge support from the Simons Foundation, member institutions, and all contributors. Donate &gt; cs &gt; arXiv:2409.19894 Help | Advanced Search All fields Title Author Abstract Comments Journal reference ACM classification MSC classification Report number arXiv identifier DOI ORCID arXiv author ID Help pages Full text Search open search GO open navigation menu quick links Login Help Pages About --> Computer Science > Software Engineering arXiv:2409.19894 (cs) [Submitted on 30 Sep 2024 (v1), last revised 17 Sep 2025 (this version, v4)] Title:Semantic Alignment-Enhanced Code Translation via an LLM-Based Multi-Agent System Authors:Zhiqiang Yuan, Weitong Chen, Hanlin Wang, Kai Yu, Xin Peng, Yiling Lou View a PDF of the paper titled Semantic Alignment-Enhanced Code Translation via an LLM-Based Multi-Agent System, by Zhiqiang Yuan and 5 other authors View PDF HTML (experimental) Abstract:Code translation converts code from one programming language to another while maintaining its original functionality, which is crucial for software migration, system refactoring, and cross-platform development. Traditional rule-based methods rely on manually-written rules, which can be time-consuming and often result in less readable code. To overcome this, learning-based methods have been developed, leveraging parallel data to train models for automated code translation. More recently, the advance of Large Language Models (LLMs) further boosts learning-based code translation. Although promising, LLM-translated program still suffers from diverse quality issues (e.g., syntax errors and semantic errors). In particular, it can be challenging for LLMs to self-debug these errors when simply provided with the corresponding error messages. In this work, we propose a novel LLM-based multi-agent system TRANSAGENT, which enhances LLM-based code translation by fixin...
+## Scraped from https://arxiv.org/abs/2406.16013
+[2406.16013] Database-Augmented Query Representation for Information Retrieval Skip to main content We gratefully acknowledge support from the Simons Foundation, member institutions, and all contributors. Donate &gt; cs &gt; arXiv:2406.16013 Help | Advanced Search All fields Title Author Abstract Comments Journal reference ACM classification MSC classification Report number arXiv identifier DOI ORCID arXiv author ID Help pages Full text Search open search GO open navigation menu quick links Login Help Pages About --> Computer Science > Computation and Language arXiv:2406.16013 (cs) [Submitted on 23 Jun 2024 (v1), last revised 16 Sep 2025 (this version, v2)] Title:Database-Augmented Query Representation for Information Retrieval Authors:Soyeong Jeong, Jinheon Baek, Sukmin Cho, Sung Ju Hwang, Jong C. Park View a PDF of the paper titled Database-Augmented Query Representation for Information Retrieval, by Soyeong Jeong and 4 other authors View PDF HTML (experimental) Abstract:Information retrieval models that aim to search for documents relevant to a query have shown multiple successes, which have been applied to diverse tasks. Yet, the query from the user is oftentimes short, which challenges the retrievers to correctly fetch relevant documents. To tackle this, previous studies have proposed expanding the query with a couple of additional (user-related) features related to it. However, they may be suboptimal to effectively augment the query, and there is plenty of other information available to augment it in a relational database. Motivated by this fact, we present a novel retrieval framework called Database-Augmented Query representation (DAQu), which augments the original query with various (query-related) metadata across multiple tables. In addition, as the number of features in the metadata can be very large and there is no order among them, we encode them with the graph-based set-encoding strategy, which considers hierarchies of features in the database without o...
 
 
 ## connections

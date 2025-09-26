@@ -28,3 +28,5 @@ temp/
 
 # unprocessed inbox files
 0_admin/01_inbox/*.txt
+
+*/venv/

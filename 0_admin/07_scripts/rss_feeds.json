@@ -10,19 +10,24 @@
     "https://www.frontiersin.org/journals/neuroscience/rss",
     "https://journals.plos.org/ploscompbiol/feed/atom",
     "https://pubmed.ncbi.nlm.nih.gov/rss/?term=%22corpus+callosotomy%22&filter=years.2020-2024&filter=simsearch1.fha&sort=date",
-    "https://www.ncbi.nlm.nih.gov/pmc/rss/?term=epilepsy+surgery+corpus+callosotomy"
+    "https://www.ncbi.nlm.nih.gov/pmc/rss/?term=epilepsy+surgery+corpus+callosotomy",
+    "https://whatthefuckjusthappenedtoday.com/feed.xml",
+    "https://whatthefuckjusthappenedtoday.com/feed.json"
   ],
   "last_check": {
-    "https://arxiv.org/rss/cs.AI": "2025-09-22T21:14:20.032103+00:00",
-    "https://arxiv.org/rss/cs.CV": "2025-09-22T21:14:20.202540+00:00",
-    "https://arxiv.org/rss/cs.SC": "2025-09-22T21:14:20.347850+00:00",
-    "https://arxiv.org/rss/cs.HC": "2025-09-22T21:14:20.660444+00:00",
-    "https://obsidian.md/changelog.xml": "2025-09-22T21:14:21.188734+00:00",
-    "https://feeds.nature.com/neuro/rss/current": "2025-09-22T21:14:21.259425+00:00",
-    "https://www.jneurosci.org/rss/current.xml": "2025-09-22T21:14:21.513568+00:00",
-    "https://www.frontiersin.org/journals/neuroscience/rss": "2025-09-22T21:14:21.755486+00:00",
-    "https://journals.plos.org/ploscompbiol/feed/atom": "2025-09-22T21:14:21.866996+00:00",
-    "https://pubmed.ncbi.nlm.nih.gov/rss/?term=%22corpus+callosotomy%22&filter=years.2020-2024&filter=simsearch1.fha&sort=date": "2025-09-23T10:00:00+00:00",
-    "https://www.ncbi.nlm.nih.gov/pmc/rss/?term=epilepsy+surgery+corpus+callosotomy": "2025-09-23T10:00:00+00:00"
+    "https://arxiv.org/rss/cs.AI": "2025-09-26T06:18:54.778116+00:00",
+    "https://arxiv.org/rss/cs.CV": "2025-09-26T06:18:55.007437+00:00",
+    "https://arxiv.org/rss/cs.SC": "2025-09-26T06:18:55.169399+00:00",
+    "https://arxiv.org/rss/cs.HC": "2025-09-26T06:18:55.271067+00:00",
+    "https://obsidian.md/changelog.xml": "2025-09-26T06:18:55.559997+00:00",
+    "https://feeds.nature.com/neuro/rss/current": "2025-09-26T06:18:55.712761+00:00",
+    "https://www.jneurosci.org/rss/current.xml": "2025-09-26T06:18:55.903918+00:00",
+    "https://www.frontiersin.org/journals/neuroscience/rss": "2025-09-26T06:18:56.167813+00:00",
+    "https://journals.plos.org/ploscompbiol/feed/atom": "2025-09-26T06:18:56.271357+00:00",
+    "https://pubmed.ncbi.nlm.nih.gov/rss/?term=%22corpus+callosotomy%22&filter=years.2020-2024&filter=simsearch1.fha&sort=date": "2025-09-26T06:18:56.359133+00:00",
+    "https://www.ncbi.nlm.nih.gov/pmc/rss/?term=epilepsy+surgery+corpus+callosotomy": "2025-09-26T06:18:56.504410+00:00",
+    "https://whatthefuckjusthappenedtoday.com/rss": "2025-09-26T06:18:01.758809+00:00",
+    "https://whatthefuckjusthappenedtoday.com/feed.json": "2025-09-26T06:18:56.766281+00:00",
+    "https://whatthefuckjusthappenedtoday.com/feed.xml": "2025-09-26T06:18:56.684599+00:00"
   }
 }

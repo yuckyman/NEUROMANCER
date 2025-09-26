@@ -52,9 +52,17 @@ neuromancer is this cool ai-augmented system for managing knowledge and building
 - **documentation:** update dev logs, keep agents.md fresh, write clear commit messages
 - **knowledge management:** process inbox stuff, expand domains, execute projects
 - **system maintenance:** update deps, watch for issues
+- **team communication:** send discord notifications when updating dev logs to keep the team in the loop
 
 ### agent-specific adaptations
 we keep the core philosophy but tweak for each platform:
 - **cursor:** focus on editing code, use .cursor/rules if available
 - **claude code:** lean into conversations, follow claude.md guidelines
 - **opencode:** batch operations and tool workflows for efficiency
+
+### dev log workflow
+when updating dev logs, always:
+1. **write the entry** with proper structure and details
+2. **send discord notification** to keep the team updated on progress
+3. **include key highlights** of what was accomplished
+4. **use emojis and enthusiasm** - we're building something amazing! 🚀

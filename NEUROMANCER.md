@@ -34,6 +34,7 @@ neuromancer is an ai-augmented system for managing knowledge and building stuff 
 - **context awareness:** always reference our project structure and docs
 - **iterative development:** build step by step, test often, document everything
 - **security first:** never mess with security or data integrity
+- **team communication:** send discord notifications when updating dev logs to keep everyone in the loop
 
 ## how we're organized (johnny decimal style)
 

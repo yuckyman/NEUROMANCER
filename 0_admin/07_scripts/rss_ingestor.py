@@ -9,6 +9,7 @@ import sys
 import json
 import requests
 import feedparser
+from urllib.parse import urlparse
 import time
 from datetime import datetime, timedelta, timezone
 from time import mktime
@@ -45,13 +46,53 @@ def save_feeds_config(config):
         json.dump(config, f, indent=2)
 
 def fetch_feed(feed_url, last_check=None, limit=50):
-    """Fetch RSS feed and return new entries"""
+    """Fetch RSS or JSON Feed and return new entries"""
     try:
         headers = {
             'User-Agent': 'NEUROMANCER-RSS-Ingestor/1.0'
         }
         response = requests.get(feed_url, headers=headers, timeout=30)
         response.raise_for_status()
+
+        # Try JSON Feed if URL ends with .json
+        parsed = urlparse(feed_url)
+        is_json_feed = parsed.path.endswith('.json')
+
+        if is_json_feed:
+            try:
+                jf = response.json()
+                items = jf.get('items', [])
+                feed_title = jf.get('title', feed_url)
+                new_entries = []
+                for item in items[:limit]:
+                    # Parse dates from JSON Feed
+                    date_str = item.get('date_published') or item.get('date_modified')
+                    entry_published_time = None
+                    if date_str:
+                        try:
+                            entry_published_time = datetime.fromisoformat(date_str.replace('Z', '+00:00'))
+                        except Exception:
+                            entry_published_time = None
+                    if last_check and entry_published_time and entry_published_time <= last_check:
+                        continue
+
+                    title = item.get('title', 'No Title')
+                    link = item.get('url') or item.get('external_url') or ''
+                    content = item.get('content_text') or item.get('content_html') or ''
+                    content = re.sub(r'<[^>]+>', '', content)
+                    content = re.sub(r'\s+', ' ', content).strip()
+
+                    new_entries.append({
+                        'title': title,
+                        'link': link,
+                        'content': content[:1000] + '...' if len(content) > 1000 else content,
+                        'feed_url': feed_url,
+                        'feed_title': feed_title
+                    })
+                return new_entries
+            except ValueError:
+                # Not JSON, fall back to feedparser
+                pass
 
         feed = feedparser.parse(response.content)
 

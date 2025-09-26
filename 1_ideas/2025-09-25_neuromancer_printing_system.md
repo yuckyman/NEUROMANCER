@@ -110,3 +110,9 @@ printing:
 - `neuromancer_template.html` - print template
 
 this would make NEUROMANCER feel more like a true second brain that can leave physical traces in the world! 🧠📄
+
+
+
+
+
+
