@@ -24,6 +24,10 @@ temporal_discount: 0.95            # Discount factor for older patterns
 # Resource management
 memory_retention_days: 7           # How long to keep synthesis history
 max_processing_time_seconds: 300   # Timeout for processing cycles
+cpu_threshold_percent: 80          # Skip runs if CPU usage exceeds this
+memory_threshold_percent: 85       # Skip runs if memory usage exceeds this
+load_threshold: 3.0               # Skip runs if load average exceeds this
+dynamic_batch_adjustment: true     # Enable dynamic batch size adjustment
 
 # Discord personality settings
 discord_personality_level: "friendly"  # friendly, casual, professional, enthusiastic

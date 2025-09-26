@@ -25,6 +25,7 @@ import requests
 import feedparser
 from bs4 import BeautifulSoup
 import re
+import psutil
 
 # Configuration
 CONFIG_FILE = Path(__file__).parent / "neuromancer_autonomous_config.yaml"
@@ -320,6 +321,26 @@ class IntelligenceSynthesizer:
         """Synthesize intelligence from multiple sources"""
         reports = []
 
+        # Check system resources and adjust processing intensity if enabled
+        dynamic_adjustment = getattr(self.config, 'dynamic_batch_adjustment', True)
+        if dynamic_adjustment:
+            resources = self.check_system_resources()
+
+            # Dynamically adjust batch size based on system load
+            effective_batch_size = self.config.synthesis_batch_size
+            if resources['memory_percent'] > 70:
+                effective_batch_size = max(3, effective_batch_size // 2)
+                print(f"📊 High memory usage ({resources['memory_percent']}%), reducing batch size to {effective_batch_size}")
+            elif resources['cpu_percent'] > 60:
+                effective_batch_size = max(5, effective_batch_size - 2)
+                print(f"🔥 High CPU usage ({resources['cpu_percent']}%), reducing batch size to {effective_batch_size}")
+        else:
+            effective_batch_size = self.config.synthesis_batch_size
+
+        # Limit content batch if needed
+        if len(content_batch) > effective_batch_size:
+            content_batch = content_batch[:effective_batch_size]
+
         # Group content by themes/topics
         themes = self.cluster_by_themes(content_batch)
 
@@ -419,7 +440,26 @@ Format as JSON:
                 options={'temperature': 0.3, 'max_tokens': 500}
             )
 
-            result = json.loads(response['response'])
+            # Extract JSON from the response
+            response_text = response.get('response', '').strip()
+
+            if not response_text:
+                print(f"Empty response from LLM for theme: {theme}")
+                return None
+
+            # Try to extract JSON from the response (LLMs might add extra text)
+            json_match = re.search(r'\{.*\}', response_text, re.DOTALL)
+            if not json_match:
+                print(f"No JSON found in LLM response for theme: {theme}")
+                print(f"Response: {response_text[:200]}...")
+                return None
+
+            try:
+                result = json.loads(json_match.group())
+            except json.JSONDecodeError as e:
+                print(f"JSON decode error for theme {theme}: {e}")
+                print(f"Response text: {response_text}")
+                return None
 
             # Create intelligence report
             content_hash = hashlib.sha256(combined_content.encode()).hexdigest()
@@ -955,8 +995,39 @@ related to the theme: {report.raw_content.get('theme', 'general')}
             except Exception as e:
                 print(f"Error saving synthesis: {e}")
 
+    def check_system_resources(self) -> Dict[str, float]:
+        """Check system resource usage to prevent overload"""
+        try:
+            cpu_percent = psutil.cpu_percent(interval=1)
+            memory = psutil.virtual_memory()
+            memory_percent = memory.percent
+            load_avg = psutil.getloadavg()[0]  # 1-minute load average
+
+            return {
+                'cpu_percent': cpu_percent,
+                'memory_percent': memory_percent,
+                'load_average': load_avg
+            }
+        except Exception as e:
+            print(f"Error checking system resources: {e}")
+            return {'cpu_percent': 50, 'memory_percent': 50, 'load_average': 2.0}
+
     def should_run_now(self) -> bool:
         """Check if autonomous system should run now"""
+        # Check system resources first
+        resources = self.check_system_resources()
+
+        # Skip if system is overloaded using config thresholds
+        cpu_threshold = getattr(self.config, 'cpu_threshold_percent', 80)
+        memory_threshold = getattr(self.config, 'memory_threshold_percent', 85)
+        load_threshold = getattr(self.config, 'load_threshold', 3.0)
+
+        if (resources['cpu_percent'] > cpu_threshold or
+            resources['memory_percent'] > memory_threshold or
+            resources['load_average'] > load_threshold):
+            print(f"💤 System overloaded - CPU: {resources['cpu_percent']}%, Memory: {resources['memory_percent']}%, Load: {resources['load_average']:.1f}. Skipping run.")
+            return False
+
         # Check consecutive failures
         if self.consecutive_failures >= self.config.max_consecutive_failures:
             print(f"🔧 Too many failures ({self.consecutive_failures}), pausing autonomous mode")
