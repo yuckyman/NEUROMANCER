@@ -1,0 +1,7 @@
+RSS Feed: cs.CV updates on arXiv.org
+Source: https://arxiv.org/rss/cs.CV
+Link: https://arxiv.org/abs/2509.20777
+
+CompressAI-Vision: Open-source software to evaluate compression methods for computer vision tasks
+
+arXiv:2509.20777v1 Announce Type: new Abstract: With the increasing use of neural network (NN)-based computer vision applications that process image and video data as input, interest has emerged in video compression technology optimized for computer vision tasks. In fact, given the variety of vision tasks, associated NN models and datasets, a consolidated platform is needed as a common ground to implement and evaluate compression methods optimized for downstream vision tasks. CompressAI-Vision is introduced as a comprehensive evaluation platform where new coding tools compete to efficiently compress the input of vision network while retaining task accuracy in the context of two different inference scenarios: "remote" and "split" inferencing. Our study showcases various use cases of the evaluation platform incorporated with standard codecs (under development) by examining the compression gain on several datasets in terms of bit-rate versus task accuracy. This evaluation platform has bee...

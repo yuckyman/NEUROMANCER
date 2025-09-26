@@ -1,0 +1,7 @@
+RSS Feed: Frontiers in Neuroscience | New and Recent Articles
+Source: https://www.frontiersin.org/journals/neuroscience/rss
+Link: https://www.frontiersin.org/articles/10.3389/fnins.2025.1653261
+
+Biomarkers of Alzheimer’s disease modification using adaptive cognitive assessments to improve responsiveness—a simulation study
+
+IntroductionClinical studies assessing cognition in Alzheimer’s and other neurodegenerative diseases require endpoints that are sensitive to treatment response across a broad range of cognitive abilities. However, responsiveness of conventional cognitive assessments typically varies with the performance level, especially due to non-linearities such as floor or ceiling effects. Here, we evaluate 6 newly developed smartphone-based and gamified Adaptive Cognitive Assessments (ACAs) entailing a system of dynamic difficulty adaptation to individual performance, which is expected to improve adherence but also measurement properties. Deployment of such ACAs to maximize their discriminative ability in comparative studies requires exploration of many free parameters and complex dynamics.MethodsIn simulations of cohorts of patients with cognitive impairment, we compared two ACAs paradigms: after 14 daily tests allowing performance-based difficulty adaptation, the difficulty level was either (1) ...

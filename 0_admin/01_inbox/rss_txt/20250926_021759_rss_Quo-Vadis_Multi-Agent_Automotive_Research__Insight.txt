@@ -1,0 +1,7 @@
+RSS Feed: cs.HC updates on arXiv.org
+Source: https://arxiv.org/rss/cs.HC
+Link: https://arxiv.org/abs/2508.03281
+
+Quo-Vadis Multi-Agent Automotive Research? Insights from a Participatory Workshop and Questionnaire
+
+arXiv:2508.03281v2 Announce Type: replace Abstract: The transition to mixed-traffic environments that involve automated vehicles, manually operated vehicles, and vulnerable road users presents new challenges for human-centered automotive research. Despite this, most studies in the domain focus on single-agent interactions. This paper reports on a participatory workshop (N = 15) and a questionnaire (N = 19) conducted during the AutomotiveUI '24 conference to explore the state of multi-agent automotive research. The participants discussed methodological challenges and opportunities in real-world settings, simulations, and computational modeling. Key findings reveal that while the value of multi-agent approaches is widely recognized, practical and technical barriers hinder their implementation. The study highlights the need for interdisciplinary methods, better tools, and simulation environments that support scalable, realistic, and ethically informed multi-agent research.

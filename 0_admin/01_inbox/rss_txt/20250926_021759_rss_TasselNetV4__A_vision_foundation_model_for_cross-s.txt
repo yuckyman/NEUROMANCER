@@ -1,0 +1,7 @@
+RSS Feed: cs.CV updates on arXiv.org
+Source: https://arxiv.org/rss/cs.CV
+Link: https://arxiv.org/abs/2509.20857
+
+TasselNetV4: A vision foundation model for cross-scene, cross-scale, and cross-species plant counting
+
+arXiv:2509.20857v1 Announce Type: new Abstract: Accurate plant counting provides valuable information for agriculture such as crop yield prediction, plant density assessment, and phenotype quantification. Vision-based approaches are currently the mainstream solution. Prior art typically uses a detection or a regression model to count a specific plant. However, plants have biodiversity, and new cultivars are increasingly bred each year. It is almost impossible to exhaust and build all species-dependent counting models. Inspired by class-agnostic counting (CAC) in computer vision, we argue that it is time to rethink the problem formulation of plant counting, from what plants to count to how to count plants. In contrast to most daily objects with spatial and temporal invariance, plants are dynamic, changing with time and space. Their non-rigid structure often leads to worse performance than counting rigid instances like heads and cars such that current CAC and open-world detection models ...

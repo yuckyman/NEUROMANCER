@@ -1,0 +1,7 @@
+RSS Feed: cs.AI updates on arXiv.org
+Source: https://arxiv.org/rss/cs.AI
+Link: https://arxiv.org/abs/2509.20520
+
+Adaptive Approach to Enhance Machine Learning Scheduling Algorithms During Runtime Using Reinforcement Learning in Metascheduling Applications
+
+arXiv:2509.20520v1 Announce Type: new Abstract: Metascheduling in time-triggered architectures has been crucial in adapting to dynamic and unpredictable environments, ensuring the reliability and efficiency of task execution. However, traditional approaches face significant challenges when training Artificial Intelligence (AI) scheduling inferences offline, particularly due to the complexities involved in constructing a comprehensive Multi-Schedule Graph (MSG) that accounts for all possible scenarios. The process of generating an MSG that captures the vast probability space, especially when considering context events like hardware failures, slack variations, or mode changes, is resource-intensive and often infeasible. To address these challenges, we propose an adaptive online learning unit integrated within the metascheduler to enhance performance in real-time. The primary motivation for developing this unit stems from the limitations of offline training, where the MSG created is inher...

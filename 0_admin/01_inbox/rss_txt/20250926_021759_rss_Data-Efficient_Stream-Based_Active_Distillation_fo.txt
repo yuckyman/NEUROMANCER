@@ -1,0 +1,7 @@
+RSS Feed: cs.CV updates on arXiv.org
+Source: https://arxiv.org/rss/cs.CV
+Link: https://arxiv.org/abs/2509.20484
+
+Data-Efficient Stream-Based Active Distillation for Scalable Edge Model Deployment
+
+arXiv:2509.20484v1 Announce Type: new Abstract: Edge camera-based systems are continuously expanding, facing ever-evolving environments that require regular model updates. In practice, complex teacher models are run on a central server to annotate data, which is then used to train smaller models tailored to the edge devices with limited computational power. This work explores how to select the most useful images for training to maximize model quality while keeping transmission costs low. Our work shows that, for a similar training load (i.e., iterations), a high-confidence stream-based strategy coupled with a diversity-based approach produces a high-quality model with minimal dataset queries.

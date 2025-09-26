@@ -1,0 +1,7 @@
+RSS Feed: Journal of Neuroscience current issue
+Source: https://www.jneurosci.org/rss/current.xml
+Link: http://www.jneurosci.org/cgi/content/short/45/39/e0790252025?rss=1
+
+Multivariate White Matter Microstructure Alterations in Older Adults with Coronary Artery Disease
+
+Patients with coronary artery disease (CAD) face an increased risk of cognitive impairment, dementia, and stroke. While white matter (WM) lesions are frequently reported in patients with CAD, the effects on WM microstructure alterations remain largely unknown. We aimed to identify WM microstructural alterations in individuals with CAD compared with healthy controls (HC) and to examine their relationships with cognitive performance. Forty-three (43) patients with CAD (35 males and 8 females) and 36 HC (26 males and 10 females) aged 50 and older underwent comprehensive neuropsychological testing and multimodal 3&nbsp;T magnetic resonance imaging (MRI). A novel multivariate approach&mdash;the Mahalanobis distance (D2)&mdash;was used to quantify WM abnormalities as the amount of deviation from the HC reference group. D2 integrates multiple MRI-derived diffusion-weighted imaging, R1 relaxometry, and magnetization transfer imaging metrics, while accounting for covariance between metrics. Rel...

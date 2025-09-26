@@ -1,0 +1,72 @@
+# NEUROMANCER Learning Agent Configuration
+
+# Learning Parameters
+learning:
+  enabled: true
+  min_data_points: 10
+  learning_rate: 0.1
+  decay_factor: 0.95  # How much old data decays over time
+  adaptation_speed: 0.2  # How quickly the system adapts to new patterns
+
+# Alert Configuration
+alerting:
+  discord_webhook: ""  # Set via DISCORD_WEBHOOK_URL environment variable
+  adaptive_threshold: true  # Use learning to adjust relevance threshold
+  base_relevance_threshold: 0.7
+  max_alerts_per_day: 5
+  learning_confidence_threshold: 0.6  # Minimum confidence to send alerts
+
+# NEUROMANCER Personality
+personality:
+  name: "NEUROMANCER"
+  voice: "casual, curious, analytical"
+  learning_style: "iterative, evidence-based"
+  communication_style: "unbiased, factual, engaging"
+  curiosity_level: "high"  # How curious NEUROMANCER is about new topics
+  skepticism_level: "moderate"  # How skeptical of claims
+
+# Learning Focus Areas
+focus_areas:
+  primary_learning:
+    - "computational neuroscience"
+    - "BCI research"
+    - "EEG analysis"
+    - "brain imaging"
+    - "motor imagery"
+  
+  secondary_learning:
+    - "local-first AI"
+    - "privacy-preserving systems"
+    - "self-hosted tools"
+    - "research-to-practice"
+    - "knowledge management"
+  
+  technical_learning:
+    - "machine learning"
+    - "AI agents"
+    - "reasoning chains"
+    - "multimodal systems"
+    - "PKM systems"
+
+# Learning Metrics
+metrics:
+  track_engagement: true
+  track_synthesis_quality: true
+  track_vault_activity: true
+  track_alert_responses: true
+  learning_cycle_hours: 6  # How often to run learning cycles
+
+# Bias Detection and Neutrality
+bias_detection:
+  enabled: true
+  check_sentiment: true
+  neutralize_language: true
+  fact_check_claims: true
+  learning_bias_correction: true  # Learn from bias detection patterns
+
+# AI Model Configuration
+ai:
+  model: "gemma3:4b"
+  temperature: 0.3
+  max_tokens: 200
+  learning_prompt_style: "conversational, analytical, unbiased"

@@ -1,0 +1,7 @@
+RSS Feed: cs.CV updates on arXiv.org
+Source: https://arxiv.org/rss/cs.CV
+Link: https://arxiv.org/abs/2509.20923
+
+Revisiting Data Challenges of Computational Pathology: A Pack-based Multiple Instance Learning Framework
+
+arXiv:2509.20923v1 Announce Type: new Abstract: Computational pathology (CPath) digitizes pathology slides into whole slide images (WSIs), enabling analysis for critical healthcare tasks such as cancer diagnosis and prognosis. However, WSIs possess extremely long sequence lengths (up to 200K), significant length variations (from 200 to 200K), and limited supervision. These extreme variations in sequence length lead to high data heterogeneity and redundancy. Conventional methods often compromise on training efficiency and optimization to preserve such heterogeneity under limited supervision. To comprehensively address these challenges, we propose a pack-based MIL framework. It packs multiple sampled, variable-length feature sequences into fixed-length ones, enabling batched training while preserving data heterogeneity. Moreover, we introduce a residual branch that composes discarded features from multiple slides into a hyperslide which is trained with tailored labels. It offers multi-sl...

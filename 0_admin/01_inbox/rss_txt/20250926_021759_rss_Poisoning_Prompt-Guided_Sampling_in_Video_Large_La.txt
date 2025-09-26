@@ -1,0 +1,7 @@
+RSS Feed: cs.CV updates on arXiv.org
+Source: https://arxiv.org/rss/cs.CV
+Link: https://arxiv.org/abs/2509.20851
+
+Poisoning Prompt-Guided Sampling in Video Large Language Models
+
+arXiv:2509.20851v1 Announce Type: new Abstract: Video Large Language Models (VideoLLMs) have emerged as powerful tools for understanding videos, supporting tasks such as summarization, captioning, and question answering. Their performance has been driven by advances in frame sampling, progressing from uniform-based to semantic-similarity-based and, most recently, prompt-guided strategies. While vulnerabilities have been identified in earlier sampling strategies, the safety of prompt-guided sampling remains unexplored. We close this gap by presenting PoisonVID, the first black-box poisoning attack that undermines prompt-guided sampling in VideoLLMs. PoisonVID compromises the underlying prompt-guided sampling mechanism through a closed-loop optimization strategy that iteratively optimizes a universal perturbation to suppress harmful frame relevance scores, guided by a depiction set constructed from paraphrased harmful descriptions leveraging a shadow VideoLLM and a lightweight language m...

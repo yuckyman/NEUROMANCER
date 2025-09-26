@@ -1,0 +1,7 @@
+RSS Feed: cs.HC updates on arXiv.org
+Source: https://arxiv.org/rss/cs.HC
+Link: https://arxiv.org/abs/2505.07552
+
+Automated Visual Attention Detection using Mobile Eye Tracking in Behavioral Classroom Studies
+
+arXiv:2505.07552v2 Announce Type: replace-cross Abstract: Teachers' visual attention and its distribution across the students in classrooms can constitute important implications for student engagement, achievement, and professional teacher training. Despite that, inferring the information about where and which student teachers focus on is not trivial. Mobile eye tracking can provide vital help to solve this issue; however, the use of mobile eye tracking alone requires a significant amount of manual annotations. To address this limitation, we present an automated processing pipeline concept that requires minimal manually annotated data to recognize which student the teachers focus on. To this end, we utilize state-of-the-art face detection models and face recognition feature embeddings to train face recognition models with transfer learning in the classroom context and combine these models with the teachers' gaze from mobile eye trackers. We evaluated our approach with data collected fr...

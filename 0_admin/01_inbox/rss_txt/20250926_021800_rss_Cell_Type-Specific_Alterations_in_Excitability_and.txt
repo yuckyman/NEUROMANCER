@@ -1,0 +1,7 @@
+RSS Feed: Journal of Neuroscience current issue
+Source: https://www.jneurosci.org/rss/current.xml
+Link: http://www.jneurosci.org/cgi/content/short/45/39/e2409242025?rss=1
+
+Cell Type-Specific Alterations in Excitability and Inhibition of Upper Motor Neurons in AlsinKO Mice, a Model of Juvenile Onset ALS
+
+In amyotrophic lateral sclerosis (ALS) motor cortex, hyperexcitability is detected in both familial and sporadic cases, suggesting its centrality in the ALS phenotype; the underlying mechanisms, however, remain largely obscure. Here we utilize male and female UCHL1-eGFP (UeGFP) mice, in which the corticospinal neurons of the motor cortex are labeled with green fluorescent protein, to investigate the intrinsic excitability and synaptic inhibitory inputs on distinct neuron populations in WT-UeGFP and presymptomatic AlsinKO-UeGFP mice, which lack Alsin function and are a well-characterized mouse model for juvenile cases of ALS. We show that in the motor cortex of AlsinKO-UeGFP mice, eGFP-positive layer 5 pyramidal neurons, which represent upper motor neurons, show a decrease in intrinsic excitability compared with WT, whereas the electrophysiological properties of eGFP-negative cells, which identify callosal projection neurons, are unaffected. This alteration in intrinsic excitability, ho...

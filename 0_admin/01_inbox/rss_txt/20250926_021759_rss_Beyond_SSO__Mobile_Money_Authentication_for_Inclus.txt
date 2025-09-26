@@ -1,0 +1,7 @@
+RSS Feed: cs.HC updates on arXiv.org
+Source: https://arxiv.org/rss/cs.HC
+Link: https://arxiv.org/abs/2509.20592
+
+Beyond SSO: Mobile Money Authentication for Inclusive e-Government in Sub-Saharan Africa
+
+arXiv:2509.20592v1 Announce Type: cross Abstract: The rapid adoption of Mobile Money Services (MMS) in Sub-Saharan Africa (SSA) offers a viable path to improve e-Government service accessibility in the face of persistent low internet penetration. However, existing Mobile Money Authentication (MMA) methods face critical limitations, including susceptibility to SIM swapping, weak session protection, and poor scalability during peak demand. This study introduces a hybrid MMA framework that combines Unstructured Supplementary Service Data (USSD)-based multi-factor authentication with secure session management via cryptographically bound JSON Web Tokens (JWT). Unlike traditional MMA systems that rely solely on SIM-PIN verification or smartphone-dependent biometrics, our design implements a three-factor authentication model; SIM verification, PIN entry, and session token binding, tailored for resource-constrained environments. Simulations and comparative analysis against OAuth-based Single S...

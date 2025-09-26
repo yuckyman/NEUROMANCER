@@ -1,0 +1,7 @@
+RSS Feed: cs.HC updates on arXiv.org
+Source: https://arxiv.org/rss/cs.HC
+Link: https://arxiv.org/abs/2504.02793
+
+A Framework for Situating Innovations, Opportunities, and Challenges in Advancing Vertical Systems with Large AI Models
+
+arXiv:2504.02793v2 Announce Type: replace-cross Abstract: Large artificial intelligence (AI) models have garnered significant attention for their remarkable, often "superhuman", performance on standardized benchmarks. However, when these models are deployed in high-stakes verticals such as healthcare, education, and law, they often reveal notable limitations. For instance, they exhibit brittleness to minor variations in input data, present contextually uninformed decisions in critical settings, and undermine user trust by confidently producing or reproducing inaccuracies. These challenges in applying large models necessitate cross-disciplinary innovations to align the models' capabilities with the needs of real-world applications. We introduce a framework that addresses this gap through a layer-wise abstraction of innovations aimed at meeting users' requirements with large models. Through multiple case studies, we illustrate how researchers and practitioners across various fields can o...

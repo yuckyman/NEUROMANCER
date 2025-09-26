@@ -1,0 +1,7 @@
+RSS Feed: cs.HC updates on arXiv.org
+Source: https://arxiv.org/rss/cs.HC
+Link: https://arxiv.org/abs/2509.12408
+
+Scaffolding Flexible Ideation Workflows with AI in Creative Problem-Solving
+
+arXiv:2509.12408v3 Announce Type: replace Abstract: Divergent thinking in the ideation stage of creative problem-solving demands that individuals explore a broad design space. Yet this exploration rarely follows a neat, linear sequence; problem-solvers constantly shift among searching, creating, and evaluating ideas. Existing interfaces either impose rigid, step-by-step workflows or permit unguided free-form exploration. To strike a balance between flexibility and guidance for augmenting people's efficiency and creativity, we introduce a human-AI collaborative workflow that supports a fluid ideation process. The system surfaces three opt-in aids: (1) high-level schemas to uncover alternative ideas, (2) risk analysis with mitigation suggestions, and (3) steering system-generated suggestions. Users can invoke these supports at any moment, allowing seamless back-and-forth movement among design actions to maintain creative momentum.

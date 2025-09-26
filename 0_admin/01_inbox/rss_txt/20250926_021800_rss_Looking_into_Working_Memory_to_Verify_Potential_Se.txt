@@ -1,0 +1,7 @@
+RSS Feed: Journal of Neuroscience current issue
+Source: https://www.jneurosci.org/rss/current.xml
+Link: http://www.jneurosci.org/cgi/content/short/45/39/e0091252025?rss=1
+
+Looking into Working Memory to Verify Potential Search Targets
+
+Finding what you are looking for is a ubiquitous task in everyday life that relies on a two-way comparison between what is currently viewed and internal search goals held in memory. Despite a wealth of studies tracking visual verification among external contents of perception, complementary verification processes among internal contents of memory remain elusive. Building on a recently established gaze marker of internal visual focusing in working memory, we uncover the internal inspection process associated with confirming or dismissing potential search targets. We show how male and female human participants "look back" into working memory when faced with external stimuli that are perceived as potential targets and link such internal inspection to the time needed for visual verification. A direct comparison between visual verification among the contents of working memory or perception further revealed how verification in both domains engages frontal theta activity in scalp electroencep...

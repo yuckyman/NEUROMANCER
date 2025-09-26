@@ -1,0 +1,7 @@
+RSS Feed: cs.AI updates on arXiv.org
+Source: https://arxiv.org/rss/cs.AI
+Link: https://arxiv.org/abs/2509.20729
+
+Fairy: Interactive Mobile Assistant to Real-world Tasks via LMM-based Multi-agent
+
+arXiv:2509.20729v1 Announce Type: new Abstract: Large multi-modal models (LMMs) have advanced mobile GUI agents. However, existing methods struggle with real-world scenarios involving diverse app interfaces and evolving user needs. End-to-end methods relying on model's commonsense often fail on long-tail apps, and agents without user interaction act unilaterally, harming user experience. To address these limitations, we propose Fairy, an interactive multi-agent mobile assistant capable of continuously accumulating app knowledge and self-evolving during usage. Fairy enables cross-app collaboration, interactive execution, and continual learning through three core modules:(i) a Global Task Planner that decomposes user tasks into sub-tasks from a cross-app view; (ii) an App-Level Executor that refines sub-tasks into steps and actions based on long- and short-term memory, achieving precise execution and user interaction via four core agents operating in dual loops; and (iii) a Self-Learner ...

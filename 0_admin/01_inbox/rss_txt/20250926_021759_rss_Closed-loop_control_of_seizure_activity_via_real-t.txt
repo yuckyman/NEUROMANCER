@@ -1,0 +1,7 @@
+RSS Feed: cs.HC updates on arXiv.org
+Source: https://arxiv.org/rss/cs.HC
+Link: https://arxiv.org/abs/2505.02003
+
+Closed-loop control of seizure activity via real-time seizure forecasting by reservoir neuromorphic computing
+
+arXiv:2505.02003v3 Announce Type: replace-cross Abstract: Closed-loop brain stimulation holds potential as personalized treatment for drug-resistant epilepsy (DRE) but still suffers from limitations that result in highly variable efficacy. First, stimulation is typically delivered upon detection of the seizure to abort rather than prevent it; second, the stimulation parameters are established by trial and error, requiring lengthy rounds of fine-tuning, which delay steady-state therapeutic efficacy. Here, we address these limitations by leveraging the potential of neuromorphic computing. We present a neuromorphic reservoir computing hardware system capable of driving real-time personalized free-run stimulations based on seizure forecasting, wherein each forecast triggers an electrical pulse rather than an arbitrarily predefined fixed-frequency stimulus train. The system achieves 83.33% accuracy in forecasting seizure occurrences during the training phase. We validate the system using hi...

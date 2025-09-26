@@ -1,0 +1,7 @@
+RSS Feed: cs.AI updates on arXiv.org
+Source: https://arxiv.org/rss/cs.AI
+Link: https://arxiv.org/abs/2509.20370
+
+Philosophy-informed Machine Learning
+
+arXiv:2509.20370v1 Announce Type: new Abstract: Philosophy-informed machine learning (PhIML) directly infuses core ideas from analytic philosophy into ML model architectures, objectives, and evaluation protocols. Therefore, PhIML promises new capabilities through models that respect philosophical concepts and values by design. From this lens, this paper reviews conceptual foundations to demonstrate philosophical gains and alignment. In addition, we present case studies on how ML users/designers can adopt PhIML as an agnostic post-hoc tool or intrinsically build it into ML model architectures. Finally, this paper sheds light on open technical barriers alongside philosophical, practical, and governance challenges and outlines a research roadmap toward safe, philosophy-aware, and ethically responsible PhIML.

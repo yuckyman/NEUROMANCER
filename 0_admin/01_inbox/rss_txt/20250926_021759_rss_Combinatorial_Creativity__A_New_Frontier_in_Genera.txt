@@ -1,0 +1,7 @@
+RSS Feed: cs.AI updates on arXiv.org
+Source: https://arxiv.org/rss/cs.AI
+Link: https://arxiv.org/abs/2509.21043
+
+Combinatorial Creativity: A New Frontier in Generalization Abilities
+
+arXiv:2509.21043v1 Announce Type: new Abstract: Artificial intelligence (AI) systems, and large language models (LLMs) in particular, are increasingly employed for creative tasks like scientific idea generation, constituting a form of generalization from training data unaddressed by existing conceptual frameworks. Though in many ways similar to forms of compositional generalization (CG), combinatorial creativity (CC) is an open-ended ability. Instead of evaluating for accuracy or correctness against fixed targets, which would contradict the open-ended nature of CC, we propose a theoretical framework and algorithmic task for evaluating outputs by their degrees of novelty and utility. From here, we make several important empirical contributions: (1) We obtain the first insights into the scaling behavior of creativity for LLMs. (2) We discover that, for fixed compute budgets, there exist optimal model depths and widths for creative ability. (3) We find that the ideation-execution gap, whe...

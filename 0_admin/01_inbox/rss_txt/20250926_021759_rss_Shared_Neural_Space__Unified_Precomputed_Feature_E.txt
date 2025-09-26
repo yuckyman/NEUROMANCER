@@ -1,0 +1,7 @@
+RSS Feed: cs.CV updates on arXiv.org
+Source: https://arxiv.org/rss/cs.CV
+Link: https://arxiv.org/abs/2509.20481
+
+Shared Neural Space: Unified Precomputed Feature Encoding for Multi-Task and Cross Domain Vision
+
+arXiv:2509.20481v1 Announce Type: new Abstract: The majority of AI models in imaging and vision are customized to perform on specific high-precision task. However, this strategy is inefficient for applications with a series of modular tasks, since each requires a mapping into a disparate latent domain. To address this inefficiency, we proposed a universal Neural Space (NS), where an encoder-decoder framework pre-computes features across vision and imaging tasks. Our encoder learns transformation aware, generalizable representations, which enable multiple downstream AI modules to share the same feature space. This architecture reduces redundancy, improves generalization across domain shift, and establishes a foundation for effecient multi-task vision pipelines. Furthermore, as opposed to larger transformer backbones, our backbone is lightweight and CNN-based, allowing for wider across hardware. We furthur demonstrate that imaging and vision modules, such as demosaicing, denoising, depth...

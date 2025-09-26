@@ -1,0 +1,7 @@
+RSS Feed: Journal of Neuroscience current issue
+Source: https://www.jneurosci.org/rss/current.xml
+Link: http://www.jneurosci.org/cgi/content/short/45/39/e2073242025?rss=1
+
+Hierarchical Organization of Human Visual Feature Attention Control
+
+Attention can be deployed in advance of visual stimuli based on features such as color or direction of motion. This anticipatory feature-based attention involves top-down neural control signals from the frontoparietal network that bias visual cortex to enhance attended information and suppress distraction. For example, anticipatory attention control can enable effective selection based on stimulus color while ignoring distracting information about stimulus motion. Anticipatory attention can also be focused more narrowly, for example, to select specific colors or motion directions that define task-relevant aspects of the stimuli. One important question that remains open is whether anticipatory attention control first biases broad feature dimensions such as color versus motion before biasing the specific feature attributes (e.g., blue vs green). To investigate this, we recorded EEG activity during a task where human participants of either sex were cued to either attend to a motion direct...

@@ -1,0 +1,7 @@
+RSS Feed: PLOS Computational Biology
+Source: https://journals.plos.org/ploscompbiol/feed/atom
+Link: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013439
+
+Mechanistic within-host mathematical model of inhalational anthrax
+
+by Bevelynn Whaler, Grant Lythe, Joseph J. Gillard, Thomas R. Laws, Jonathan Carruthers, Thomas Finnie, Carmen Molina-París, Martín López-García We present a mathematical model of the dynamics of Bacillus anthracis bacteria within the lymph nodes and blood of a host, following inhalation of an initial dose of spores. We also incorporate the dynamics of protective antigen, which is the binding component of the anthrax toxin produced by the bacteria. The model offers a mechanistic description of the early infection dynamics of inhalational anthrax, while its stochastic nature allows us to study the probabilities of different outcomes (for example, how likely it is that the infection will be cleared for a given inhaled dose of spores) in order to explain dose-response data for inhalational anthrax. The model is calibrated via a Bayesian approach, using in vivo data from New Zealand white rabbit and guinea pig infection studies, enabling within-host parameters to be estimated. We also leve...

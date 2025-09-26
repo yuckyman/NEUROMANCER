@@ -1,0 +1,7 @@
+RSS Feed: cs.CV updates on arXiv.org
+Source: https://arxiv.org/rss/cs.CV
+Link: https://arxiv.org/abs/2509.20673
+
+Human Semantic Representations of Social Interactions from Moving Shapes
+
+arXiv:2509.20673v1 Announce Type: new Abstract: Humans are social creatures who readily recognize various social interactions from simple display of moving shapes. While previous research has often focused on visual features, we examine what semantic representations that humans employ to complement visual features. In Study 1, we directly asked human participants to label the animations based on their impression of moving shapes. We found that human responses were distributed. In Study 2, we measured the representational geometry of 27 social interactions through human similarity judgments and compared it with model predictions based on visual features, labels, and semantic embeddings from animation descriptions. We found that semantic models provided complementary information to visual features in explaining human judgments. Among the semantic models, verb-based embeddings extracted from descriptions account for human similarity judgments the best. These results suggest that social pe...

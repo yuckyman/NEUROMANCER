@@ -1,0 +1,7 @@
+RSS Feed: cs.CV updates on arXiv.org
+Source: https://arxiv.org/rss/cs.CV
+Link: https://arxiv.org/abs/2509.20918
+
+SwinMamba: A hybrid local-global mamba framework for enhancing semantic segmentation of remotely sensed images
+
+arXiv:2509.20918v1 Announce Type: new Abstract: Semantic segmentation of remote sensing imagery is a fundamental task in computer vision, supporting a wide range of applications such as land use classification, urban planning, and environmental monitoring. However, this task is often challenged by the high spatial resolution, complex scene structures, and diverse object scales present in remote sensing data. To address these challenges, various deep learning architectures have been proposed, including convolutional neural networks, Vision Transformers, and the recently introduced Vision Mamba. Vision Mamba features a global receptive field and low computational complexity, demonstrating both efficiency and effectiveness in image segmentation. However, its reliance on global scanning tends to overlook critical local features, such as textures and edges, which are essential for achieving accurate segmentation in remote sensing contexts. To tackle this limitation, we propose SwinMamba, a ...

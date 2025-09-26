@@ -1,0 +1,7 @@
+RSS Feed: cs.CV updates on arXiv.org
+Source: https://arxiv.org/rss/cs.CV
+Link: https://arxiv.org/abs/2509.20807
+
+Federated Domain Generalization with Domain-specific Soft Prompts Generation
+
+arXiv:2509.20807v1 Announce Type: new Abstract: Prompt learning has become an efficient paradigm for adapting CLIP to downstream tasks. Compared with traditional fine-tuning, prompt learning optimizes a few parameters yet yields highly competitive results, especially appealing in federated learning for computational efficiency. engendering domain shift among clients and posing a formidable challenge for downstream-task adaptation. Existing federated domain generalization (FDG) methods based on prompt learning typically learn soft prompts from training samples, replacing manually designed prompts to enhance the generalization ability of federated models. However, these learned prompts exhibit limited diversity and tend to ignore information from unknown domains. We propose a novel and effective method from a generative perspective for handling FDG tasks, namely federated domain generalization with domain-specific soft prompts generation (FedDSPG). Specifically, during training, we intro...

@@ -1,0 +1,7 @@
+RSS Feed: cs.CV updates on arXiv.org
+Source: https://arxiv.org/rss/cs.CV
+Link: https://arxiv.org/abs/2509.20701
+
+DENet: Dual-Path Edge Network with Global-Local Attention for Infrared Small Target Detection
+
+arXiv:2509.20701v1 Announce Type: new Abstract: Infrared small target detection is crucial for remote sensing applications like disaster warning and maritime surveillance. However, due to the lack of distinctive texture and morphological features, infrared small targets are highly susceptible to blending into cluttered and noisy backgrounds. A fundamental challenge in designing deep models for this task lies in the inherent conflict between capturing high-resolution spatial details for minute targets and extracting robust semantic context for larger targets, often leading to feature misalignment and suboptimal performance. Existing methods often rely on fixed gradient operators or simplistic attention mechanisms, which are inadequate for accurately extracting target edges under low contrast and high noise. In this paper, we propose a novel Dual-Path Edge Network that explicitly addresses this challenge by decoupling edge enhancement and semantic modeling into two complementary processi...

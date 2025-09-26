@@ -1,0 +1,7 @@
+RSS Feed: cs.HC updates on arXiv.org
+Source: https://arxiv.org/rss/cs.HC
+Link: https://arxiv.org/abs/2509.20369
+
+AI-driven formative assessment and adaptive learning in data-science education: Evaluating an LLM-powered virtual teaching assistant
+
+arXiv:2509.20369v1 Announce Type: cross Abstract: This paper presents VITA (Virtual Teaching Assistants), an adaptive distributed learning (ADL) platform that embeds a large language model (LLM)-powered chatbot (BotCaptain) to provide dialogic support, interoperable analytics, and integrity-aware assessment for workforce preparation in data science. The platform couples context-aware conversational tutoring with formative-assessment patterns designed to promote reflective reasoning. The paper describes an end-to-end data pipeline that transforms chat logs into Experience API (xAPI) statements, instructor dashboards that surface outliers for just-in-time intervention, and an adaptive pathway engine that routes learners among progression, reinforcement, and remediation content. The paper also benchmarks VITA conceptually against emerging tutoring architectures, including retrieval-augmented generation (RAG)--based assistants and Learning Tools Interoperability (LTI)--integrated hubs, hig...

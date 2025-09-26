@@ -1,0 +1,7 @@
+RSS Feed: cs.CV updates on arXiv.org
+Source: https://arxiv.org/rss/cs.CV
+Link: https://arxiv.org/abs/2509.20756
+
+FreeInsert: Personalized Object Insertion with Geometric and Style Control
+
+arXiv:2509.20756v1 Announce Type: new Abstract: Text-to-image diffusion models have made significant progress in image generation, allowing for effortless customized generation. However, existing image editing methods still face certain limitations when dealing with personalized image composition tasks. First, there is the issue of lack of geometric control over the inserted objects. Current methods are confined to 2D space and typically rely on textual instructions, making it challenging to maintain precise geometric control over the objects. Second, there is the challenge of style consistency. Existing methods often overlook the style consistency between the inserted object and the background, resulting in a lack of realism. In addition, the challenge of inserting objects into images without extensive training remains significant. To address these issues, we propose \textit{FreeInsert}, a novel training-free framework that customizes object insertion into arbitrary scenes by leveragi...

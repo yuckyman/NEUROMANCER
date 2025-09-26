@@ -1,0 +1,7 @@
+RSS Feed: cs.AI updates on arXiv.org
+Source: https://arxiv.org/rss/cs.AI
+Link: https://arxiv.org/abs/2509.20376
+
+ConceptViz: A Visual Analytics Approach for Exploring Concepts in Large Language Models
+
+arXiv:2509.20376v1 Announce Type: cross Abstract: Large language models (LLMs) have achieved remarkable performance across a wide range of natural language tasks. Understanding how LLMs internally represent knowledge remains a significant challenge. Despite Sparse Autoencoders (SAEs) have emerged as a promising technique for extracting interpretable features from LLMs, SAE features do not inherently align with human-understandable concepts, making their interpretation cumbersome and labor-intensive. To bridge the gap between SAE features and human concepts, we present ConceptViz, a visual analytics system designed for exploring concepts in LLMs. ConceptViz implements a novel dentification => Interpretation => Validation pipeline, enabling users to query SAEs using concepts of interest, interactively explore concept-to-feature alignments, and validate the correspondences through model behavior verification. We demonstrate the effectiveness of ConceptViz through two usage scenarios and a...

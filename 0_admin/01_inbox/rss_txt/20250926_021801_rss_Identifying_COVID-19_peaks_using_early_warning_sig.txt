@@ -1,0 +1,7 @@
+RSS Feed: PLOS Computational Biology
+Source: https://journals.plos.org/ploscompbiol/feed/atom
+Link: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013524
+
+Identifying COVID-19 peaks using early warning signals
+
+by Joshua Looker, Kat S. Rock, Louise Dyson The SARS-CoV-2 (COVID-19) pandemic has had catastrophic effects on public health and economies. Around the world, many countries employed modelling efforts to help guide pharmaceutical and non-pharmaceutical measures designed to reduce the spread of the virus. Modelling efforts for future pandemics could use the theory of early warning signals (EWS), which aims to predict ‘critical transitions’ in complex dynamical systems. In infectious disease systems, such transitions correspond to (re-)emergence, peaks and troughs in infections which can be indirectly observed through the reported case data. There is increasing evidence that including EWS in modelling can help improve responses to upcoming increases or decreases in case reporting. Here, we present both theoretical and data-driven analyses of the suitability of EWS to predict epidemic transitions in reported case data. We derive analytical statistics for a variety of infectious disease mod...

@@ -1,0 +1,7 @@
+RSS Feed: Frontiers in Neuroscience | New and Recent Articles
+Source: https://www.frontiersin.org/journals/neuroscience/rss
+Link: https://www.frontiersin.org/articles/10.3389/fnins.2025.1623141
+
+Graph neural networks in Alzheimer's disease diagnosis: a review of unimodal and multimodal advances
+
+Alzheimer's Disease (AD), a leading neurodegenerative disorder, presents significant global health challenges. Advances in graph neural networks (GNNs) offer promising tools for analyzing multimodal neuroimaging data to improve AD diagnosis. This review provides a comprehensive overview of GNN applications in AD diagnosis, focusing on data sources, modalities, sample sizes, classification tasks, and diagnostic performance. Drawing on extensive literature searches across PubMed, IEEE Xplorer, Scopus, and Springer, we analyze key GNN frameworks and critically evaluate their limitations, challenges, and opportunities for improvement. In addition, we present a comparative analysis to evaluate the generalizability and robustness of GNN methods across different datasets, such as ADNI, OASIS, TADPOLE, UK Biobank, in-house, etc. Furthermore, we provide a critical methodological comparison across families of GNN architectures (i.e., GCN, ChebNet, GraphSAGE, GAT, GIN, etc.) in the context of AD....

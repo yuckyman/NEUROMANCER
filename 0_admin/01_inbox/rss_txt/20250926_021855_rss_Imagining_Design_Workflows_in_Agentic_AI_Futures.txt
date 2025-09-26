@@ -1,0 +1,7 @@
+RSS Feed: cs.HC updates on arXiv.org
+Source: https://arxiv.org/rss/cs.HC
+Link: https://arxiv.org/abs/2509.20731
+
+Imagining Design Workflows in Agentic AI Futures
+
+arXiv:2509.20731v1 Announce Type: new Abstract: As designers become familiar with Generative AI, a new concept is emerging: Agentic AI. While generative AI produces output in response to prompts, agentic AI systems promise to perform mundane tasks autonomously, potentially freeing designers to focus on what they love: being creative. But how do designers feel about integrating agentic AI systems into their workflows? Through design fiction, we investigated how designers want to interact with a collaborative agentic AI platform. Ten professional designers imagined and discussed collaborating with an AI agent to organise inspiration sources and ideate. Our findings highlight the roles AI agents can play in supporting designers, the division of authority between humans and AI, and how designers' intent can be explained to AI agents beyond prompts. We synthesise our findings into a conceptual framework that identifies authority distribution among humans and AI agents and discuss directions...

@@ -1,0 +1,7 @@
+RSS Feed: cs.SC updates on arXiv.org
+Source: https://arxiv.org/rss/cs.SC
+Link: https://arxiv.org/abs/2509.20932
+
+A Category Theoretic Approach to Approximate Game Theory
+
+arXiv:2509.20932v1 Announce Type: cross Abstract: This paper uses category theory to develop an entirely new approach to approximate game theory. Game theory is the study of how different agents within a multi-agent system take decisions. At its core, game theory asks what an optimal decision is in a given scenario. Thus approximate game theory asks what is an approximately optimal decision in a given scenario. This is important in practice as -- just like in much of computing -- exact answers maybe too difficult to compute or even impossible to compute given inherent uncertainty in input. We consider first "Selection Functions" which are functions and develop a simple yet robust model of approximate equilibria. We develop the algebraic properties of approximation wrt selection functions and also relate approximation to the compositional structure of selection functions. We then repeat this process successfully for Open Games -- a more advanced model of game theory.

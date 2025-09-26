@@ -1,0 +1,7 @@
+RSS Feed: cs.AI updates on arXiv.org
+Source: https://arxiv.org/rss/cs.AI
+Link: https://arxiv.org/abs/2509.20935
+
+GALAX: Graph-Augmented Language Model for Explainable Reinforcement-Guided Subgraph Reasoning in Precision Medicine
+
+arXiv:2509.20935v1 Announce Type: new Abstract: In precision medicine, quantitative multi-omic features, topological context, and textual biological knowledge play vital roles in identifying disease-critical signaling pathways and targets. Existing pipelines capture only part of these-numerical omics ignore topological context, text-centric LLMs lack quantitative grounded reasoning, and graph-only models underuse node semantics and the generalization of LLMs-limiting mechanistic interpretability. Although Process Reward Models (PRMs) aim to guide reasoning in LLMs, they remain limited by unreliable intermediate evaluation, and vulnerability to reward hacking with computational cost. These gaps motivate integrating quantitative multi-omic signals, topological structure with node annotations, and literature-scale text via LLMs, using subgraph reasoning as the principle bridge linking numeric evidence, topological knowledge and language context. Therefore, we propose GALAX (Graph Augmente...

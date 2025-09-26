@@ -1,0 +1,7 @@
+RSS Feed: cs.CV updates on arXiv.org
+Source: https://arxiv.org/rss/cs.CV
+Link: https://arxiv.org/abs/2509.20886
+
+Nuclear Diffusion Models for Low-Rank Background Suppression in Videos
+
+arXiv:2509.20886v1 Announce Type: new Abstract: Video sequences often contain structured noise and background artifacts that obscure dynamic content, posing challenges for accurate analysis and restoration. Robust principal component methods address this by decomposing data into low-rank and sparse components. Still, the sparsity assumption often fails to capture the rich variability present in real video data. To overcome this limitation, a hybrid framework that integrates low-rank temporal modeling with diffusion posterior sampling is proposed. The proposed method, Nuclear Diffusion, is evaluated on a real-world medical imaging problem, namely cardiac ultrasound dehazing, and demonstrates improved dehazing performance compared to traditional RPCA concerning contrast enhancement (gCNR) and signal preservation (KS statistic). These results highlight the potential of combining model-based temporal models with deep generative priors for high-fidelity video restoration.

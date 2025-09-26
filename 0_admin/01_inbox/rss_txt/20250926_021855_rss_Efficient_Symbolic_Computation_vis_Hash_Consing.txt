@@ -1,0 +1,7 @@
+RSS Feed: cs.SC updates on arXiv.org
+Source: https://arxiv.org/rss/cs.SC
+Link: https://arxiv.org/abs/2509.20534
+
+Efficient Symbolic Computation vis Hash Consing
+
+arXiv:2509.20534v1 Announce Type: cross Abstract: Symbolic computation systems suffer from memory inefficiencies due to redundant storage of structurally identical subexpressions, commonly known as expression swell, which degrades performance in both classical computer algebra and emerging AI-driven mathematical reasoning tools. In this paper, we present the first integration of hash consing into JuliaSymbolics, a high-performance symbolic toolkit in Julia, by employing a global weak-reference hash table that canonicalizes expressions and eliminates duplication. This approach reduces memory consumption and accelerates key operations such as differentiation, simplification, and code generation, while seamlessly integrating with Julia's metaprogramming and just-in-time compilation infrastructure. Benchmark evaluations across different computational domains reveal substantial improvements: symbolic computations are accelerated by up to 3.2 times, memory usage is reduced by up to 2 times, ...

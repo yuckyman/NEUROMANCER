@@ -1,0 +1,7 @@
+RSS Feed: cs.AI updates on arXiv.org
+Source: https://arxiv.org/rss/cs.AI
+Link: https://arxiv.org/abs/2509.20953
+
+Beyond Stars: Bridging the Gap Between Ratings and Review Sentiment with LLM
+
+arXiv:2509.20953v1 Announce Type: new Abstract: We present an advanced approach to mobile app review analysis aimed at addressing limitations inherent in traditional star-rating systems. Star ratings, although intuitive and popular among users, often fail to capture the nuanced feedback present in detailed review texts. Traditional NLP techniques -- such as lexicon-based methods and classical machine learning classifiers -- struggle to interpret contextual nuances, domain-specific terminology, and subtle linguistic features like sarcasm. To overcome these limitations, we propose a modular framework leveraging large language models (LLMs) enhanced by structured prompting techniques. Our method quantifies discrepancies between numerical ratings and textual sentiment, extracts detailed, feature-level insights, and supports interactive exploration of reviews through retrieval-augmented conversational question answering (RAG-QA). Comprehensive experiments conducted on three diverse datasets...

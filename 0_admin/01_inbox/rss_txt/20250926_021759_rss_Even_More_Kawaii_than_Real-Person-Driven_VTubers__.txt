@@ -1,0 +1,7 @@
+RSS Feed: cs.HC updates on arXiv.org
+Source: https://arxiv.org/rss/cs.HC
+Link: https://arxiv.org/abs/2509.20817
+
+Even More Kawaii than Real-Person-Driven VTubers? Understanding How Viewers Perceive AI-Driven VTubers
+
+arXiv:2509.20817v1 Announce Type: new Abstract: VTubers, digital personas represented by animated avatars, have gained massive popularity. Traditionally, VTubers are operated and voiced by human controllers known as Nakanohito. The reliance on Nakanohito, however, poses risks due to potential personal controversies and operational disruptions. The emergence of AI-driven VTubers offers a new model free from these human constraints. While AI-driven VTubers present benefits such as continuous operation and reduced scandal risk, they also raise questions about authenticity and audience engagement. Therefore, to gain deeper insights, we conduct a case study, investigating viewer perceptions of Neuro-sama, the most popular AI-driven VTuber with 845k followers on Twitch and 753k followers on YouTube. We analyze 108k Reddit posts and 136k YouTube comments, aiming to better understand viewer motivations, how AI constructs the virtual persona, and perceptions of the AI as Nakanohito. Our finding...

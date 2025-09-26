@@ -1,0 +1,7 @@
+RSS Feed: cs.AI updates on arXiv.org
+Source: https://arxiv.org/rss/cs.AI
+Link: https://arxiv.org/abs/2509.21310
+
+SAGE: A Realistic Benchmark for Semantic Understanding
+
+arXiv:2509.21310v1 Announce Type: new Abstract: As large language models (LLMs) achieve strong performance on traditional benchmarks, there is an urgent need for more challenging evaluation frameworks that probe deeper aspects of semantic understanding. We introduce SAGE (Semantic Alignment & Generalization Evaluation), a rigorous benchmark designed to assess both embedding models and similarity metrics across five categories: Human Preference Alignment, Transformation Robustness, Information Sensitivity, Clustering Performance, and Retrieval Robustness. Unlike existing benchmarks that focus on isolated capabilities, SAGE evaluates semantic understanding through adversarial conditions, noisy transformations, and nuanced human judgment tasks across 30+ datasets. Our comprehensive evaluation of 9 embedding models and classical metrics reveals significant performance gaps, with no single approach excelling across all dimensions. For instance, while state-of-the-art embedding models like O...

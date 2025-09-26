@@ -1,0 +1,7 @@
+RSS Feed: cs.AI updates on arXiv.org
+Source: https://arxiv.org/rss/cs.AI
+Link: https://arxiv.org/abs/2509.20513
+
+Reconstruction-Based Adaptive Scheduling Using AI Inferences in Safety-Critical Systems
+
+arXiv:2509.20513v1 Announce Type: new Abstract: Adaptive scheduling is crucial for ensuring the reliability and safety of time-triggered systems (TTS) in dynamic operational environments. Scheduling frameworks face significant challenges, including message collisions, locked loops from incorrect precedence handling, and the generation of incomplete or invalid schedules, which can compromise system safety and performance. To address these challenges, this paper presents a novel reconstruction framework designed to dynamically validate and assemble schedules. The proposed reconstruction models operate by systematically transforming AI-generated or heuristically derived scheduling priorities into fully executable schedules, ensuring adherence to critical system constraints such as precedence rules and collision-free communication. It incorporates robust safety checks, efficient allocation algorithms, and recovery mechanisms to handle unexpected context events, including hardware failures ...

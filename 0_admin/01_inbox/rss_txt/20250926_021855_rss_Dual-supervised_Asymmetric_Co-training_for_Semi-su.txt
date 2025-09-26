@@ -1,0 +1,7 @@
+RSS Feed: cs.CV updates on arXiv.org
+Source: https://arxiv.org/rss/cs.CV
+Link: https://arxiv.org/abs/2509.20785
+
+Dual-supervised Asymmetric Co-training for Semi-supervised Medical Domain Generalization
+
+arXiv:2509.20785v1 Announce Type: new Abstract: Semi-supervised domain generalization (SSDG) in medical image segmentation offers a promising solution for generalizing to unseen domains during testing, addressing domain shift challenges and minimizing annotation costs. However, conventional SSDG methods assume labeled and unlabeled data are available for each source domain in the training set, a condition that is not always met in practice. The coexistence of limited annotation and domain shift in the training set is a prevalent issue. Thus, this paper explores a more practical and challenging scenario, cross-domain semi-supervised domain generalization (CD-SSDG), where domain shifts occur between labeled and unlabeled training data, in addition to shifts between training and testing sets. Existing SSDG methods exhibit sub-optimal performance under such domain shifts because of inaccurate pseudolabels. To address this issue, we propose a novel dual-supervised asymmetric co-training (DA...

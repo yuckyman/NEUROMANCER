@@ -1,0 +1,7 @@
+RSS Feed: Frontiers in Neuroscience | New and Recent Articles
+Source: https://www.frontiersin.org/journals/neuroscience/rss
+Link: https://www.frontiersin.org/articles/10.3389/fnins.2025.1671495
+
+Probing the roles of developmentally active neurons, in early-life adversity induced disruptions of adult behaviors
+
+Early life adversity (ELA) is associated with subsequent mental health problems, and animal studies provide evidence for a causal role of ELA in the risk for mental illness, including persistent brain changes at molecular, cellular, network and functional levels. As enduring changes in cell function depend on orchestrated expression of genes, a robust body of research has focused on identifying the specific epigenetic and transcriptional programs through which ELA might induce brain changes. These studies have highlighted that the effects of ELA vary by brain region, cell-types and sex. Yet, while major advances were made in the past decade, the precise mechanisms through which ELA shapes the maturation and function of brain cells and their incorporation into circuits remain incompletely understood. Here, we discuss human and animal studies that focus on ELA-induced changes of the epigenome and transcriptome and explore recent technological advances that allow visualization and manipul...

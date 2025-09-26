@@ -1,0 +1,35 @@
+{
+  "content": "dude, pause fortnite and check this out:",
+  "embeds": [
+    {
+      "title": "\ud83d\udd25 [D] Self-Promotion Thread - Share your ML projects and research",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1n67lft/d_selfpromotion_thread/",
+      "color": 65280,
+      "fields": [
+        {
+          "name": "why this matters",
+          "value": "The subreddit r/MachineLearning is a broad forum, but the 'Self-Promotion Thread' format immediately suggests a space for sharing research and projects. Given Ian's strong interest in computational neuroscience and BCI research, coupled with his broader interest in machine learning and AI agents, this thread provides a potential venue to share work, seek collaborators, or discuss relevant advancements.",
+          "inline": false
+        },
+        {
+          "name": "relevance",
+          "value": "0.8/1.0",
+          "inline": true
+        },
+        {
+          "name": "source",
+          "value": "Hacker News \ud83d\udd25 HN is going wild about this",
+          "inline": true
+        },
+        {
+          "name": "hn score",
+          "value": "42 points, 15 comments",
+          "inline": true
+        }
+      ],
+      "footer": {
+        "text": "neuromancer \u2022 09-26 02:13"
+      }
+    }
+  ]
+}

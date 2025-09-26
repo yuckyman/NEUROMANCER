@@ -1,0 +1,7 @@
+RSS Feed: cs.AI updates on arXiv.org
+Source: https://arxiv.org/rss/cs.AI
+Link: https://arxiv.org/abs/2509.20382
+
+Lightweight MobileNetV1+GRU for ECG Biometric Authentication: Federated and Adversarial Evaluation
+
+arXiv:2509.20382v1 Announce Type: cross Abstract: ECG biometrics offer a unique, secure authentication method, yet their deployment on wearable devices faces real-time processing, privacy, and spoofing vulnerability challenges. This paper proposes a lightweight deep learning model (MobileNetV1+GRU) for ECG-based authentication, injection of 20dB Gaussian noise & custom preprocessing. We simulate wearable conditions and edge deployment using the ECGID, MIT-BIH, CYBHi, and PTB datasets, achieving accuracies of 99.34%, 99.31%, 91.74%, and 98.49%, F1-scores of 0.9869, 0.9923, 0.9125, and 0.9771, Precision of 0.9866, 0.9924, 0.9180 and 0.9845, Recall of 0.9878, 0.9923, 0.9129, and 0.9756, equal error rates (EER) of 0.0009, 0.00013, 0.0091, and 0.0009, and ROC-AUC values of 0.9999, 0.9999, 0.9985, and 0.9998, while under FGSM adversarial attacks, accuracy drops from 96.82% to as low as 0.80%. This paper highlights federated learning, adversarial testing, and the need for diverse wearable phy...

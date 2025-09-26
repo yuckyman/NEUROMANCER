@@ -1,0 +1,7 @@
+RSS Feed: PLOS Computational Biology
+Source: https://journals.plos.org/ploscompbiol/feed/atom
+Link: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013534
+
+Utargetome: A targetome prediction tool for modified U1-snRNAs to identify distal-target positions with improved selectivity
+
+by Paolo Pigini, Federico Manuel Giorgi, Keng Boon Wee The endogenous U1 small nuclear RNA (U1-snRNA) plays a crucial role in splicing initiation through base-pairing to donor splice sites (5′-SSs). Likewise, modified U1s that carry a mutation-adapted 5′-terminal sequence have been demonstrated to rescue exon splicing when this is disrupted by genetic mutations within the 5′-SS. Given the base-pairing flexibility of the endogenous U1, the selectivity of modified U1s requires investigation. We developed a computational pipeline (Utargetome) which considers combinations of mismatches and alternative annealing registers to predict the transcriptome-wide binding sites (or targetome) of a U1. The pipeline accuracy was tested by recapitulating well-established alternative annealing registers and specificity for 5′-SSs in the predicted targetome of the human endogenous U1. It was then applied to analyse the targetome of 54 modified U1s that have been demonstrated to restore exon inclusion whe...

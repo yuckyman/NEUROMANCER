@@ -1,0 +1,7 @@
+RSS Feed: cs.AI updates on arXiv.org
+Source: https://arxiv.org/rss/cs.AI
+Link: https://arxiv.org/abs/2509.20998
+
+CORE: Full-Path Evaluation of LLM Agents Beyond Final State
+
+arXiv:2509.20998v1 Announce Type: new Abstract: Evaluating AI agents that solve real-world tasks through function-call sequences remains an open challenge. Existing agentic benchmarks often reduce evaluation to a binary judgment of the final state, overlooking critical aspects such as safety, efficiency, and intermediate correctness. We propose a framework based on deterministic finite automata (DFAs) that encodes tasks as sets of valid tool-use paths, enabling principled assessment of agent behavior in diverse world models. Building on this foundation, we introduce CORE, a suite of five metrics, namely Path Correctness, Path Correctness - Kendall's tau Composite, Prefix Criticality, Harmful-Call Rate, and Efficiency, that quantify alignment with expected execution patterns. Across diverse worlds, our method reveals important performance differences between agents that would otherwise appear equivalent under traditional final-state evaluation schemes.

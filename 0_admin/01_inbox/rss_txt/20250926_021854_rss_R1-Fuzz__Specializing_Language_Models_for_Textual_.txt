@@ -1,0 +1,7 @@
+RSS Feed: cs.AI updates on arXiv.org
+Source: https://arxiv.org/rss/cs.AI
+Link: https://arxiv.org/abs/2509.20384
+
+R1-Fuzz: Specializing Language Models for Textual Fuzzing via Reinforcement Learning
+
+arXiv:2509.20384v1 Announce Type: cross Abstract: Fuzzing is effective for vulnerability discovery but struggles with complex targets such as compilers, interpreters, and database engines, which accept textual input that must satisfy intricate syntactic and semantic constraints. Although language models (LMs) have attracted interest for this task due to their vast latent knowledge and reasoning potential, their practical adoption has been limited. The major challenges stem from insufficient exploration of deep program logic among real-world codebases, and the high cost of leveraging larger models. To overcome these challenges, we propose R1-Fuzz, the first framework that leverages reinforcement learning (RL) to specialize cost-efficient LMs and integrate them for complex textual fuzzing input generation. R1-Fuzz introduces two key designs: coverage-slicing-based question construction and a distance-based reward calculation. Through RL-based post-training of a model with our constructed...

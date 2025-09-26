@@ -1,0 +1,19 @@
+{
+  "name": "sbp-mcp-server",
+  "version": "1.0.0",
+  "description": "SBP MCP Server for NEUROMANCER knowledge amplification",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "build": "echo 'No build step required'",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0",
+    "zod": "^3.22.0"
+  },
+  "keywords": ["mcp", "sbp", "neuromancer", "knowledge", "embeddings"],
+  "author": "NEUROMANCER",
+  "license": "MIT"
+}
+

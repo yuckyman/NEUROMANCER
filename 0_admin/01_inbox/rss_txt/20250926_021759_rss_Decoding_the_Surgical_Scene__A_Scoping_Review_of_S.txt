@@ -1,0 +1,7 @@
+RSS Feed: cs.CV updates on arXiv.org
+Source: https://arxiv.org/rss/cs.CV
+Link: https://arxiv.org/abs/2509.20941
+
+Decoding the Surgical Scene: A Scoping Review of Scene Graphs in Surgery
+
+arXiv:2509.20941v1 Announce Type: new Abstract: Scene graphs (SGs) provide structured relational representations crucial for decoding complex, dynamic surgical environments. This PRISMA-ScR-guided scoping review systematically maps the evolving landscape of SG research in surgery, charting its applications, methodological advancements, and future directions. Our analysis reveals rapid growth, yet uncovers a critical 'data divide': internal-view research (e.g., triplet recognition) almost exclusively uses real-world 2D video, while external-view 4D modeling relies heavily on simulated data, exposing a key translational research gap. Methodologically, the field has advanced from foundational graph neural networks to specialized foundation models that now significantly outperform generalist large vision-language models in surgical contexts. This progress has established SGs as a cornerstone technology for both analysis, such as workflow recognition and automated safety monitoring, and gen...

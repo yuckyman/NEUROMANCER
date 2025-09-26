@@ -1,0 +1,7 @@
+RSS Feed: cs.AI updates on arXiv.org
+Source: https://arxiv.org/rss/cs.AI
+Link: https://arxiv.org/abs/2509.20368
+
+LATTS: Locally Adaptive Test-Time Scaling
+
+arXiv:2509.20368v1 Announce Type: new Abstract: One common strategy for improving the performance of Large Language Models (LLMs) on downstream tasks involves using a \emph{verifier model} to either select the best answer from a pool of candidates or to steer the auto-regressive generation process towards better outputs. This class of methods typically results in improved accuracy at the cost of increased computation at test-time, a paradigm known as \emph{test-time scaling}. However, most existing approaches increase computation uniformly across all samples and generation steps, without considering the complexity of individual instances, leading to inefficient resource use. We address this limitation by proposing an approach, called \emph{Locally Adaptive Test-Time Scaling (LATTS)}, that allocates variable compute across generation steps. Specifically, at each generation step, LATTS employs a verifier-based acceptance criterion to decide whether to resample, backtrack, restart, or sto...

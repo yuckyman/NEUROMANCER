@@ -1,0 +1,7 @@
+RSS Feed: cs.CV updates on arXiv.org
+Source: https://arxiv.org/rss/cs.CV
+Link: https://arxiv.org/abs/2509.20905
+
+FSMODNet: A Closer Look at Few-Shot Detection in Multispectral Data
+
+arXiv:2509.20905v1 Announce Type: new Abstract: Few-shot multispectral object detection (FSMOD) addresses the challenge of detecting objects across visible and thermal modalities with minimal annotated data. In this paper, we explore this complex task and introduce a framework named "FSMODNet" that leverages cross-modality feature integration to improve detection performance even with limited labels. By effectively combining the unique strengths of visible and thermal imagery using deformable attention, the proposed method demonstrates robust adaptability in complex illumination and environmental conditions. Experimental results on two public datasets show effective object detection performance in challenging low-data regimes, outperforming several baselines we established from state-of-the-art models. All code, models, and experimental data splits can be found at https://anonymous.4open.science/r/Test-B48D.

@@ -1,0 +1,7 @@
+RSS Feed: cs.HC updates on arXiv.org
+Source: https://arxiv.org/rss/cs.HC
+Link: https://arxiv.org/abs/2509.20799
+
+AuthGlass: Enhancing Voice Authentication on Smart Glasses via Air-Bone Acoustic Features
+
+arXiv:2509.20799v1 Announce Type: new Abstract: With the rapid advancement of smart glasses, voice interaction has become widely deployed due to its naturalness and convenience. However, its practicality is often undermined by the vulnerability to spoofing attacks and interference from surrounding sounds, making seamless voice authentication crucial for smart glasses usage. To address this challenge, we propose AuthGlass, a voice authentication approach that leverages both air- and bone-conducted speech features to enhance accuracy and liveness detection. Aiming to gain comprehensive knowledge on speech-related acoustic and vibration features, we built a smart glasses prototype with redundant synchronized microphones: 14 air-conductive microphones and 2 bone-conductive units. In a study with 42 participants, we validated that combining sound-field and vibration features significantly improves authentication robustness and attack resistance. Furthermore, experiments demonstrated that Au...

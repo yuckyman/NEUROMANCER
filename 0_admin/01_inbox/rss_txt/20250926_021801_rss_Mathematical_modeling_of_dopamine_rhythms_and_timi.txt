@@ -1,0 +1,7 @@
+RSS Feed: PLOS Computational Biology
+Source: https://journals.plos.org/ploscompbiol/feed/atom
+Link: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013508
+
+Mathematical modeling of dopamine rhythms and timing of dopamine reuptake inhibitors
+
+by Tianyong Yao, Ruby Kim Dopamine (DA) plays a vital role in mood, alertness, and behavior, with dysregulation linked to disorders such as Parkinson’s disease, ADHD, depression, and addiction. In this study, we develop and analyze a reduced mathematical model of dopamine synthesis, release, and reuptake to investigate how daily rhythms influence dopamine dynamics and the efficacy of dopamine reuptake inhibitors (DRIs) used in the treatment of various neuropsychiatric conditions. We simplify a detailed mathematical model of dopamine synthesis, release, and reuptake and demonstrate that our reduced system maintains key dynamical features including homeostatic regulation via autoreceptors. Our model captures core autoregulatory mechanisms and reveals that DRIs can exert substantial time-of-day effects, allowing for dopamine levels to be sustained at elevated levels when administered at circadian troughs. These fluctuations depend sensitively on the timing of DRI administration relative t...

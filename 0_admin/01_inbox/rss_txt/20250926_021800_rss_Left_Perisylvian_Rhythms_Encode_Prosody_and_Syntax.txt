@@ -1,0 +1,7 @@
+RSS Feed: Journal of Neuroscience current issue
+Source: https://www.jneurosci.org/rss/current.xml
+Link: http://www.jneurosci.org/cgi/content/short/45/39/e2160242025?rss=1
+
+Left Perisylvian Rhythms Encode Prosody and Syntax during Delayed Sentence Repetition
+
+The human brain must add information to the acoustic speech signal in order to understand language. Many accounts propose that the prosodic structure of utterances (including their syllabic rhythm and speech melody), in combination with stored lexical knowledge, cue and interact with higher order abstract semantic and syntactic information. While cortical rhythms, particularly in the delta and theta band, synchronize to quasi-rhythmic low-level acoustic speech features, it remains unclear how the human brain encodes abstract speech properties in neural rhythms in the absence of an acoustic signal, i.e., when speakers hold planned sentences in working memory. This study disentangles the contributions of prosodic and syntactic features in cortical rhythms during delayed sentence repetition. Using high-resolution ECoG during awake tumor surgery in the left perisylvian cortex in nine patients (five female), we show that the phase of neural rhythms with frequencies ranging from 1 to 48&nbsp...

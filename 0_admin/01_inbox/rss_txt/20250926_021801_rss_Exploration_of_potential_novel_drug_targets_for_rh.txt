@@ -1,0 +1,7 @@
+RSS Feed: PLOS Computational Biology
+Source: https://journals.plos.org/ploscompbiol/feed/atom
+Link: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013333
+
+Exploration of potential novel drug targets for rheumatoid arthritis by plasma proteome screening
+
+by Zhiqiang Ma, Ran Chen, Zibo Feng Background Circulating proteins play a critical role in rheumatoid arthritis (RA), yet few have been targeted therapeutically. This study aimed to identify novel protein targets for RA therapy. Methods We conducted a comprehensive proteome-wide Mendelian Randomization (MR), colocalization analysis, and summary-data-based MR (SMR) to explore potential causal relationships between plasma proteins and RA, with an overall sample size of 1,148,608. The GWAS data on plasma proteins were obtained from the FinnGen study, the UK Biobank Pharma Proteomics Project and Iceland GWAS data. Then, validation of key molecules’ differential expression pattern was done using external transcriptomic data from RA patients, while the Drug Signatures Database (DsigDB) was used to identify potential therapeutic drugs. Drugs and target proteins interactions was evaluated with molecular docking and molecular dynamics simulations approaches. Potential side effects of plasma pr...

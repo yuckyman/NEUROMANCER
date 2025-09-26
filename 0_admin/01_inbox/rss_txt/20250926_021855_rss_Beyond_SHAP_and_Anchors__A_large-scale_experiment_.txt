@@ -1,0 +1,7 @@
+RSS Feed: cs.HC updates on arXiv.org
+Source: https://arxiv.org/rss/cs.HC
+Link: https://arxiv.org/abs/2503.15512
+
+Beyond SHAP and Anchors: A large-scale experiment on how developers struggle to design meaningful end-user explanations
+
+arXiv:2503.15512v3 Announce Type: replace Abstract: Modern machine learning produces models that are impossible for users or developers to fully understand -- raising concerns about trust, oversight, safety, and human dignity when they are integrated into software products. Transparency and explainability methods aim to provide some help in understanding models, but it remains challenging for developers to design explanations that are understandable to target users and effective for their purpose. Emerging guidelines and regulations set goals but may not provide effective actionable guidance to developers. In a large-scale experiment with 124 participants, we explored how developers approach providing end-user explanations, including what challenges they face, and to what extent specific policies can guide their actions. We investigated whether and how specific forms of policy guidance help developers design explanations and provide evidence for policy compliance for an ML-powered scre...

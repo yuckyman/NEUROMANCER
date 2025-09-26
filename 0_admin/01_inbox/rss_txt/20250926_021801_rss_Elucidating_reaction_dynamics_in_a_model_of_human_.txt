@@ -1,0 +1,7 @@
+RSS Feed: PLOS Computational Biology
+Source: https://journals.plos.org/ploscompbiol/feed/atom
+Link: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013504
+
+Elucidating reaction dynamics in a model of human brain energy metabolism
+
+by Dimitris G. Patsatzis, Efstathios-Al. Tingas, S. Mani Sarathy, Dimitris A. Goussis, Renaud Blaise Jolivet Energy metabolism is essential to brain function, but its study is experimentally challenging. Similarly, biologically accurate computational models are too complex for simple investigations. Here, we analyse an experimentally-calibrated multiscale model of human brain energy metabolism using Computational Singular Perturbation. This approach leads to the novel identification of functional periods during and after synaptic activation, and highlights the central reactions and metabolites controlling the system’s behaviour within those periods. We identify a key role for both oxidative and glycolytic astrocytic metabolism in driving the brain’s metabolic circuitry. We also identify phosphocreatine as the main endogenous energy supply to brain cells, and propose revising our view of brain energy metabolism accordingly. Our approach highlights the importance of glial cells in brain ...

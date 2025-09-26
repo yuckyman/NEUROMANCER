@@ -1,0 +1,7 @@
+RSS Feed: cs.CV updates on arXiv.org
+Source: https://arxiv.org/rss/cs.CV
+Link: https://arxiv.org/abs/2509.20524
+
+InstructVTON: Optimal Auto-Masking and Natural-Language-Guided Interactive Style Control for Inpainting-Based Virtual Try-On
+
+arXiv:2509.20524v1 Announce Type: new Abstract: We present InstructVTON, an instruction-following interactive virtual try-on system that allows fine-grained and complex styling control of the resulting generation, guided by natural language, on single or multiple garments. A computationally efficient and scalable formulation of virtual try-on formulates the problem as an image-guided or image-conditioned inpainting task. These inpainting-based virtual try-on models commonly use a binary mask to control the generation layout. Producing a mask that yields desirable result is difficult, requires background knowledge, might be model dependent, and in some cases impossible with the masking-based approach (e.g. trying on a long-sleeve shirt with "sleeves rolled up" styling on a person wearing long-sleeve shirt with sleeves down, where the mask will necessarily cover the entire sleeve). InstructVTON leverages Vision Language Models (VLMs) and image segmentation models for automated binary mas...

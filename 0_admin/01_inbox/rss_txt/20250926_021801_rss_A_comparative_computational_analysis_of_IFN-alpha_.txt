@@ -1,0 +1,7 @@
+RSS Feed: PLOS Computational Biology
+Source: https://journals.plos.org/ploscompbiol/feed/atom
+Link: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013509
+
+A comparative computational analysis of IFN-alpha pharmacokinetics and its induced cellular response in mice and humans
+
+by Priyata Kalra, Bastian Kister, Rebekka Fendt, Mario Köster, Julia Pulverer, Sven Sahle, Lars Kuepfer, Ursula Kummer Drug effects are difficult to investigate in detail in vivo. However, a mechanistic understanding of drug action is clearly beneficial for both pharmaceutical development as well as for optimization of treatment designs. We here established a quantitative systems pharmacology (QSP) mouse model which simultaneously describes whole-body pharmacokinetics of murine IFN-α as well as the cellular pharmacodynamic effect through the antiviral response biomarker Mx2. To this end, a dynamic model of intracellular IFN-α signalling in the JAK/STAT pathway was combined with a whole-body physiologically-based pharmacokinetic model of IFN-α in mice. The pharmacodynamic behaviour of the resulting mouse IFN-α QSP model was first compared to a cellular model of the JAK/STAT pathway to compare in vitro and in vivo drug effects and to identify functional differences. It was found that the...

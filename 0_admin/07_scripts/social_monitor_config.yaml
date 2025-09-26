@@ -1,0 +1,84 @@
+# NEUROMANCER Social Media Monitor Configuration
+
+# Social Media Sources to Monitor
+monitoring:
+  hacker_news:
+    enabled: true
+    api_url: "https://hn.algolia.com/api/v1/search_by_date"
+    query: "computational neuroscience OR brain imaging OR EEG OR BCI OR machine learning OR AI agents OR local AI OR privacy OR self-hosted"
+    min_score: 10
+    check_interval: 300  # 5 minutes
+
+  reddit:
+    enabled: true
+    subreddits:
+      - "MachineLearning"
+      - "computational_neuroscience"
+      - "BCI"
+      - "neurotech"
+      - "artificial"
+      - "LocalLLaMA"
+      - "selfhosted"
+      - "privacy"
+      - "obsidianmd"
+      - "PKMS"
+    min_score: 5
+    check_interval: 600  # 10 minutes
+
+  github_trending:
+    enabled: true
+    languages: ["python", "javascript", "go", "rust", "typescript"]
+    check_interval: 1800  # 30 minutes
+
+# Alert Configuration
+alerting:
+  discord_webhook: ""  # Set via DISCORD_WEBHOOK_URL environment variable
+  min_relevance_score: 0.8  # Only alert for items above this relevance score (harsher)
+  max_alerts_per_hour: 10    # Rate limiting (increased for testing)
+  cooldown_minutes: 0        # Minimum time between alerts (demo)
+  summary_max_words: 100     # Cap the AI-generated summary length
+  max_alerts_per_run: 2      # Cap alerts per execution (demo)
+
+# Bias Detection and Neutrality
+bias_detection:
+  enabled: true
+  check_sentiment: true
+  neutralize_language: true
+  fact_check_claims: true
+
+# AI Model Configuration
+ai:
+  model: "gemma3:4b"
+  temperature: 0.3
+  max_tokens: 200
+
+# Ian's Interest Profile (for relevance scoring)
+interests:
+  primary:
+    - "computational neuroscience"
+    - "BCI research"
+    - "EEG analysis"
+    - "brain imaging"
+    - "motor imagery"
+  
+  secondary:
+    - "local-first AI"
+    - "privacy-preserving systems"
+    - "self-hosted tools"
+    - "data ownership"
+    - "research-to-practice"
+  
+  technical:
+    - "machine learning"
+    - "AI agents"
+    - "reasoning chains"
+    - "multimodal systems"
+    - "knowledge management"
+    - "PKM systems"
+  
+  domains:
+    - "neurotech"
+    - "medical AI"
+    - "privacy tools"
+    - "open source"
+    - "academic research"

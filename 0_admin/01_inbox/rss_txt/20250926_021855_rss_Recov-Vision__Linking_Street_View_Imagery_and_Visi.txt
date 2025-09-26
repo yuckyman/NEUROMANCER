@@ -1,0 +1,7 @@
+RSS Feed: cs.CV updates on arXiv.org
+Source: https://arxiv.org/rss/cs.CV
+Link: https://arxiv.org/abs/2509.20628
+
+Recov-Vision: Linking Street View Imagery and Vision-Language Models for Post-Disaster Recovery
+
+arXiv:2509.20628v1 Announce Type: new Abstract: Building-level occupancy after disasters is vital for triage, inspections, utility re-energization, and equitable resource allocation. Overhead imagery provides rapid coverage but often misses facade and access cues that determine habitability, while street-view imagery captures those details but is sparse and difficult to align with parcels. We present FacadeTrack, a street-level, language-guided framework that links panoramic video to parcels, rectifies views to facades, and elicits interpretable attributes (for example, entry blockage, temporary coverings, localized debris) that drive two decision strategies: a transparent one-stage rule and a two-stage design that separates perception from conservative reasoning. Evaluated across two post-Hurricane Helene surveys, the two-stage approach achieves a precision of 0.927, a recall of 0.781, and an F-1 score of 0.848, compared with the one-stage baseline at a precision of 0.943, a recall of...

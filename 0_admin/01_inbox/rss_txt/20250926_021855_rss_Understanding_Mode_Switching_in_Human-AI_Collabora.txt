@@ -1,0 +1,7 @@
+RSS Feed: cs.HC updates on arXiv.org
+Source: https://arxiv.org/rss/cs.HC
+Link: https://arxiv.org/abs/2509.20666
+
+Understanding Mode Switching in Human-AI Collaboration: Behavioral Insights and Predictive Modeling
+
+arXiv:2509.20666v1 Announce Type: new Abstract: Human-AI collaboration is typically offered in one of two of user control levels: guidance, where the AI provides suggestions and the human makes the final decision, and delegation, where the AI acts autonomously within user-defined constraints. Systems that integrate both modes, common in robotic surgery or driving assistance, often overlook shifts in user preferences within a task in response to factors like evolving trust, decision complexity, and perceived control. In this work, we investigate how users dynamically switch between higher and lower levels of control during a sequential decision-making task. Using a hand-and-brain chess setup, participants either selected a piece and the AI decided how it moved (brain mode), or the AI selected a piece and the participant decided how it moved (hand mode). We collected over 400 mode-switching decisions from eight participants, along with gaze, emotional state, and subtask difficulty data. ...

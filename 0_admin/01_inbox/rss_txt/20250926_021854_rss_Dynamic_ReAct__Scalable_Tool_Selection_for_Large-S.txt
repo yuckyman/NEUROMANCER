@@ -1,0 +1,7 @@
+RSS Feed: cs.AI updates on arXiv.org
+Source: https://arxiv.org/rss/cs.AI
+Link: https://arxiv.org/abs/2509.20386
+
+Dynamic ReAct: Scalable Tool Selection for Large-Scale MCP Environments
+
+arXiv:2509.20386v1 Announce Type: cross Abstract: We present Dynamic ReAct, a novel approach for enabling ReAct agents to ef- ficiently operate with extensive Model Control Protocol (MCP) tool sets that exceed the contextual memory limitations of large language models. Our approach addresses the fundamental challenge of tool selection in environments containing hundreds or thousands of available tools, where loading all tools simultaneously is computationally infeasible. We propose and evaluate five distinct architectures that progressively refine the tool selection process, culminating in a search-and-load mechanism that achieves intelligent tool selection with minimal computational overhead. Our experimental results demonstrate that the proposed approach reduces tool loading by up to 50% while maintaining task completion accuracy, advancing the path towards truly general-purpose AI agents capable of dynamically adapting to diverse task environments.

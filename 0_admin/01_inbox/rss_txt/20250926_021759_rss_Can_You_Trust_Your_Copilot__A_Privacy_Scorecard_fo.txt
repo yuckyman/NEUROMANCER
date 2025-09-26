@@ -1,0 +1,7 @@
+RSS Feed: cs.AI updates on arXiv.org
+Source: https://arxiv.org/rss/cs.AI
+Link: https://arxiv.org/abs/2509.20388
+
+Can You Trust Your Copilot? A Privacy Scorecard for AI Coding Assistants
+
+arXiv:2509.20388v1 Announce Type: cross Abstract: The rapid integration of AI-powered coding assistants into developer workflows has raised significant privacy and trust concerns. As developers entrust proprietary code to services like OpenAI's GPT, Google's Gemini, and GitHub Copilot, the unclear data handling practices of these tools create security and compliance risks. This paper addresses this challenge by introducing and applying a novel, expert-validated privacy scorecard. The methodology involves a detailed analysis of four document types; from legal policies to external audits; to score five leading assistants against 14 weighted criteria. A legal expert and a data protection officer refined these criteria and their weighting. The results reveal a distinct hierarchy of privacy protections, with a 20-point gap between the highest- and lowest-ranked tools. The analysis uncovers common industry weaknesses, including the pervasive use of opt-out consent for model training and a ne...

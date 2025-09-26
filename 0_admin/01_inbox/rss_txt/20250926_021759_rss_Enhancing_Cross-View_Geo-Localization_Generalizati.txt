@@ -1,0 +1,7 @@
+RSS Feed: cs.CV updates on arXiv.org
+Source: https://arxiv.org/rss/cs.CV
+Link: https://arxiv.org/abs/2509.20684
+
+Enhancing Cross-View Geo-Localization Generalization via Global-Local Consistency and Geometric Equivariance
+
+arXiv:2509.20684v1 Announce Type: new Abstract: Cross-view geo-localization (CVGL) aims to match images of the same location captured from drastically different viewpoints. Despite recent progress, existing methods still face two key challenges: (1) achieving robustness under severe appearance variations induced by diverse UAV orientations and fields of view, which hinders cross-domain generalization, and (2) establishing reliable correspondences that capture both global scene-level semantics and fine-grained local details. In this paper, we propose EGS, a novel CVGL framework designed to enhance cross-domain generalization. Specifically, we introduce an E(2)-Steerable CNN encoder to extract stable and reliable features under rotation and viewpoint shifts. Furthermore, we construct a graph with a virtual super-node that connects to all local nodes, enabling global semantics to be aggregated and redistributed to local regions, thereby enforcing global-local consistency. Extensive experi...

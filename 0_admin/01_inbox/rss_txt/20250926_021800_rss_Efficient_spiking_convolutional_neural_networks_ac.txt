@@ -1,0 +1,7 @@
+RSS Feed: Frontiers in Neuroscience | New and Recent Articles
+Source: https://www.frontiersin.org/journals/neuroscience/rss
+Link: https://www.frontiersin.org/articles/10.3389/fnins.2025.1662886
+
+Efficient spiking convolutional neural networks accelerator with multi-structure compatibility
+
+Spiking Neural Networks (SNNs) possess excellent computational energy efficiency and biological credibility. Among them, Spiking Convolutional Neural Networks (SCNNs) have significantly improved performance, demonstrating promising applications in low-power and brain-like computing. To achieve hardware acceleration for SCNNs, we propose an efficient FPGA accelerator architecture with multi-structure compatibility. This architecture supports both traditional convolutional and residual topologies, and can be adapted to diverse requirements from small networks to complex networks. This architecture uses a clock-driven scheme to perform convolution and neuron updates based on the spike-encoded image at each timestep. Through hierarchical pipelining and channel parallelization strategies, the computation speed of SCNNs is increased. To address the issue of current accelerators only supporting simple network, this architecture combines configuration and scheduling methods, including grouped ...

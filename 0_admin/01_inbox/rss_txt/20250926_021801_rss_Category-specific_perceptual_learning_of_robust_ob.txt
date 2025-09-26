@@ -1,0 +1,7 @@
+RSS Feed: PLOS Computational Biology
+Source: https://journals.plos.org/ploscompbiol/feed/atom
+Link: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013529
+
+Category-specific perceptual learning of robust object recognition modelled using deep neural networks
+
+by Hojin Jang, Frank Tong Object recognition in real-world environments requires dealing with considerable ambiguity, yet the human visual system is highly robust to noisy viewing conditions. Here, we investigated the role of perceptual learning in the acquisition of robustness in both humans and deep neural networks (DNNs). Specifically, we sought to determine whether perceptual training with object images in Gaussian noise, drawn from certain animate or inanimate categories, would lead to category-specific or category-general improvements in human robustness. Moreover, might DNNs provide viable models of human perceptual learning? Both before and after training, we evaluated the noise threshold required for accurate recognition using novel object images. Human observers were quite robust to noise before training, but showed additional category-specific improvement after training with only a few hundred noisy object examples. In comparison, standard DNNs initially lacked robustness, t...

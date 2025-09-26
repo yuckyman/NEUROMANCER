@@ -1,0 +1,7 @@
+RSS Feed: cs.AI updates on arXiv.org
+Source: https://arxiv.org/rss/cs.AI
+Link: https://arxiv.org/abs/2509.21291
+
+VC-Agent: An Interactive Agent for Customized Video Dataset Collection
+
+arXiv:2509.21291v1 Announce Type: new Abstract: Facing scaling laws, video data from the internet becomes increasingly important. However, collecting extensive videos that meet specific needs is extremely labor-intensive and time-consuming. In this work, we study the way to expedite this collection process and propose VC-Agent, the first interactive agent that is able to understand users' queries and feedback, and accordingly retrieve/scale up relevant video clips with minimal user input. Specifically, considering the user interface, our agent defines various user-friendly ways for the user to specify requirements based on textual descriptions and confirmations. As for agent functions, we leverage existing multi-modal large language models to connect the user's requirements with the video content. More importantly, we propose two novel filtering policies that can be updated when user interaction is continually performed. Finally, we provide a new benchmark for personalized video datase...

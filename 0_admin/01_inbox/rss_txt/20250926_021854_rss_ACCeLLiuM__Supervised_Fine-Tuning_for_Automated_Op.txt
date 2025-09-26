@@ -1,0 +1,7 @@
+RSS Feed: cs.AI updates on arXiv.org
+Source: https://arxiv.org/rss/cs.AI
+Link: https://arxiv.org/abs/2509.20380
+
+ACCeLLiuM: Supervised Fine-Tuning for Automated OpenACC Pragma Generation
+
+arXiv:2509.20380v1 Announce Type: cross Abstract: The increasing ubiquity of GPUs is accompanied by the increasing complexity of their hardware and parallel programming frameworks. Directive-based parallel programming standards like OpenACC simplify GPU programming to some extent by abstracting away low-level complexities, but a fair amount of expertise is still required in order to use those directives effectively. We introduce ACCeLLiuM, two open weights Large Language Models specifically fine-tuned for generating expert OpenACC directives for data-parallel loops, along with the supervised fine-tuning dataset that was used to train them. The ACCeLLiuM SFT dataset contains 4,033 OpenACC pragma-loop pairs mined from public GitHub C/C++ repositories, with 3,223 pairs for training and 810 for testing. Experimental evaluations show a pronounced performance gap in generating correct OpenACC pragmas between base LLMs and our fine-tuned versions. On the held-out test set, base LLMs fail to c...

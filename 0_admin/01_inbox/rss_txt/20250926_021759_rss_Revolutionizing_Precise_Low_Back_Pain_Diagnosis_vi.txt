@@ -1,0 +1,7 @@
+RSS Feed: cs.CV updates on arXiv.org
+Source: https://arxiv.org/rss/cs.CV
+Link: https://arxiv.org/abs/2509.20813
+
+Revolutionizing Precise Low Back Pain Diagnosis via Contrastive Learning
+
+arXiv:2509.20813v1 Announce Type: new Abstract: Low back pain affects millions worldwide, driving the need for robust diagnostic models that can jointly analyze complex medical images and accompanying text reports. We present LumbarCLIP, a novel multimodal framework that leverages contrastive language-image pretraining to align lumbar spine MRI scans with corresponding radiological descriptions. Built upon a curated dataset containing axial MRI views paired with expert-written reports, LumbarCLIP integrates vision encoders (ResNet-50, Vision Transformer, Swin Transformer) with a BERT-based text encoder to extract dense representations. These are projected into a shared embedding space via learnable projection heads, configurable as linear or non-linear, and normalized to facilitate stable contrastive training using a soft CLIP loss. Our model achieves state-of-the-art performance on downstream classification, reaching up to 95.00% accuracy and 94.75% F1-score on the test set, despite i...

@@ -1,0 +1,7 @@
+RSS Feed: cs.CV updates on arXiv.org
+Source: https://arxiv.org/rss/cs.CV
+Link: https://arxiv.org/abs/2509.20856
+
+Plant identification based on noisy web data: the amazing performance of deep learning (LifeCLEF 2017)
+
+arXiv:2509.20856v1 Announce Type: new Abstract: The 2017-th edition of the LifeCLEF plant identification challenge is an important milestone towards automated plant identification systems working at the scale of continental floras with 10.000 plant species living mainly in Europe and North America illustrated by a total of 1.1M images. Nowadays, such ambitious systems are enabled thanks to the conjunction of the dazzling recent progress in image classification with deep learning and several outstanding international initiatives, such as the Encyclopedia of Life (EOL), aggregating the visual knowledge on plant species coming from the main national botany institutes. However, despite all these efforts the majority of the plant species still remain without pictures or are poorly illustrated. Outside the institutional channels, a much larger number of plant pictures are available and spread on the web through botanist blogs, plant lovers web-pages, image hosting websites and on-line plant ...

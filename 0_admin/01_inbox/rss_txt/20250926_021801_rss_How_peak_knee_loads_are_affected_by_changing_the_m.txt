@@ -1,0 +1,7 @@
+RSS Feed: PLOS Computational Biology
+Source: https://journals.plos.org/ploscompbiol/feed/atom
+Link: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012833
+
+How peak knee loads are affected by changing the mass of lower-limb body segments during walking
+
+by Delaney E. Miller, Ashley E. Brown, Nicholas A. Bianco, Rucha Bhise, Scott L. Delp, Steven H. Collins For individuals with knee osteoarthritis, increased knee loading is linked to disease progression and pain. Some approaches to treating osteoarthritis, such as specialized footwear, braces, and powered exoskeletons, also increase the mass of the lower limbs, which could lead to increases in knee loads. Prior studies have investigated the effect of changes in torso mass and total body mass on peak knee contact forces, but the effects of increased leg mass remain unclear. In this study, we created musculoskeletal simulations informed by experimental data to estimate tibiofemoral knee contact force under different lower-limb segment mass conditions. The mass of the foot, shank, and thigh were varied by adding weights to each segment, separately and concurrently, as healthy young adults (N = 10) walked on a treadmill. Kinematics, kinetics, and muscle activity were recorded. Our simulati...

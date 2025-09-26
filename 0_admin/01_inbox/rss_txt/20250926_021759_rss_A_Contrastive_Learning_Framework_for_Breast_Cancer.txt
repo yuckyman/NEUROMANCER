@@ -1,0 +1,7 @@
+RSS Feed: cs.CV updates on arXiv.org
+Source: https://arxiv.org/rss/cs.CV
+Link: https://arxiv.org/abs/2509.20474
+
+A Contrastive Learning Framework for Breast Cancer Detection
+
+arXiv:2509.20474v1 Announce Type: new Abstract: Breast cancer, the second leading cause of cancer-related deaths globally, accounts for a quarter of all cancer cases [1]. To lower this death rate, it is crucial to detect tumors early, as early-stage detection significantly improves treatment outcomes. Advances in non-invasive imaging techniques have made early detection possible through computer-aided detection (CAD) systems which rely on traditional image analysis to identify malignancies. However, there is a growing shift towards deep learning methods due to their superior effectiveness. Despite their potential, deep learning methods often struggle with accuracy due to the limited availability of large-labeled datasets for training. To address this issue, our study introduces a Contrastive Learning (CL) framework, which excels with smaller labeled datasets. In this regard, we train Resnet-50 in semi supervised CL approach using similarity index on a large amount of unlabeled mammogra...

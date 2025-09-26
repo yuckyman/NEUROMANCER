@@ -1,0 +1,7 @@
+RSS Feed: Journal of Neuroscience current issue
+Source: https://www.jneurosci.org/rss/current.xml
+Link: http://www.jneurosci.org/cgi/content/short/45/39/e0805252025?rss=1
+
+Strengthening Medial Olivocochlear Feedback Reduces the Developmental Impact of Early Noise Exposure
+
+The early onset of peripheral deafness significantly alters the proper development of the auditory system. Likewise, exposure to loud noise during early development produces a similar disruptive effect. Before hearing onset in altricial mammals, cochlear inner hair cells (IHCs) exhibit spontaneous electrical activity that drives auditory circuit development. This activity is modulated by medial olivocochlear (MOC) efferent feedback through &alpha;9&alpha;10 nicotinic cholinergic receptors in IHCs. In adults, these receptors are restricted to outer hair cells, where they mediate MOC feedback to regulate cochlear amplification. Although the MOC system's protective role to prevent noise-induced hearing loss in adulthood is well established, its influence during early developmental stages&mdash;especially in response to exposure to loud noise&mdash;remains largely unexplored. In this study, we investigated the role of MOC feedback during early postnatal development using &alpha;9 knock-out...

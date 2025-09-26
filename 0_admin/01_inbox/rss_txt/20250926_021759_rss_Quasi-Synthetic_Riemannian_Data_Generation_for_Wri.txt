@@ -1,0 +1,7 @@
+RSS Feed: cs.CV updates on arXiv.org
+Source: https://arxiv.org/rss/cs.CV
+Link: https://arxiv.org/abs/2509.20420
+
+Quasi-Synthetic Riemannian Data Generation for Writer-Independent Offline Signature Verification
+
+arXiv:2509.20420v1 Announce Type: new Abstract: Offline handwritten signature verification remains a challenging task, particularly in writer-independent settings where models must generalize across unseen individuals. Recent developments have highlighted the advantage of geometrically inspired representations, such as covariance descriptors on Riemannian manifolds. However, past or present, handcrafted or data-driven methods usually depend on real-world signature datasets for classifier training. We introduce a quasi-synthetic data generation framework leveraging the Riemannian geometry of Symmetric Positive Definite matrices (SPD). A small set of genuine samples in the SPD space is the seed to a Riemannian Gaussian Mixture which identifies Riemannian centers as synthetic writers and variances as their properties. Riemannian Gaussian sampling on each center generates positive as well as negative synthetic SPD populations. A metric learning framework utilizes pairs of similar and dissi...

@@ -1,0 +1,7 @@
+RSS Feed: cs.AI updates on arXiv.org
+Source: https://arxiv.org/rss/cs.AI
+Link: https://arxiv.org/abs/2509.20652
+
+Accelerate Creation of Product Claims Using Generative AI
+
+arXiv:2509.20652v1 Announce Type: new Abstract: The benefit claims of a product is a critical driver of consumers' purchase behavior. Creating product claims is an intense task that requires substantial time and funding. We have developed the $\textbf{Claim Advisor}$ web application to accelerate claim creations using in-context learning and fine-tuning of large language models (LLM). $\textbf{Claim Advisor}$ was designed to disrupt the speed and economics of claim search, generation, optimization, and simulation. It has three functions: (1) semantically searching and identifying existing claims and/or visuals that resonate with the voice of consumers; (2) generating and/or optimizing claims based on a product description and a consumer profile; and (3) ranking generated and/or manually created claims using simulations via synthetic consumers. Applications in a consumer packaged goods (CPG) company have shown very promising results. We believe that this capability is broadly useful and...

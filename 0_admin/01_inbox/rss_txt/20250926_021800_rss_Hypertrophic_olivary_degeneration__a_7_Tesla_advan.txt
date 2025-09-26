@@ -1,0 +1,7 @@
+RSS Feed: Frontiers in Neuroscience | New and Recent Articles
+Source: https://www.frontiersin.org/journals/neuroscience/rss
+Link: https://www.frontiersin.org/articles/10.3389/fnins.2025.1656655
+
+Hypertrophic olivary degeneration: a 7 Tesla advanced imaging case report
+
+Background and objectivesA 50-year-old patient developed ataxia, nystagmus, and palatal tremor. Conventional magnetic resonance imaging (MRI) revealed inferior olivary nuclei enlargement and hyperintensity in T2-weighted images, indicating hypertrophic olivary degeneration (HOD). The patient’s past medical history reported proton therapy for an VIII cranial nerve Schwannoma. Here, we aimed to investigate the potential alterations involving tracts and nuclei composing the dentato-rubro-olivary pathway (Guillain-Mollaret triangle) using an advanced ultra-high field (7 T) MRI protocol.Materials and methodsThe patient underwent a 7 T-MRI brain exam, including a multi-echo gradient-echo sequence for quantitative susceptibility mapping and diffusion tensor imaging (DTI). The DTI dataset was elaborated for tractography and computation of tensor metrics.Results7 T-MRI allowed the depiction of the brainstem tracts and nuclei composing the Guillain-Mollaret triangle. Both qualitative and quantit...

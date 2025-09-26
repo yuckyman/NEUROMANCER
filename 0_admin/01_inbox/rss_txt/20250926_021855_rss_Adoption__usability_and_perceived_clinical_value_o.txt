@@ -1,0 +1,7 @@
+RSS Feed: cs.HC updates on arXiv.org
+Source: https://arxiv.org/rss/cs.HC
+Link: https://arxiv.org/abs/2509.21188
+
+Adoption, usability and perceived clinical value of a UK AI clinical reference platform (iatroX): a mixed-methods formative evaluation of real-world usage and a 1,223-respondent user survey
+
+arXiv:2509.21188v1 Announce Type: new Abstract: Clinicians face growing information overload from biomedical literature and guidelines, hindering evidence-based care. Retrieval-augmented generation (RAG) with large language models may provide fast, provenance-linked answers, but requires real-world evaluation. We describe iatroX, a UK-centred RAG-based clinical reference platform, and report early adoption, usability, and perceived clinical value from a formative implementation evaluation. Methods comprised a retrospective analysis of usage across web, iOS, and Android over 16 weeks (8 April-31 July 2025) and an in-product intercept survey. Usage metrics were drawn from web and app analytics with bot filtering. A client-side script randomized single-item prompts to approx. 10% of web sessions from a predefined battery assessing usefulness, reliability, and adoption intent. Proportions were summarized with Wilson 95% confidence intervals; free-text comments underwent thematic content an...

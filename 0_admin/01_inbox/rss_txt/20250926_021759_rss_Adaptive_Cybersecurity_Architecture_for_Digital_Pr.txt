@@ -1,0 +1,7 @@
+RSS Feed: cs.AI updates on arXiv.org
+Source: https://arxiv.org/rss/cs.AI
+Link: https://arxiv.org/abs/2509.20640
+
+Adaptive Cybersecurity Architecture for Digital Product Ecosystems Using Agentic AI
+
+arXiv:2509.20640v1 Announce Type: new Abstract: Traditional static cybersecurity models often struggle with scalability, real-time detection, and contextual responsiveness in the current digital product ecosystems which include cloud services, application programming interfaces (APIs), mobile platforms, and edge devices. This study introduces autonomous goal driven agents capable of dynamic learning and context-aware decision making as part of an adaptive cybersecurity architecture driven by agentic artificial intelligence (AI). To facilitate autonomous threat mitigation, proactive policy enforcement, and real-time anomaly detection, this framework integrates agentic AI across the key ecosystem layers. Behavioral baselining, decentralized risk scoring, and federated threat intelligence sharing are important features. The capacity of the system to identify zero-day attacks and dynamically modify access policies was demonstrated through native cloud simulations. The evaluation results sh...

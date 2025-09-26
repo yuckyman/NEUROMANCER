@@ -1,0 +1,7 @@
+RSS Feed: cs.CV updates on arXiv.org
+Source: https://arxiv.org/rss/cs.CV
+Link: https://arxiv.org/abs/2509.20580
+
+A Comparative Benchmark of Real-time Detectors for Blueberry Detection towards Precision Orchard Management
+
+arXiv:2509.20580v1 Announce Type: new Abstract: Blueberry detection in natural environments remains challenging due to variable lighting, occlusions, and motion blur due to environmental factors and imaging devices. Deep learning-based object detectors promise to address these challenges, but they demand a large-scale, diverse dataset that captures the real-world complexities. Moreover, deploying these models in practical scenarios often requires the right accuracy/speed/memory trade-off in model selection. This study presents a novel comparative benchmark analysis of advanced real-time object detectors, including YOLO (You Only Look Once) (v8-v12) and RT-DETR (Real-Time Detection Transformers) (v1-v2) families, consisting of 36 model variants, evaluated on a newly curated dataset for blueberry detection. This dataset comprises 661 canopy images collected with smartphones during the 2022-2023 seasons, consisting of 85,879 labelled instances (including 36,256 ripe and 49,623 unripe blue...

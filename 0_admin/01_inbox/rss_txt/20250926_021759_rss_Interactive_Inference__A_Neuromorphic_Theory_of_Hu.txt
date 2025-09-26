@@ -1,0 +1,7 @@
+RSS Feed: cs.HC updates on arXiv.org
+Source: https://arxiv.org/rss/cs.HC
+Link: https://arxiv.org/abs/2502.05935
+
+Interactive Inference: A Neuromorphic Theory of Human-Computer Interaction
+
+arXiv:2502.05935v5 Announce Type: replace Abstract: Neuromorphic Human-Computer Interaction (HCI) is a theoretical approach to designing better user experiences (UX) motivated by advances in the understanding of the neurophysiology of the brain. Inspired by the neuroscientific theory of Active Inference, Interactive Inference is a first example of such approach. It offers a simplified interpretation of Active Inference that allows designers to more readily apply this theory to design and evaluation. In Interactive Inference, user behaviour is modeled as Bayesian inference on progress and goal distributions that predicts the next action. We show how the error between goal and progress distributions, or Bayesian surprise, can be modeled as a simple mean square error of the signal-to-noise ratio (SNR) of a task. The problem is that the user's capacity to process Bayesian surprise follows the logarithm of this SNR. This means errors rise quickly once average capacity is exceeded. Our model...

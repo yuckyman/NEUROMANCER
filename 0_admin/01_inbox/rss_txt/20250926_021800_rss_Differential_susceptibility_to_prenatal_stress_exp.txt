@@ -1,0 +1,7 @@
+RSS Feed: Frontiers in Neuroscience | New and Recent Articles
+Source: https://www.frontiersin.org/journals/neuroscience/rss
+Link: https://www.frontiersin.org/articles/10.3389/fnins.2025.1633386
+
+Differential susceptibility to prenatal stress exposure in serotonin transporter-deficient female mice—an epigenetic exploration
+
+IntroductionEarly-life stress exposure has been linked to an increased risk for the onset of mental disorders. As another factor, an individual’s genetic make-up may also tip the scale towards health or disease, with certain genetic variants mediating differential susceptibility towards the effects of early-life stress or other experiences. The current study investigated the molecular foundation of individual variation in the response to prenatal stress (PS) exposure in wildtype mice as well as in mice deficient for the serotonin (5-hydroxytryptamine, 5-HT) transporter (5-HTT).MethodsTo meet this end, wildtype C57BL6/J dams were mated with 5-Htt+/- C57BL6/J males, after which they were exposed to restraint stress during the last part of gestation. In adulthood, female 5-HTT-deficient PS offspring and their wildtype littermates as well as age-matched control groups completed a behavioural test-battery, after which gene expression and histone 3 lysine 4 tri-methylation (H3K4me3) enrichme...

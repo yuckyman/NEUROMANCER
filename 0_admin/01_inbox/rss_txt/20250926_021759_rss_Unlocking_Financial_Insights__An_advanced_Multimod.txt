@@ -1,0 +1,7 @@
+RSS Feed: cs.CV updates on arXiv.org
+Source: https://arxiv.org/rss/cs.CV
+Link: https://arxiv.org/abs/2509.20961
+
+Unlocking Financial Insights: An advanced Multimodal Summarization with Multimodal Output Framework for Financial Advisory Videos
+
+arXiv:2509.20961v1 Announce Type: new Abstract: The dynamic propagation of social media has broadened the reach of financial advisory content through podcast videos, yet extracting insights from lengthy, multimodal segments (30-40 minutes) remains challenging. We introduce FASTER (Financial Advisory Summariser with Textual Embedded Relevant images), a modular framework that tackles three key challenges: (1) extracting modality-specific features, (2) producing optimized, concise summaries, and (3) aligning visual keyframes with associated textual points. FASTER employs BLIP for semantic visual descriptions, OCR for textual patterns, and Whisper-based transcription with Speaker diarization as BOS features. A modified Direct Preference Optimization (DPO)-based loss function, equipped with BOS-specific fact-checking, ensures precision, relevance, and factual consistency against the human-aligned summary. A ranker-based retrieval mechanism further aligns keyframes with summarized content, e...

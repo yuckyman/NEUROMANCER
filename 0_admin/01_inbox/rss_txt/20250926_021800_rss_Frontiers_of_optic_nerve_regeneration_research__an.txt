@@ -1,0 +1,7 @@
+RSS Feed: Frontiers in Neuroscience | New and Recent Articles
+Source: https://www.frontiersin.org/journals/neuroscience/rss
+Link: https://www.frontiersin.org/articles/10.3389/fnins.2025.1634999
+
+Frontiers of optic nerve regeneration research: an analysis of the top 100 most influential articles in the field from 2005 to 2025
+
+ObjectivesIn this study, we evaluated the key features of the 100 most-cited publications on optic nerve regeneration from 2005 to 2025 employing bibliometric and visual analysis.MethodsThe data for this study were obtained from a comprehensive search across multiple databases, including the Web of Science, Scopus, and Dimensions. We identified the top 100 most-cited articles published in each database from 2005 to 2025, merged and deduplicated the results, and selected the 100 most-cited papers on optic nerve regeneration. After extracting key details such as titles, authors, keywords, publication information, and institutional affiliations, a bibliometric analysis was conducted.ResultsThe top 100 most cited papers on optic nerve regeneration published between 2005 and 2025, accumulating 34,636 total citations with a median of 346 citations per paper. Prof. Zhigang He emerged as the most prolific author with 19 publications. The United States contributed 59 papers, while Harvard Unive...

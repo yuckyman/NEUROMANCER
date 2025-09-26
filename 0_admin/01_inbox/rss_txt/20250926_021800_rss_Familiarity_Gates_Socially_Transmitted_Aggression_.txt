@@ -1,0 +1,7 @@
+RSS Feed: Journal of Neuroscience current issue
+Source: https://www.jneurosci.org/rss/current.xml
+Link: http://www.jneurosci.org/cgi/content/short/45/39/e1018252025?rss=1
+
+Familiarity Gates Socially Transmitted Aggression via the Medial Amygdala
+
+Aggressive behavior can be acquired through observation, providing adaptive advantages but also posing significant social risks. In humans, individuals repeatedly exposed to aggression are more likely to engage in violent behavior later in life. Yet, the environmental factors and neural mechanisms underlying observationally acquired aggression remain unclear. Here, we propose that social familiarity with an aggressor is critical for activating neural circuits in observers that primes aggression. To investigate this, we established a novel behavioral paradigm termed "socially transmitted aggression (STA)," in which witness mice observed either familiar or unfamiliar demonstrators attacking intruder mice. Remarkably, male, but not female, witnesses displayed increased aggression only after observing familiar demonstrators, with no effect from unfamiliar ones. Given that excitatory neurons in the posterior&ndash;ventral segment of the medial amygdala (MeApv) have been implicated in aggres...

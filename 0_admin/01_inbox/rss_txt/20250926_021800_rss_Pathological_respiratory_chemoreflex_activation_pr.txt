@@ -1,0 +1,7 @@
+RSS Feed: Frontiers in Neuroscience | New and Recent Articles
+Source: https://www.frontiersin.org/journals/neuroscience/rss
+Link: https://www.frontiersin.org/articles/10.3389/fnins.2025.1619467
+
+Pathological respiratory chemoreflex activation predicts improvement of neurocognitive function in response to comtinuous positive airway pressure therapy
+
+IntroductionThere is a need for biomarkers predicting neurocognitive improvement following treatment of obstructive sleep apnea (OSA) with continuous positive airway pressure (CPAP). The role of sleep apnea endotypes as predictors are promising.ObjectiveTo assess the relationship between a high loop gain biomarker, elevated low frequency narrow band (e-LFCNB), and improvements in neurocognitive function in the Apnea Positive Pressure Long-term Efficacy Study (APPLES).MethodsThe e-LFCNB % metric was estimated on baseline polysomnography. Logistic regression analysis was performed to identify the potential association between e-LFCNB% of total sleep time and the observed improvement in neurocognitive function following the specified treatment.ResultsA total of 362 subjects received CPAP and had e-LFCNB % measurements. For Sustained Working Memory Test-Overall Mid-Day (SWMT-OMD), e-LFCNB% > 2.35% correlates positively with the proportion of participants who showed an increase in test scor...

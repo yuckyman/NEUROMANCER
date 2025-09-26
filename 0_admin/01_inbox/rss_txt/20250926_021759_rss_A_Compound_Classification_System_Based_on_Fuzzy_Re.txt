@@ -1,0 +1,7 @@
+RSS Feed: cs.AI updates on arXiv.org
+Source: https://arxiv.org/rss/cs.AI
+Link: https://arxiv.org/abs/2509.20523
+
+A Compound Classification System Based on Fuzzy Relations Applied to the Noise-Tolerant Control of a Bionic Hand via EMG Signal Recognition
+
+arXiv:2509.20523v1 Announce Type: new Abstract: Modern anthropomorphic upper limb bioprostheses are typically controlled by electromyographic (EMG) biosignals using a pattern recognition scheme. Unfortunately, there are many factors originating from the human source of objects to be classified and from the human-prosthesis interface that make it difficult to obtain an acceptable classification quality. One of these factors is the high susceptibility of biosignals to contamination, which can considerably reduce the quality of classification of a recognition system. In the paper, the authors propose a new recognition system intended for EMG based control of the hand prosthesis with detection of contaminated biosignals in order to mitigate the adverse effect of contaminations. The system consists of two ensembles: the set of one-class classifiers (OCC) to assess the degree of contamination of individual channels and the ensemble of K-nearest neighbours (KNN) classifier to recognise the pa...

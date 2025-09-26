@@ -1,0 +1,7 @@
+RSS Feed: cs.CV updates on arXiv.org
+Source: https://arxiv.org/rss/cs.CV
+Link: https://arxiv.org/abs/2509.20775
+
+CusEnhancer: A Zero-Shot Scene and Controllability Enhancement Method for Photo Customization via ResInversion
+
+arXiv:2509.20775v1 Announce Type: new Abstract: Recently remarkable progress has been made in synthesizing realistic human photos using text-to-image diffusion models. However, current approaches face degraded scenes, insufficient control, and suboptimal perceptual identity. We introduce CustomEnhancer, a novel framework to augment existing identity customization models. CustomEnhancer is a zero-shot enhancement pipeline that leverages face swapping techniques, pretrained diffusion model, to obtain additional representations in a zeroshot manner for encoding into personalized models. Through our proposed triple-flow fused PerGeneration approach, which identifies and combines two compatible counter-directional latent spaces to manipulate a pivotal space of personalized model, we unify the generation and reconstruction processes, realizing generation from three flows. Our pipeline also enables comprehensive training-free control over the generation process of personalized models, offerin...

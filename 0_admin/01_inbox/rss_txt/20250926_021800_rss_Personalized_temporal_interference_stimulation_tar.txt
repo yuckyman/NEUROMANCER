@@ -1,0 +1,7 @@
+RSS Feed: Frontiers in Neuroscience | New and Recent Articles
+Source: https://www.frontiersin.org/journals/neuroscience/rss
+Link: https://www.frontiersin.org/articles/10.3389/fnins.2025.1645903
+
+Personalized temporal interference stimulation targeting striatum reduces functional stability and dynamic connectivity variability in the sensorimotor network
+
+BackgroundFunctional stability within brain networks, particularly the sensorimotor network (SMN), is crucial for coherent motor control. Temporal Interference (TI) stimulation offers a non-invasive method to modulate deep brain structures like the striatum, yet its impact on dynamic functional stability across motor networks remains largely unexplored.MethodsTwenty-six healthy male participants separately underwent TI stimulation and Sham stimulation in a crossover, double-blind, randomized controlled trial with counterbalanced protocol. resting-state functional magnetic resonance imaging (rs-fMRI) was acquired before and during the stimulation. A total of 20 min TI stimulation (10 mA, Δf = 20 Hz) was applied to the right striatum using personalized electrode montages optimized. Dynamic functional connectivity (dFC) was computed using a sliding-window approach. Voxel-wise functional stability across the whole brain was quantified by Kendall’s concordance coefficient of voxel-to-voxel ...

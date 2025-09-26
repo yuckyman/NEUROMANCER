@@ -1,0 +1,7 @@
+RSS Feed: PLOS Computational Biology
+Source: https://journals.plos.org/ploscompbiol/feed/atom
+Link: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013507
+
+Ten quick tips for protecting health data using de-identification and perturbation of structured datasets
+
+by Tshikala Eddie Lulamba, Themba Mutemaringa, Nicki Tiffin Structured patient data generated within the health data ecosystem are shared both internally for operational use and also externally for research and public health benefit. Protecting individual privacy and health data confidentiality in these contexts relies on data de-identification and anonymisation, although there are no universally accepted standards for these processes and the techniques involved can be technically complex. We present practical recommendations grounded in the principle of data minimisation—avoiding unnecessary granularity and identifying variables that could lead to re-identification when combined with other datasets. We provide practical guidance for anonymising and perturbing structured health data in ways that support compliance with data protection laws, describing technical and operational methods for reducing re-identification risk that include rounding numerical values, replacing precise values w...

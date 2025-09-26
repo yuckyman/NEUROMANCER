@@ -1,0 +1,7 @@
+RSS Feed: Journal of Neuroscience current issue
+Source: https://www.jneurosci.org/rss/current.xml
+Link: http://www.jneurosci.org/cgi/content/short/45/39/e0386252025?rss=1
+
+Age-Related Positivity Bias in Emotion Recognition Is Linked to Lower Cognitive Performance and Altered Amygdala-Orbitofrontal Connectivity
+
+Changes in emotion recognition are observed in aging, in dementia, after brain lesions and as a function of mental health factors, such as depression. In aging, older adults have been argued to show a "positivity bias," which has been associated with a relatively spared recognition accuracy for positive emotion and an increased tendency to label emotions as positive. This bias has been suggested to support mental well-being. However, it has also been found in association with cognitive decline and brain lesions. Here, we investigated the behavioral and brain correlates of this age-related positivity bias. We used multimodal brain imaging in a large group of human adults (n = 665, 333 females) drawn from a population-derived cohort across the lifespan, together with a psychometric analysis of an emotion recognition task using facial expressions. Beyond reductions in expression recognition accuracy, older adults showed increased perceptual thresholds for negative emotions and a reduced t...

@@ -1,0 +1,7 @@
+RSS Feed: cs.CV updates on arXiv.org
+Source: https://arxiv.org/rss/cs.CV
+Link: https://arxiv.org/abs/2509.20946
+
+A Real-Time On-Device Defect Detection Framework for Laser Power-Meter Sensors via Unsupervised Learning
+
+arXiv:2509.20946v1 Announce Type: new Abstract: We present an automated vision-based system for defect detection and classification of laser power meter sensor coatings. Our approach addresses the critical challenge of identifying coating defects such as thermal damage and scratches that can compromise laser energy measurement accuracy in medical and industrial applications. The system employs an unsupervised anomaly detection framework that trains exclusively on ``good'' sensor images to learn normal coating distribution patterns, enabling detection of both known and novel defect types without requiring extensive labeled defect datasets. Our methodology consists of three key components: (1) a robust preprocessing pipeline using Laplacian edge detection and K-means clustering to segment the area of interest, (2) synthetic data augmentation via StyleGAN2, and (3) a UFlow-based neural network architecture for multi-scale feature extraction and anomaly map generation. Experimental evaluat...

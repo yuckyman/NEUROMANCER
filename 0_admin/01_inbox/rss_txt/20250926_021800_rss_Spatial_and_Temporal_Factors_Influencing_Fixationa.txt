@@ -1,0 +1,7 @@
+RSS Feed: Journal of Neuroscience current issue
+Source: https://www.jneurosci.org/rss/current.xml
+Link: http://www.jneurosci.org/cgi/content/short/45/39/e2175242025?rss=1
+
+Spatial and Temporal Factors Influencing Fixational Saccades
+
+Much research has focused on how perceptual, cognitive, and attentional processes modulate microsaccades, the small rapid gaze shifts that humans perform when attempting to maintain steady gaze on a point. Yet the reasons why these fixational saccades occur in the first place have remained unclear. Long-standing theories have argued for either spatial (i.e., gaze centering) or temporal mechanisms (i.e., a periodical release process). However, this debate has never been resolved, primarily because of uncertainty in determining where the observer looks. Whereas modern eye-trackers enable detection of small eye movements, accurate localization of the line of sight remains challenging. Here, rather than indirectly inferring gaze position from oculomotor activity, we used a gaze-contingent procedure to directly estimate the perceived center of the visual field, a method that has been previously shown to effectively reduce uncertainty. Our results from subjects of both sexes show that the ge...

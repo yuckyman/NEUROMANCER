@@ -1,0 +1,7 @@
+RSS Feed: cs.AI updates on arXiv.org
+Source: https://arxiv.org/rss/cs.AI
+Link: https://arxiv.org/abs/2509.20364
+
+An Approach to Checking Correctness for Agentic Systems
+
+arXiv:2509.20364v1 Announce Type: new Abstract: This paper presents a temporal expression language for monitoring AI agent behavior, enabling systematic error-detection of LLM-based agentic systems that exhibit variable outputs due to stochastic generation processes. Drawing from temporal logic techniques used in hardware verification, this approach monitors execution traces of agent tool calls and state transitions to detect deviations from expected behavioral patterns. Current error-detection approaches rely primarily on text matching of inputs and outputs, which proves fragile due to the natural language variability inherent in LLM responses. The proposed method instead focuses on the sequence of agent actions -- such as tool invocations and inter-agent communications -- allowing verification of system behavior independent of specific textual outputs. The temporal expression language provides assertions that capture correct behavioral patterns across multiple execution scenarios. Th...

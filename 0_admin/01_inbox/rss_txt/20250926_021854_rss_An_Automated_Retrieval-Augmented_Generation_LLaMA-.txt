@@ -1,0 +1,7 @@
+RSS Feed: cs.AI updates on arXiv.org
+Source: https://arxiv.org/rss/cs.AI
+Link: https://arxiv.org/abs/2509.20707
+
+An Automated Retrieval-Augmented Generation LLaMA-4 109B-based System for Evaluating Radiotherapy Treatment Plans
+
+arXiv:2509.20707v1 Announce Type: new Abstract: Purpose: To develop a retrieval-augmented generation (RAG) system powered by LLaMA-4 109B for automated, protocol-aware, and interpretable evaluation of radiotherapy treatment plans. Methods and Materials: We curated a multi-protocol dataset of 614 radiotherapy plans across four disease sites and constructed a knowledge base containing normalized dose metrics and protocol-defined constraints. The RAG system integrates three core modules: a retrieval engine optimized across five SentenceTransformer backbones, a percentile prediction component based on cohort similarity, and a clinical constraint checker. These tools are directed by a large language model (LLM) using a multi-step prompt-driven reasoning pipeline to produce concise, grounded evaluations. Results: Retrieval hyperparameters were optimized using Gaussian Process on a scalarized loss function combining root mean squared error (RMSE), mean absolute error (MAE), and clinically mot...

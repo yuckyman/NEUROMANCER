@@ -1,0 +1,7 @@
+RSS Feed: Frontiers in Neuroscience | New and Recent Articles
+Source: https://www.frontiersin.org/journals/neuroscience/rss
+Link: https://www.frontiersin.org/articles/10.3389/fnins.2025.1668993
+
+Accelerated brain age in Moyamoya disease patients: a deep learning approach and correlation with disease severity
+
+IntroductionThis study aims to utilize a DenseNet based deep learning framework to predict brain age in patients with Moyamoya disease (MMD), examining the relationship between brain age and disease severity to enhance diagnostic and prognostic capabilities.MethodsWe analyzed unenhanced MRI scans from 432 adult MMD patients and 565 normal controls collected between January 2018 and December 2022. Data preprocessing involved converting DICOM files to NIFTI format and labeling based on established diagnostic criteria. A DenseNet121 architecture, implemented using PyTorch, was employed to predict brain age. Statistical analyses included correlation assessments and comparisons between predicted brain age, chronological age, and MRA scores.ResultsThe predicted brain age for MMD patients was significantly higher than their chronological age, averaging 37.9 years versus 35.8 years (p < 0.01). For normal controls, predicted brain age matched chronological age at 36.5 years. Delta age (differen...

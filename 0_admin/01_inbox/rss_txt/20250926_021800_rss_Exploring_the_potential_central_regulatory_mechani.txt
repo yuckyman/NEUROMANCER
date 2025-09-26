@@ -1,0 +1,7 @@
+RSS Feed: Frontiers in Neuroscience | New and Recent Articles
+Source: https://www.frontiersin.org/journals/neuroscience/rss
+Link: https://www.frontiersin.org/articles/10.3389/fnins.2025.1647538
+
+Exploring the potential central regulatory mechanisms of acupuncture for acute-stage Bell’s palsy: an fMRI-based investigation
+
+ObjectiveThis study utilized resting-state functional magnetic resonance imaging (fMRI) to examine changes in brain functional activity following acupuncture treatment for acute Bell’s palsy (BP) and to investigate the potential central regulatory mechanisms involved.MethodsA total of 55 patients with acute Bell’s facial paralysis (within 1–7 days of onset) were enrolled in the patient group, while 48 individuals without the condition were included as the healthy control group. The patient group received acupuncture therapy at EX-HN16 (Qianzheng), SJ17 (Yifeng), ST2 (Sibai), GB14 (Yangbai), EX-HN4 (Yuyao), SI18 (Quanliao), ST6 (Jiache), ST4 (Dicang), ST8 (Touwei), and bilateral LI4 (Hegu) points on the affected side. Each session lasted 30 min and was administered three times a week (Wednesday, Friday, and Sunday) until day 28 of the disease course. The patient group underwent fMRI scans, House–Brackmann (H-B) grading, Sunnybrook scale evaluation, and facial disability index (FDI) asse...

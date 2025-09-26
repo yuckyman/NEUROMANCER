@@ -1,0 +1,7 @@
+RSS Feed: cs.CV updates on arXiv.org
+Source: https://arxiv.org/rss/cs.CV
+Link: https://arxiv.org/abs/2509.20748
+
+AI-Enabled Crater-Based Navigation for Lunar Mapping
+
+arXiv:2509.20748v1 Announce Type: new Abstract: Crater-Based Navigation (CBN) uses the ubiquitous impact craters of the Moon observed on images as natural landmarks to determine the six degrees of freedom pose of a spacecraft. To date, CBN has primarily been studied in the context of powered descent and landing. These missions are typically short in duration, with high-frequency imagery captured from a nadir viewpoint over well-lit terrain. In contrast, lunar mapping missions involve sparse, oblique imagery acquired under varying illumination conditions over potentially year-long campaigns, posing significantly greater challenges for pose estimation. We bridge this gap with STELLA - the first end-to-end CBN pipeline for long-duration lunar mapping. STELLA combines a Mask R-CNN-based crater detector, a descriptor-less crater identification module, a robust perspective-n-crater pose solver, and a batch orbit determination back-end. To rigorously test STELLA, we introduce CRESENT-365 - th...

@@ -1,0 +1,7 @@
+RSS Feed: PLOS Computational Biology
+Source: https://journals.plos.org/ploscompbiol/feed/atom
+Link: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012676
+
+Optimizing therapeutic outcomes with Mechanotherapy and Ultrasound Sonopermeation in solid tumors
+
+by Marina Koutsi, Triantafyllos Stylianopoulos, Fotios Mpekris Mechanical solid stress plays a pivotal role in tumor progression and therapeutic response. Elevated solid stress compresses intratumoral blood vessels, leading to hypoperfusion, and hypoxia, which impair oxygen and drug delivery. These conditions hinder the efficacy of drugs and promote tumor progression and treatment resistance compromising therapeutic outcomes. To enhance treatment efficacy, mechanotherapeutics and ultrasound sonopermeation have been developed to improve tumor perfusion and drug delivery. Mechanotherapy aims to reduce tumor stiffness and mechanical stress within tumors to normal levels leading to decompression of vessels while simultaneously improving perfusion. On the other hand, ultrasound sonopermeation strategy focuses on increasing non-invasively and transiently tumor vessel wall permeability to boost perfusion and thus, improve drug delivery. Within this framework and aiming to replicate published ...

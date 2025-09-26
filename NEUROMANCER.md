@@ -103,6 +103,12 @@ neuromancer is an ai-augmented system for managing knowledge and building stuff 
 - **knowledge management:** process inbox stuff, expand domains, execute projects
 - **system maintenance:** update deps, watch for issues
 
+### temporal awareness
+- **date accuracy:** always use `date +"%Y-%m-%d"` to get current date for frontmatter
+- **temporal context:** maintain accurate created/modified dates for knowledge evolution tracking
+- **johnny decimal system:** dates are crucial for organizing knowledge chronologically
+- **vault evolution:** accurate timestamps enable tracking how ideas develop over time
+
 ## file naming & properties
 
 ### naming conventions

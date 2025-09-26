@@ -1,0 +1,7 @@
+RSS Feed: Frontiers in Neuroscience | New and Recent Articles
+Source: https://www.frontiersin.org/journals/neuroscience/rss
+Link: https://www.frontiersin.org/articles/10.3389/fnins.2025.1650937
+
+Altered brain structural covariance networks of the thalamic subfields in right chronic capsular stroke
+
+BackgroundThe thalamus, along with its component nuclei, possesses extensive connections with various brain regions and is engaged in diverse functions. However, it is unknown whether the gray matter volume (GMV) covariance networks of thalamic subfields are selectively affected in chronic capsular stroke.MethodsWe recruited 45 patients with chronic right capsular strokes (CS) and 93 normal controls (NC) from three centers. The thalamus was segmented into 25 subfields using FreeSurfer (v7.1.1). A general linear model was applied to investigate intergroup differences in the GMV covariance network of each thalamic subfield with each voxel of the entire brain between CS and NC, correcting for confounders such as age, gender, total intracranial volume (TIV), and scanners (voxel-wise p < 0.001, cluster-wise FWE corrected p < 0.05).ResultsOur findings revealed that all 25 ipsilesional thalamic subfields in CS were atrophied (p < 0.05, FDR correction). Among these, 16 ipsilesional thalamic su...

@@ -1,0 +1,7 @@
+RSS Feed: Journal of Neuroscience current issue
+Source: https://www.jneurosci.org/rss/current.xml
+Link: http://www.jneurosci.org/cgi/content/short/45/39/e0943252025?rss=1
+
+Perisynaptic Astroglial Response to In Vivo Long-Term Potentiation and Concurrent Long-Term Depression in the Hippocampal Dentate Gyrus
+
+Perisynaptic astroglia provide critical molecular and structural support to regulate synaptic transmission and plasticity in the nanodomain of the axon&ndash;spine interface. Three-dimensional reconstruction from serial section electron microscopy (3DEM) was used to investigate relationships between perisynaptic astroglia and dendritic spine synapses undergoing plasticity in the adult hippocampus. Delta-burst stimulation (DBS) of the medial perforant pathway induced long-term potentiation (LTP) in the middle molecular layer and concurrent long-term depression (cLTD) in the outer molecular layer of the dentate gyrus in awake male rats. The contralateral hippocampus received baseline stimulation as a within-animal control. Brains were obtained 30&nbsp;min or 2&nbsp;h after DBS onset. An automated 3DEM pipeline was developed to enable unbiased quantification of astroglial coverage at the perimeter of the axon&ndash;spine interface. Under all conditions, &gt;85% of synapses had perisynapti...

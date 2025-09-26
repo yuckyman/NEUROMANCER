@@ -1,0 +1,7 @@
+RSS Feed: cs.HC updates on arXiv.org
+Source: https://arxiv.org/rss/cs.HC
+Link: https://arxiv.org/abs/2509.20653
+
+Cyber Racing Coach: A Haptic Shared Control Framework for Teaching Advanced Driving Skills
+
+arXiv:2509.20653v1 Announce Type: cross Abstract: This study introduces a haptic shared control framework designed to teach human drivers advanced driving skills. In this context, shared control refers to a driving mode where the human driver collaborates with an autonomous driving system to control the steering of a vehicle simultaneously. Advanced driving skills are those necessary to safely push the vehicle to its handling limits in high-performance driving such as racing and emergency obstacle avoidance. Previous research has demonstrated the performance and safety benefits of shared control schemes using both subjective and objective evaluations. However, these schemes have not been assessed for their impact on skill acquisition on complex and demanding tasks. Prior research on long-term skill acquisition either applies haptic shared control to simple tasks or employs other feedback methods like visual and auditory aids. To bridge this gap, this study creates a cyber racing coach ...
