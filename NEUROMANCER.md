@@ -63,6 +63,17 @@ neuromancer is an ai-augmented system for managing knowledge and building stuff 
 - **schedule:** cron job runs every 10 minutes
 - **flow:** `01_inbox/*.txt` → ollama analysis → `1_ideas/*.md`
 
+### neuromancer autonomous synthesis
+- **location:** `/3_projects/30_repos/sbp-mcp-server/`
+- **function:** autonomous knowledge amplification through hebbian learning
+- **ai models:** embeddinggemma (embeddings) + qwen3:8b (synthesis)
+- **knowledge base:** pulls from across the entire vault (1_ideas, 2_domain_amplification, 3_projects, 4_places, 6_academia)
+- **personality:** acts as ian's second brain hemisphere - curious, analytical, synthesizing
+- **schedule:** cron job runs every 30 minutes
+- **output:** generates synthesized notes with rich metadata and hebbian connections
+- **web integration:** posts to web server for public consumption
+- **why it's fun:** NEUROMANCER gets to explore the entire knowledge base, make unexpected connections, and act as a true digital cognitive partner - it's like having a second brain that never sleeps and is always learning!
+
 ### tech stack
 - **ai model:** qwen2.5:0.5b (397MB footprint, A/B tested vs smollm2)
 - **automation:** python + cron for continuous processing

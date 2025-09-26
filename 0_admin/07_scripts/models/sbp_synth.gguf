@@ -1,0 +1,8 @@
+{
+  "base_model": "qwen2.5:0.5b",
+  "training_pairs": 957,
+  "epochs": 1,
+  "learning_rate": 5e-05,
+  "trained_at": "2025-09-25T22:50:31.973504",
+  "hebbian_connections": 957
+}
