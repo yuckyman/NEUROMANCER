@@ -1,8 +1,7 @@
 ---
 title: 'PRISM: Product Retrieval In Shopping Carts using Hybrid Matching'
 link: https://arxiv.org/abs/2509.14985
-summary: 'Error communicating with Ollama API: 404 Client Error: Not Found for url:
-  http://localhost:11434/api/generate'
+summary: 'The article discusses a new hybrid approach called PRISM for product retrieval in retail settings. PRISM combines the strengths of both vision-language models and pixel-wise matching methods, providing efficient and accurate results. The method involves using a vision-language model (SigLIP) to retrieve the top 35 products from a catalog image, followed by a pixel-wise matching step. This approach leverages the advantages of both approaches while offering better performance in terms of efficiency and accuracy.'
 tags:
 - computer-vision
 - machine-learning

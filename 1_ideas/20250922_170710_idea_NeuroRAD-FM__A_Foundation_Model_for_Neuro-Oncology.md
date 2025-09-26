@@ -2,8 +2,7 @@
 title: 'NeuroRAD-FM: A Foundation Model for Neuro-Oncology with Distributionally Robust
   Training'
 link: https://arxiv.org/abs/2509.15416
-summary: 'Error communicating with Ollama API: 404 Client Error: Not Found for url:
-  http://localhost:11434/api/generate'
+summary: 'The article discusses a new neuro-oncology specific machine learning model called DRO-MG. The authors developed this model to address the challenges of heterogeneous data and tumor complexity in neuro-oncology research. They used a distributionally robust loss function, self-supervised backbones (BYOL, DINO, MAE, MoCo), and distributed optimization techniques to improve generalization across institutions. The model was pretrained on multi-institutional brain tumor MRI data and applied DRO to mitigate site and class imbalance in the training set. The authors demonstrated that the new model outperforms existing FMs in predicting uncommon molecular markers and improving survival prediction.'
 tags:
 - computer-vision
 - machine-learning

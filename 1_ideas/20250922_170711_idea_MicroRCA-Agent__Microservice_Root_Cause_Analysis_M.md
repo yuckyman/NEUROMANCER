@@ -2,8 +2,7 @@
 title: 'MicroRCA-Agent: Microservice Root Cause Analysis Method Based on Large Language
   Model Agents'
 link: https://arxiv.org/abs/2509.15635
-summary: 'Error communicating with Ollama API: 404 Client Error: Not Found for url:
-  http://localhost:11434/api/generate'
+summary: 'The paper introduces MicroRCA-Agent, an innovative solution for microservice root cause analysis based on large language model agents. It combines pre-trained algorithms with data filtering mechanisms to compress massive logs into fault features and integrates Isolation Forest unsupervised learning algorithms with status code validation to identify comprehensive trace anomalies. The system also employs a statistical symmetry ratio filtering mechanism coupled with a two-stage LLM analysis strategy for full-stack phenomenon summarization across node-service-pod hierarchies.'
 tags:
 - computer-vision
 - machine-learning

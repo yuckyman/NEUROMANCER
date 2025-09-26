@@ -16,6 +16,11 @@ import numpy as np
 from dataclasses import dataclass
 from pathlib import Path
 
+# import our new modules
+from reward_functions import RewardCalculator, TradingMetrics
+from action_masking import ActionMasker, ActionType, AccountState, Position
+from feature_extractors import TechnicalFeatureExtractor, FeatureConfig
+
 # configure logging
 logging.basicConfig(
     level=logging.INFO,

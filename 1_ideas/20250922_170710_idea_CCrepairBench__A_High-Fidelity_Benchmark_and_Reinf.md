@@ -2,8 +2,7 @@
 title: 'CCrepairBench: A High-Fidelity Benchmark and Reinforcement Learning Framework
   for C++ Compilation Repair'
 link: https://arxiv.org/abs/2509.15690
-summary: 'Error communicating with Ollama API: 404 Client Error: Not Found for url:
-  http://localhost:11434/api/generate'
+summary: 'The article discusses the challenge of automated repair for C++ compilation errors and presents a new approach to resolve these issues using large-scale datasets. The authors introduce a novel dataset called CCrepair that is constructed through a sophisticated pipeline, which they argue can generate semantically correct patches. They also propose a Reinforcement Learning (RL) paradigm guided by a hybrid reward signal, shifting the focus from mere compilability to the semantic quality of the fix. Finally, they establish a robust evaluation system centered on an LLM-as-a-Judge whose reliability has been rigorously validated. The authors argue that their approach can help developers produce more accurate and reliable fixes for C++ compilation errors.'
 tags:
 - computer-vision
 - machine-learning

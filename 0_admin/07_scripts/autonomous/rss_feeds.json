@@ -1,0 +1,116 @@
+{
+  "feeds": [
+    {
+      "name": "ArXiv AI",
+      "url": "https://arxiv.org/rss/cs.AI",
+      "category": "research",
+      "priority": 1.0,
+      "description": "Latest AI research papers from arXiv"
+    },
+    {
+      "name": "ArXiv Neuroscience",
+      "url": "https://arxiv.org/rss/q-bio.NC",
+      "category": "research",
+      "priority": 0.9,
+      "description": "Neuroscience research papers from arXiv"
+    },
+    {
+      "name": "Nature Machine Intelligence",
+      "url": "https://www.nature.com/natmachintell/rss/current",
+      "category": "research",
+      "priority": 0.95,
+      "description": "Nature's machine intelligence publication"
+    },
+    {
+      "name": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/topnews.rss",
+      "category": "technology",
+      "priority": 0.8,
+      "description": "MIT's technology news and analysis"
+    },
+    {
+      "name": "Hacker News",
+      "url": "https://hnrss.org/frontpage",
+      "category": "technology",
+      "priority": 0.85,
+      "description": "Hacker News front page discussions"
+    },
+    {
+      "name": "Towards Data Science",
+      "url": "https://towardsdatascience.com/feed",
+      "category": "technology",
+      "priority": 0.7,
+      "description": "Data science and machine learning articles"
+    },
+    {
+      "name": "AI Ethics Guidelines",
+      "url": "https://www.aiethicsguidelines.com/rss.xml",
+      "category": "ethics",
+      "priority": 0.75,
+      "description": "AI ethics and policy discussions"
+    },
+    {
+      "name": "OpenAI Blog",
+      "url": "https://openai.com/news/rss.xml",
+      "category": "research",
+      "priority": 0.9,
+      "description": "OpenAI's official blog and announcements"
+    },
+    {
+      "name": "DeepMind Blog",
+      "url": "https://deepmind.google/rss/",
+      "category": "research",
+      "priority": 0.9,
+      "description": "Google DeepMind's research blog"
+    },
+    {
+      "name": "Neuroscience News",
+      "url": "https://neurosciencenews.com/feed/",
+      "category": "neuroscience",
+      "priority": 0.85,
+      "description": "Latest neuroscience research and discoveries"
+    },
+    {
+      "name": "Science Daily AI",
+      "url": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "category": "research",
+      "priority": 0.75,
+      "description": "AI news from Science Daily"
+    },
+    {
+      "name": "The Gradient",
+      "url": "https://thegradient.pub/rss/",
+      "category": "research",
+      "priority": 0.8,
+      "description": "In-depth AI research publication"
+    },
+    {
+      "name": "VentureBeat AI",
+      "url": "https://venturebeat.com/ai/feed/",
+      "category": "technology",
+      "priority": 0.7,
+      "description": "AI industry news from VentureBeat"
+    },
+    {
+      "name": "IEEE Spectrum AI",
+      "url": "https://spectrum.ieee.org/rss/artificial-intelligence",
+      "category": "technology",
+      "priority": 0.8,
+      "description": "AI coverage from IEEE Spectrum"
+    },
+    {
+      "name": "Anthropic Blog",
+      "url": "https://www.anthropic.com/news/rss",
+      "category": "research",
+      "priority": 0.85,
+      "description": "Anthropic's AI safety research"
+    }
+  ],
+  "last_check": {},
+  "feed_categories": {
+    "research": ["arxiv", "nature", "deepmind", "anthropic", "gradient"],
+    "technology": ["mit", "hacker_news", "venturebeat", "ieee"],
+    "neuroscience": ["neuroscience", "science_daily"],
+    "ethics": ["ai_ethics"]
+  }
+}

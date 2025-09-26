@@ -2,8 +2,7 @@
 title: 'SSL-SSAW: Self-Supervised Learning with Sigmoid Self-Attention Weighting for
   Question-Based Sign Language Translation'
 link: https://arxiv.org/abs/2509.14036
-summary: 'Error communicating with Ollama API: 404 Client Error: Not Found for url:
-  http://localhost:11434/api/generate'
+summary: 'The paper discusses the Sign Language Translation (SLT) task and proposes a novel method called Question-based Sign Language Translation (QB-SLT). The key challenge is aligning multimodal features while leveraging context from questions to improve translation. The authors propose a cross-modality Self-supervised Learning with Sigmoid Self-attention Weighting (SSL-SSAW) fusion method for QB-SLT, which uses contrastive learning to align multimodality features and introduces an adaptive feature extra module for improved translation performance.'
 tags:
 - computer-vision
 - machine-learning

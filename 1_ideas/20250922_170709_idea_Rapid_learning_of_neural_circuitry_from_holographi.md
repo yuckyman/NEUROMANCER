@@ -2,8 +2,7 @@
 title: Rapid learning of neural circuitry from holographic ensemble stimulation enabled
   by model-based compressed sensing
 link: https://www.nature.com/articles/s41593-025-02053-7
-summary: 'Error communicating with Ollama API: 404 Client Error: Not Found for url:
-  http://localhost:11434/api/generate'
+summary: 'The authors have developed a novel computational model that uses two-photon holographic optogenetics and intracellular recordings to map the synaptic connectivity in living neurons. This approach allows them to visualize how different parts of the brain interact with each other, providing insights into how the nervous system functions. The researchers hope this technology will help scientists better understand how the brain processes information and how it can be used for therapeutic purposes.'
 tags:
 - brain-imaging
 - neuroimaging

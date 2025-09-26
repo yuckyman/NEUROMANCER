@@ -1,8 +1,7 @@
 ---
 title: 'The Provenance Problem: LLMs and the Breakdown of Citation Norms'
 link: https://arxiv.org/abs/2509.13365
-summary: 'Error communicating with Ollama API: 404 Client Error: Not Found for url:
-  http://localhost:11434/api/generate'
+summary: 'The article discusses the potential for AI-generated scientific writing to infringe on academic credit. ChatGPT is used by researchers to draft manuscripts, but if an AI system reproduces insights from a source without citation and does not act in good faith, this constitutes plagiarism. This phenomenon exemplifies the 'provenance problem' - a breakdown in the chain of scholarly credit that benefits from uncredited intellectual contributions. The article argues that this risk is particularly concerning given the increasing use of generative AI across disciplines.'
 tags:
 - computer-vision
 - machine-learning

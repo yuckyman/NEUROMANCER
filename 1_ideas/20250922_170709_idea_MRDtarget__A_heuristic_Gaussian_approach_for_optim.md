@@ -2,8 +2,9 @@
 title: 'MRDtarget: A heuristic Gaussian approach for optimizing targeted capture regions
   to enhance Minimal Residual Disease detection'
 link: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013443
-summary: 'Error communicating with Ollama API: 404 Client Error: Not Found for url:
-  http://localhost:11434/api/generate'
+summary: 'The article discusses the development of a novel method called tumor comprehensive genomic profiling (CGP) in conjunction with next-generation sequencing (NGS) to detect and monitor residual disease (MRD) in solid tumors. MRD detection primarily relies on circulating tumor DNA (ctDNA), offering high sensitivity and broad genomic coverage. However, challenges remain in designing cost-effective panels that maximize mutation detection while maintaining biological relevance.
+
+The authors developed a CGP-informed personalized MRD assay to detect tumor-derived mutations. This method allows for patient-specific customization of the assay by integrating tumor comprehensive genomic profiling with NGS. The goal is to design patient-specific panels and provide an accessible, affordable solution for monitoring residual disease in solid tumors.'
 tags:
 - computer-vision
 - machine-learning

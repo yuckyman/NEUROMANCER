@@ -2,8 +2,7 @@
 title: Grid cells accurately track movement during path integration-based navigation
   despite switching reference frames
 link: https://www.nature.com/articles/s41593-025-02054-6
-summary: 'Error communicating with Ollama API: 404 Client Error: Not Found for url:
-  http://localhost:11434/api/generate'
+summary: 'The article discusses the grid cell system, which is a type of neural network found in the brain. These cells are responsible for maintaining a stable pattern during self-motion-based tasks, but they do not maintain this pattern during non-self-motion-related tasks. Instead, these cells track animal movement in multiple local reference frames and reanchor to task-relevant objects, thus estimating local rather than global position.'
 tags:
 - computer-vision
 - machine-learning

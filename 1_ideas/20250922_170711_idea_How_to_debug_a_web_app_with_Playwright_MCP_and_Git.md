@@ -1,8 +1,7 @@
 ---
 title: How to debug a web app with Playwright MCP and GitHub Copilot
 link: https://github.blog/ai-and-ml/github-copilot/how-to-debug-a-web-app-with-playwright-mcp-and-github-copilot/
-summary: 'Error communicating with Ollama API: 404 Client Error: Not Found for url:
-  http://localhost:11434/api/generate'
+summary: 'The article discusses how to use the Playwright MCP (Multi-Process Chrome) server and GitHub Copilot to quickly reproduce and debug web app issues. It provides a step-by-step guide on how to set up the environment, install the necessary tools, and then demonstrate using GitHub Copilot to automatically run tests for your codebase. The article also highlights the benefits of this approach, such as reducing manual testing time and improving test coverage.'
 tags:
 - open-source
 - privacy

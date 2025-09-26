@@ -2,8 +2,7 @@
 title: Radiology Report Conditional 3D CT Generation with Multi Encoder Latent diffusion
   Model
 link: https://arxiv.org/abs/2509.14780
-summary: 'Error communicating with Ollama API: 404 Client Error: Not Found for url:
-  http://localhost:11434/api/generate'
+summary: 'The article discusses a new type of text-to-image latent diffusion models called Report2CT, which can directly synthesize 3D chest CT volumes from free-text radiology reports. The model integrates multiple medical text encoders to capture nuanced clinical context and uses three pretrained medical text encoders (BiomedVLP CXR BERT, MedEmbed, and ClinicalBERT) for radiology report condition. The model's performance was evaluated using Frechet Inception Distance (FID), which measures the distributional similarity between real synthetic distributions and the real CT volumes from the CT RATE dataset.'
 tags:
 - computer-vision
 - machine-learning

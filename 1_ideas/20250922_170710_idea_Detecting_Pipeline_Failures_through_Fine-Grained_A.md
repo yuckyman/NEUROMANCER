@@ -1,8 +1,7 @@
 ---
 title: Detecting Pipeline Failures through Fine-Grained Analysis of Web Agents
 link: https://arxiv.org/abs/2509.14382
-summary: 'Error communicating with Ollama API: 404 Client Error: Not Found for url:
-  http://localhost:11434/api/generate'
+summary: 'The article discusses the limitations of current evaluations in assessing the success of web agents powered by large language models (LLMs). It highlights that these evaluations often focus on overall performance, overlooking intermediate errors. The author proposes a modular evaluation framework called "SeeAct" that decomposes agent pipelines into interpretable stages for detailed error analysis. Using the SeeAct framework and the Mind2Web dataset as a case study, the author shows how this approach reveals actionable weaknesses in web agents that were previously overlooked by standard metrics.'
 tags:
 - computer-vision
 - machine-learning

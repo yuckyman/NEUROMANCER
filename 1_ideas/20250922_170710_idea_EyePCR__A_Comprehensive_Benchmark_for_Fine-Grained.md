@@ -2,8 +2,7 @@
 title: 'EyePCR: A Comprehensive Benchmark for Fine-Grained Perception, Knowledge Comprehension
   and Clinical Reasoning in Ophthalmic Surgery'
 link: https://arxiv.org/abs/2509.15596
-summary: 'Error communicating with Ollama API: 404 Client Error: Not Found for url:
-  http://localhost:11434/api/generate'
+summary: 'The article discusses the development of an EyePCR (eXtreme Large Language Model for Ophthalmic Surgery Analysis) benchmark that evaluates cognition across three domains: perception, comprehension, and reasoning in ophthalmic surgery. The benchmark is grounded in structured clinical knowledge to assess how surgeons perceive visual cues and combine them with domain-specific medical knowledge to make decisions. EyePCR offers a richly annotated corpus of over 210k VQAs covering 1048 fine-grained attributes for multi-view perception, medical knowledge graphs of more than 25k triplets for comprehension, and four clinically grounded reasoning tasks. This benchmark is particularly valuable in high-stakes scenarios like surgical settings, where traditional models may struggle to perform well due to the limited domain-specific knowledge available.'
 tags:
 - computer-vision
 - machine-learning

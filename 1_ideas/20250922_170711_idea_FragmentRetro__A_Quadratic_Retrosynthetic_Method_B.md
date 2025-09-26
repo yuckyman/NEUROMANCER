@@ -1,8 +1,7 @@
 ---
 title: 'FragmentRetro: A Quadratic Retrosynthetic Method Based on Fragmentation Algorithms'
 link: https://arxiv.org/abs/2509.15409
-summary: 'Error communicating with Ollama API: 404 Client Error: Not Found for url:
-  http://localhost:11434/api/generate'
+summary: 'The article discusses a new method called FragmentRetro, which combines fragmentation algorithms (BRICS and r-BRICS) with stock-aware exploration and pattern fingerprint screening to achieve quadratic complexity for retrosynthetic methods. The method recursively combines molecular fragments and verifies their presence in a building block set, providing sets of fragment combinations as retrosynthetic solutions. The article also provides formal computational analysis showing that tree search exhibits exponential complexity $O(b^h)$, DirectMultiStep scales as $O(h^6)$, and FragmentRetro achieves $O(h^2)$.'
 tags:
 - computer-vision
 - machine-learning

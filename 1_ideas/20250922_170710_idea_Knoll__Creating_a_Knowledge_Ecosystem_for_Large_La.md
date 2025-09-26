@@ -1,8 +1,7 @@
 ---
 title: 'Knoll: Creating a Knowledge Ecosystem for Large Language Models'
 link: https://arxiv.org/abs/2505.19335
-summary: 'Error communicating with Ollama API: 404 Client Error: Not Found for url:
-  http://localhost:11434/api/generate'
+summary: 'The article discusses a new approach called "Knoll" designed by researchers at Alibaba Cloud that allows end-users to create, curate, and configure custom knowledge modules using web content and shared documents. The goal is to make it easier for language models like ChatGPT and Claude to access general-purpose knowledge about the world from Internet data. Knoll uses a software infrastructure called "KNOOL" (pronounced "Knoll") that enables users to add, modify, and insert custom knowledge modules into an LLM (Large Language Model). The system supports multiple languages and can be used with various types of LLMs.'
 tags:
 - computer-vision
 - machine-learning

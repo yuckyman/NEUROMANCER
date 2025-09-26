@@ -1,8 +1,9 @@
 ---
 title: Adaptive algorithms for shaping behavior
 link: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013454
-summary: 'Error communicating with Ollama API: 404 Client Error: Not Found for url:
-  http://localhost:11434/api/generate'
+summary: 'The article discusses the principles behind effective shaping strategies for training animals like dogs. It proposes a teacher-student framework where an autonomous agent decides its student's task based on their transcript of successes and failures on previously assigned tasks. The algorithm uses Monte Carlo planning under uncertainty to achieve a careful balance between reinforcement and extinction, tracking learning rate to adaptively alternate between simpler and harder tasks.
+
+The article also introduces an adaptive shaping heuristic with minimal parameters that is near-optimal for a sequence learning task and robustly trains deep reinforcement learning agents on navigation tasks involving sparse, delayed rewar.'
 tags:
 - computer-vision
 - machine-learning

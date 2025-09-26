@@ -50,16 +50,37 @@ class AutonomousConfig:
     synthesis_batch_size: int = 10
     memory_retention_days: int = 7
     exploration_probability: float = 0.1  # 10% chance of unusual timing
+    max_processing_time_seconds: int = 300  # Timeout for processing cycles
 
     # Feed discovery
     auto_discover_feeds: bool = True
     max_feeds_per_domain: int = 5
     feed_health_check_hours: int = 24
+    feed_timeout_seconds: int = 30
+    max_retry_attempts: int = 3
+    retry_failed_feeds: bool = True
 
     # Learning parameters
     learning_rate: float = 0.1
     pattern_memory_size: int = 100
     temporal_discount: float = 0.95
+
+    # Discord settings
+    discord_personality_level: str = "friendly"
+    max_summary_length: int = 1000
+    include_connections: bool = True
+    add_personal_commentary: bool = True
+    theme_specific_comments: bool = True
+
+    # Output settings
+    log_level: str = "INFO"
+    log_file_size_mb: int = 10
+    save_synthesis_to_knowledge_base: bool = True
+    enable_detailed_analytics: bool = False
+
+    # Priority themes and source weights (simplified for now)
+    priority_themes: dict = None
+    source_weights: dict = None
 
 @dataclass
 class IntelligenceReport:

@@ -2,8 +2,7 @@
 title: 'RaceGAN: A Framework for Preserving Individuality while Converting Racial
   Information for Image-to-Image Translation'
 link: https://arxiv.org/abs/2509.15391
-summary: 'Error communicating with Ollama API: 404 Client Error: Not Found for url:
-  http://localhost:11434/api/generate'
+summary: 'The article discusses the development and potential applications of Generative Adversarial Networks (GANs) in unpaired image-to-image translation. It highlights that CycleGAN was the first to achieve this, but it had limitations for mapping deep style changes across various domains. StarGANv2 and StyleGAN were introduced to overcome these constraints, but they do not maintain individuality and need additional reference images. The study aims to translate racial traits using multi-domain image-to-image translation. RaceGAN is a novel framework that maps style codes over several domains while maintaining individuality and high level semantics without relying on an extra reference image.'
 tags:
 - computer-vision
 - machine-learning

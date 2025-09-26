@@ -2,8 +2,7 @@
 title: 'ORCA: Agentic Reasoning For Hallucination and Adversarial Robustness in Vision-Language
   Models'
 link: https://arxiv.org/abs/2509.15435
-summary: 'Error communicating with Ollama API: 404 Client Error: Not Found for url:
-  http://localhost:11434/api/generate'
+summary: 'The article discusses a novel approach called ORCA (Observe-Reason-Critique-Act) that aims to improve the factual accuracy and adversarial robustness of large vision-language models (LVLMs). ORCA operates through an Observe--Reason--Critique--Act loop, where it queries multiple visual tools with evidential questions, validates cross-model inconsistencies, and iteratively refines predictions without access to model internals or retraining. ORCA also stores intermediate reasoning traces, which supports auditable decision-making. The authors note that while the goal is to mitigate object-level hallucinations, ORCA exhibits emergent adversarial robustness without requiring model training.'
 tags:
 - computer-vision
 - machine-learning

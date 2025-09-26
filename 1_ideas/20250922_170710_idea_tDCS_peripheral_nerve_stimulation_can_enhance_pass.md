@@ -2,8 +2,7 @@
 title: tDCS peripheral nerve stimulation can enhance passive avoidance learning in
   rats
 link: https://www.frontiersin.org/articles/10.3389/fnins.2025.1623434
-summary: 'Error communicating with Ollama API: 404 Client Error: Not Found for url:
-  http://localhost:11434/api/generate'
+summary: 'The article discusses the use of transcranial direct current stimulation (tDCS) in rodents and its potential applications, particularly in improving passive avoidance tasks like PAT learning. The study involved a rat model where tDCS was found to improve PAT learning by reducing inhibition and increasing learning efficiency. However, this effect was not replicated in another tDCS experiment with sham controls. To investigate the role of peripheral nerve stimulation (PNS) in tDCS effects on PAT learning, researchers conducted two additional experiments: one using transcranial-only tDCS (transcranial-only tDCS) and the other using skin tDCS (transcutaneous-only tDCS). The analysis revealed that neither condition significantly improved PAT learning compared to sham controls. This non-replication experiment highlights the need for further research to better understand the mechanisms behind tDCS effects in different models and to explore whether PNS alone is responsible for these improvements.'
 tags:
 - computer-vision
 - machine-learning

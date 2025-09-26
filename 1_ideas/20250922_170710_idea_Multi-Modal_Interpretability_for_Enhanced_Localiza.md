@@ -1,8 +1,7 @@
 ---
 title: Multi-Modal Interpretability for Enhanced Localization in Vision-Language Models
 link: https://arxiv.org/abs/2509.15243
-summary: 'Error communicating with Ollama API: 404 Client Error: Not Found for url:
-  http://localhost:11434/api/generate'
+summary: 'The article discusses the development of the Multi-Modal Explainable Learning (MMEL) framework, which aims to enhance the interpretability of vision-language models while maintaining high performance. The authors introduce a novel Hierarchical Semantic Relationship Module that enhances model interpretability through multi-scale feature processing, adaptive attention weighting, and cross-modal alignment. The MMEL approach processes features at multiple semantic levels to capture relationships between image regions at different granularities, applying learnable mechanisms for improved model performance.'
 tags:
 - computer-vision
 - machine-learning

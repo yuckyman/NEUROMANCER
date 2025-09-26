@@ -2,8 +2,7 @@
 title: 'Topography of the insular cortex in heart rate control: high-precision mapping
   reveals critical role of the middle short gyrus'
 link: https://www.frontiersin.org/articles/10.3389/fnins.2025.1665378
-summary: 'Error communicating with Ollama API: 404 Client Error: Not Found for url:
-  http://localhost:11434/api/generate'
+summary: 'The article discusses the role of the insular cortex in regulating heart rate (HR). The study involved 487 electrical stimulations in patients with refractory epilepsy and investigated the incidence of evoked cardiac response after insula E-stim. The results showed that 40.8% of insula stimulations evoked a cardiac response, primarily located in the left insula. The electrode contacts in the declining HR group were predominantly distributed in the posterior insula, while those in the elevated HR group were more likely to be found in the middle short gyri.'
 tags:
 - computer-vision
 - machine-learning

@@ -1,8 +1,13 @@
 ---
 title: The Rise of Semantic Entity Resolution
 link: https://towardsdatascience.com/the-rise-of-semantic-entity-resolution/
-summary: 'Error communicating with Ollama API: 404 Client Error: Not Found for url:
-  http://localhost:11434/api/generate'
+summary: 'The article discusses the rise and evolution of semantic entity resolution, which is a type of machine learning technique used for schema alignment in data integration systems. This approach aims to improve automation and efficiency by bringing increased level of automation to schema alignment tasks, such as block matching and merging records into smaller, more efficient blocks.
+
+In traditional entity resolution methods, the focus was on statistical tricks like string distance or static rules to align records within a business domain. However, these methods were limited in their ability to handle large datasets efficiently and accurately.
+
+Semantic entity resolution uses representation learning techniques to gain deeper understanding of record meanings in domains beyond just text-based data. It aims to automate schema alignment by leveraging the knowledge graph factory approach, which involves creating a knowledge graph that represents the relationships between entities within a domain.
+
+The article highlights how semantic entity resolution has made significant progress in recent years, with advancements in both statistical and machine learning techniques. It also touches on the challenges and limitations of traditional entity resolution methods and their potential future applications in data integration systems.'
 tags:
 - computer-vision
 - machine-learning

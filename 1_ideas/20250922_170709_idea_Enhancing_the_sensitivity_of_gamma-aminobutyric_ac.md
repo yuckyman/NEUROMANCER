@@ -2,8 +2,7 @@
 title: Enhancing the sensitivity of gamma-aminobutyric acid and glutamate biosensors
   by electrochemically roughening platinum microelectrodes
 link: https://www.frontiersin.org/articles/10.3389/fnins.2025.1679591
-summary: 'Error communicating with Ollama API: 404 Client Error: Not Found for url:
-  http://localhost:11434/api/generate'
+summary: 'The article discusses the development of electrochemically roughened (ECR) platinum microelectrodes for detecting hydrogen peroxide (H2O2), a key neurotransmitter in processing and plasticity functions. The authors evaluated three microelectrode surface activation techniques—alcohol cleaning, electrochemical cleaning, and ECR—and their main effects on biosensor sensitivity. They found that the highest sensitivity was achieved with ECR treatment at varying frequencies ranging from 150 to 6,000 Hz.'
 tags:
 - computer-vision
 - machine-learning

@@ -10,6 +10,9 @@ pandas>=2.0.0
 matplotlib>=3.7.0
 seaborn>=0.12.0
 
+# technical analysis
+ta-lib>=0.4.0
+
 # optional: for enhanced logging
 colorlog>=6.7.0
 

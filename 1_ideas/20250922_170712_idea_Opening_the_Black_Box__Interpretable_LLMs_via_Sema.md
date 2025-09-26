@@ -1,8 +1,7 @@
 ---
 title: 'Opening the Black Box: Interpretable LLMs via Semantic Resonance Architecture'
 link: https://arxiv.org/abs/2509.14255
-summary: 'Error communicating with Ollama API: 404 Client Error: Not Found for url:
-  http://localhost:11434/api/generate'
+summary: 'The article discusses the development and implementation of a new type of large language model called the Semantic Resonance Architecture (SRA). SRA is an MoE approach that replaces learned gating with a Chamber of Semantic Resonance (CSR) module, which routes tokens based on cosine similarity with trainable semantic anchors. The architecture also introduces a Dispersion Loss that encourages orthogonality among anchors to enforce diverse specialization. Experiments on WikiText-103 show that SRA achieves a validation perplexity of 13.41, outperforming both a dense baseline (14.1) and a state-of-the-art model.'
 tags:
 - computer-vision
 - machine-learning

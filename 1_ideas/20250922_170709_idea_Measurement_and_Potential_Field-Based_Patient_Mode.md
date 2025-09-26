@@ -1,8 +1,7 @@
 ---
 title: Measurement and Potential Field-Based Patient Modeling for Model-Mediated Tele-ultrasound
 link: https://arxiv.org/abs/2509.15325
-summary: 'Error communicating with Ollama API: 404 Client Error: Not Found for url:
-  http://localhost:11434/api/generate'
+summary: 'The article discusses the use of teleoperated ultrasound (TU) for remote medical imaging access. It introduces a method that updates the internal potential field model of the patient with measured positions and forces to improve the accuracy of force feedback during the operation. The study also explores how point cloud-based models can be used in this context, providing a more transparent representation of the patient's surface features.'
 tags:
 - computer-vision
 - machine-learning

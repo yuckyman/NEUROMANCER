@@ -2,13 +2,8 @@
 title: 'Dual-Mode Visual System for Brain-Computer Interfaces: Integrating SSVEP and
   P300 Responses'
 link: https://arxiv.org/abs/2509.15439
-summary: 'The article discusses a novel light-emitting diode (LED)-based dual stimulation apparatus that integrates SSVEP (Steady-State Visual Evoked Potentials) and P300 responses from brain-computer interface (BCI) systems. The system uses four distinct frequencies, 7 Hz, 8 Hz, 9 Hz, and 10 Hz, to simulate forward, backward, right, and left visual stimuli. By combining these signals with SSVEP and P300 responses, the LED-based apparatus aims to enhance accuracy in classifying brain activity patterns for external device control.
-
-Key points:
-- Dual stimulation apparatus integrates SSVEP and P300 from BCI systems
-- Uses four frequencies: 7 Hz, 8 Hz, 9 Hz, and 10 Hz
-- Simulates forward, backward, right, and left visual stimuli
-- Enhances accuracy in classifying brain activity patterns'
+summary: 'Error communicating with Ollama API: 404 Client Error: Not Found for url:
+  http://localhost:11434/api/generate'
 tags:
 - computer-vision
 - machine-learning
