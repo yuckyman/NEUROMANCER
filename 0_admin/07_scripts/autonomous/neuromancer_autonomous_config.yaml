@@ -1,0 +1,61 @@
+# NEUROMANCER Autonomous Intelligence Configuration
+
+# Semi-stochastic scheduling
+base_interval_minutes: 20          # Base interval between runs
+jitter_factor: 0.25                # ±25% randomness in timing
+exploration_probability: 0.1       # 10% chance of unusual timing for discovery
+max_consecutive_failures: 3        # Pause after this many failures
+
+# Intelligence processing
+min_relevance_threshold: 0.7       # Minimum relevance score to send alerts
+max_alerts_per_hour: 5             # Rate limiting for Discord notifications
+synthesis_batch_size: 10           # Number of items to process for synthesis
+
+# Feed management
+auto_discover_feeds: true          # Automatically find new RSS feeds
+max_feeds_per_domain: 5            # Limit feeds per domain to prevent spam
+feed_health_check_hours: 24        # Check feed health every 24 hours
+
+# Learning and adaptation
+learning_rate: 0.1                 # How quickly to adapt to patterns
+pattern_memory_size: 100           # How many patterns to remember
+temporal_discount: 0.95            # Discount factor for older patterns
+
+# Resource management
+memory_retention_days: 7           # How long to keep synthesis history
+max_processing_time_seconds: 300   # Timeout for processing cycles
+
+# Discord personality settings
+discord_personality_level: "friendly"  # friendly, casual, professional, enthusiastic
+max_summary_length: 1000               # Maximum characters for Discord summaries
+include_connections: true              # Include connection analysis in Discord embeds
+add_personal_commentary: true          # Add casual "my take" commentary based on relevance
+theme_specific_comments: true          # Add theme-specific casual commentary
+
+# Synthesis themes and priorities
+priority_themes:
+  - ai_ml: 1.0          # AI/Machine Learning (highest priority)
+  - neuroscience: 0.9   # Brain research and BCI
+  - privacy: 0.8        # Privacy and security
+  - research: 0.7       # Academic research
+  - programming: 0.6    # Programming and development
+  - technology: 0.5     # General technology
+
+# Source quality weights (higher = more trusted)
+source_weights:
+  arxiv: 1.2           # Academic papers (highly trusted)
+  github: 1.1          # Code repositories
+  hacker_news: 0.95    # Tech community (good signal)
+  reddit: 0.75         # Social discussion (variable quality)
+  local_knowledge: 1.0 # Your own knowledge base
+
+# Error handling and resilience
+retry_failed_feeds: true          # Retry failed RSS feeds
+feed_timeout_seconds: 30          # Timeout for individual feeds
+max_retry_attempts: 3             # Maximum retries for failed operations
+
+# Output and logging
+log_level: "INFO"                 # DEBUG, INFO, WARNING, ERROR
+log_file_size_mb: 10              # Maximum log file size before rotation
+save_synthesis_to_knowledge_base: true  # Save synthesis reports to 1_ideas/
+enable_detailed_analytics: false  # Extra analytics for debugging

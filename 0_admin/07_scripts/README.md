@@ -125,6 +125,46 @@ CUSTOM_FEED_URL="https://example.com/feed.xml" python 0_admin/07_scripts/rss_ing
 RSS feeds → fetch new articles → create inbox files → process_inbox.py → 1_ideas/*.md
 ```
 
+## autonomous system
+
+**location**: `autonomous/` - Complete autonomous intelligence system
+
+The autonomous system is a semi-stochastic, quasi-autonomous AI that proactively discovers, synthesizes, and shares relevant information. It features:
+
+### core features
+- **adaptive timing**: learns when you're most active and adjusts scheduling
+- **multi-source synthesis**: combines RSS feeds, social media, and local knowledge
+- **casual discord messaging**: communicates like a friend sharing cool discoveries
+- **autonomous feed discovery**: automatically finds new RSS feeds
+- **cross-source intelligence**: connects information across different platforms
+
+### key files
+- `neuromancer_autonomous.py` - main autonomous intelligence system
+- `setup_neuromancer_autonomous.sh` - one-click setup script
+- `neuromancer_autonomous_config.yaml` - comprehensive configuration
+- `neuromancer_autonomous_README.md` - detailed documentation
+
+### setup
+```bash
+# Navigate to the autonomous folder
+cd 0_admin/07_scripts/autonomous/
+
+# Run setup script
+./setup_neuromancer_autonomous.sh
+```
+
+### what it does
+1. **gathers** intelligence from RSS feeds, social media, and local knowledge
+2. **synthesizes** information across multiple sources using AI
+3. **messages** you via Discord with casual, friendly updates
+4. **learns** from your patterns to improve relevance over time
+5. **saves** synthesis reports to your knowledge base
+
+### discord messaging examples
+- High priority: "🚨 YO! This is huge - you gotta see this! 🧬 Brain science!"
+- Medium priority: "🧠 Hey buddy! Found something that made me think of you:"
+- Personal commentary: "This is seriously cool stuff - I know you'll love diving into this! 🚀"
+
 ## other scripts
 - `check_active_vault.py` - determine which vault obsidian api is serving
 - `test_obsidian_api.py` - explore available api endpoints
