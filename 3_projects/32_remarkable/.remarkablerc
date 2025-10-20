@@ -1,0 +1,38 @@
+# reMarkable Notes Processing Configuration
+# This file configures how reMarkable SVG files are processed
+
+# Processing Options
+uuid_namespace: "remarkable-notes"  # Namespace for UUID generation
+default_tags:
+  - remarkable
+  - handwriting
+  - notes
+
+# File Naming
+markdown_suffix: ".md"
+preserve_original_svg: true
+
+# Frontmatter Template
+frontmatter_fields:
+  - id           # UUIDv5 identifier
+  - title        # Note title (derived from filename)
+  - created      # Creation timestamp
+  - modified     # Last modification timestamp
+  - type         # Always "remarkable-note"
+  - source       # Always "reMarkable"
+  - tags         # Array of tags
+  - svg_file     # Reference to original SVG
+
+# Additional Metadata
+add_processing_metadata: true
+add_transcription_section: true
+add_image_reference: true
+
+# Workflow Behavior
+auto_commit: true
+commit_message_prefix: "🤖 Process reMarkable notes:"
+
+# Advanced Options
+convert_to_png: false       # Future: Convert SVG to PNG
+ocr_enabled: false          # Future: OCR handwriting recognition
+sync_with_remarkable: false # Future: Direct sync with device
