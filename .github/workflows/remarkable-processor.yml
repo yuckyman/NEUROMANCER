@@ -1,0 +1,161 @@
+name: reMarkable Notes Processor
+
+on:
+  push:
+    paths:
+      - '3_projects/32_remarkable/**'
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  process-remarkable-notes:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install pyyaml pillow cairosvg uuid
+      
+      - name: Process reMarkable SVG files
+        run: |
+          python3 << 'PYTHON_SCRIPT'
+          import os
+          import re
+          import yaml
+          import uuid
+          from datetime import datetime
+          from pathlib import Path
+          
+          def generate_uuid5(name, namespace=None):
+              """Generate UUIDv5 based on file name"""
+              if namespace is None:
+                  namespace = uuid.NAMESPACE_DNS
+              return str(uuid.uuid5(namespace, name))
+          
+          def svg_to_markdown(svg_path):
+              """Convert SVG file to markdown with YAML frontmatter"""
+              svg_file = Path(svg_path)
+              
+              # Skip if not SVG
+              if svg_file.suffix.lower() != '.svg':
+                  return None
+              
+              # Read SVG content
+              try:
+                  with open(svg_file, 'r', encoding='utf-8') as f:
+                      svg_content = f.read()
+              except Exception as e:
+                  print(f"Error reading {svg_file}: {e}")
+                  return None
+              
+              # Generate UUID
+              file_uuid = generate_uuid5(svg_file.stem)
+              
+              # Extract metadata
+              title = svg_file.stem.replace('_', ' ').replace('-', ' ').title()
+              created_date = datetime.now().isoformat()
+              
+              # Create YAML frontmatter
+              frontmatter = {
+                  'id': file_uuid,
+                  'title': title,
+                  'created': created_date,
+                  'modified': created_date,
+                  'type': 'remarkable-note',
+                  'source': 'reMarkable',
+                  'tags': ['remarkable', 'handwriting', 'notes'],
+                  'svg_file': str(svg_file.name)
+              }
+              
+              # Build markdown content
+              md_content = "---\n"
+              md_content += yaml.dump(frontmatter, sort_keys=False, allow_unicode=True)
+              md_content += "---\n\n"
+              md_content += f"# {title}\n\n"
+              md_content += f"**UUID:** `{file_uuid}`\n\n"
+              md_content += "## Original Note\n\n"
+              md_content += f"![{title}]({svg_file.name})\n\n"
+              md_content += "## Transcription\n\n"
+              md_content += "_Add transcription or notes here_\n\n"
+              md_content += "## Metadata\n\n"
+              md_content += f"- **Source File:** `{svg_file.name}`\n"
+              md_content += f"- **Processed:** {created_date}\n"
+              md_content += f"- **UUID:** {file_uuid}\n"
+              
+              # Save markdown file
+              md_file = svg_file.with_suffix('.md')
+              try:
+                  with open(md_file, 'w', encoding='utf-8') as f:
+                      f.write(md_content)
+                  print(f"✓ Processed: {svg_file.name} → {md_file.name}")
+                  return md_file
+              except Exception as e:
+                  print(f"Error writing {md_file}: {e}")
+                  return None
+          
+          # Process all SVG files in the remarkable directory
+          remarkable_dir = Path('3_projects/32_remarkable')
+          
+          if not remarkable_dir.exists():
+              print(f"Directory not found: {remarkable_dir}")
+              exit(0)
+          
+          svg_files = list(remarkable_dir.glob('*.svg'))
+          
+          if not svg_files:
+              print("No SVG files found to process")
+              exit(0)
+          
+          print(f"Found {len(svg_files)} SVG file(s) to process")
+          
+          processed_files = []
+          for svg_file in svg_files:
+              result = svg_to_markdown(svg_file)
+              if result:
+                  processed_files.append(result)
+          
+          print(f"\nProcessed {len(processed_files)} file(s) successfully")
+          PYTHON_SCRIPT
+      
+      - name: Commit processed files
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          
+          # Add all markdown files in remarkable directory
+          git add 3_projects/32_remarkable/*.md || true
+          
+          # Check if there are changes to commit
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "🤖 Process reMarkable notes: Add markdown with YAML frontmatter and UUIDs"
+            git push
+          fi
+      
+      - name: Generate summary
+        if: always()
+        run: |
+          echo "## reMarkable Notes Processing Summary" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "**Directory:** \`3_projects/32_remarkable/\`" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "### Changes" >> $GITHUB_STEP_SUMMARY
+          echo "\`\`\`" >> $GITHUB_STEP_SUMMARY
+          git status --short 3_projects/32_remarkable/ || echo "No changes detected"
+          echo "\`\`\`" >> $GITHUB_STEP_SUMMARY
